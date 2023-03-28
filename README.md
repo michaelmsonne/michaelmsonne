@@ -1,4 +1,19 @@
-### Hi there, my name is Michael Morten Sonne👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/michaelmsonne/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=michaelmsonne&style=flat-square&color=blue" alt=""/>
+  <h1>
+    Hi there, my name is Michael Morten Sonne
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 A little bit about me:
 
@@ -13,7 +28,10 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
   <img align="left" alt="Seif Bassem's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://blog.sonnes.cloud/">
-  <img align="left" alt="Seif Bassem's blog" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg" />
+  <img align="left" alt="Sonne´s blog" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg" />
+</a>
+<a href="https://cv.sonnes.cloud/">
+  <img align="left" alt="Michael´s CV" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg" />
 </a>
 
 </br>
@@ -35,7 +53,10 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 <p>
 <a href="https://azure.microsoft.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" title="Azure" alt="Azure" width="40" height="40"/></a>&nbsp;
 <a href="https://docs.microsoft.com/azure/azure-arc/overview"><img src="http://code.benco.io/icon-collection/azure-icons/Azure-Arc.svg" title="Azure Arc UI" alt="Azure Arc" width="40" height="40"/></a>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".net" alt=".net" width="40" height="40"/>&nbsp;
 <a href="https://docs.microsoft.com/azure/cost-management-billing/cost-management-billing-overview"><img src="http://code.benco.io/icon-collection/azure-icons/Cost-Management.svg" title="Azure Cost Management" alt="Azure Cost Management" width="40" height="40"/></a>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
 <img src="http://code.benco.io/icon-collection/azure-icons/Dev-Console.svg" title="Automation" alt="Automation" width="40" height="40"/>&nbsp;
 <a href="https://docs.microsoft.com/azure/governance/"><img src="http://code.benco.io/icon-collection/azure-icons/Identity-Governance.svg" title="Azure Governance" alt="Azure Governance" width="40" height="40"/></a>&nbsp; - more to come...
 </p>
@@ -52,6 +73,8 @@ Starting this blog up...
 [![Seif's github stats](https://github-readme-stats.vercel.app/api?username=michaelmsonne)](https://github.com/michaelmsonne)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmsonne&layout=compact)](https://github.com/michaelmsonne)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=michaelmsonne)](https://git.io/streak-stats)
 
 <!--
 **michaelmsonne/michaelmsonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
