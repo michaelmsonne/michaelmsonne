@@ -27,6 +27,8 @@ Code signing
 
 Most of my PowerShell (.ps1) and programs (.exe) files are signed with my code signing certificate. This way you can run it, if you require scripts to be signed. Of course you can also choose to sign it with your own internal code signing certificate.
 
+See Certificate information here: [Trusted Publisher Certificate by Sectigo](https://github.com/michaelmsonne/michaelmsonne/tree/main/Trusted_Publisher_Certificate)
+
 ## 👉🏻 Get in touch
 Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 
@@ -69,7 +71,9 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 
 ## 📝 Latest Blog Posts and activities
 
-- [Find Active Directory accounts configured to use DES and RC4 Kerberos encryption (is insecure!)](https://blog.sonnes.cloud/2023/01/find-active-directory-accounts.html)
+- [Find Active Directory accounts configured to use DES and RC4 Kerberos encryption (is insecure!)](https://blog.sonnes.cloud/find-active-directory-accounts-configured-to-use-des-and-rc4-kerberos-encryption-is-insecure/)
+- [Configure Exchange Online Certificate Based Authentication for unattended scripts](https://blog.sonnes.cloud/configure-exchange-online-certificate-based-authentication-for-unattended-scripts/)
+- [Set up a free Microsoft Intune lab tenant with Microsoft 365 developer subscription](https://blog.sonnes.cloud/set-up-a-free-microsoft-intune-lab-tenant-with-microsoft-365-developer-subscription/)
 - ...
 
 Starting this blog up...
