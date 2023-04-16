@@ -20,6 +20,12 @@ A little bit about me:
 - Security Specialist @ Region Hovedstaden in Denmark
 - Helped customers all over the world to accelerate their digital transformation leveraging Microsoft Azure/Cloud services
 - 6+ years as an IT pro
+- 
+## 🔐 Security
+
+Code signing
+
+Most of my PowerShell (.ps1) and programs (.exe) files are signed with my code signing certificate. This way you can run it, if you require scripts to be signed. Of course you can also choose to sign it with your own internal code signing certificate.
 
 ## 👉🏻 Get in touch
 Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
