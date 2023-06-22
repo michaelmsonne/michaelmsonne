@@ -72,7 +72,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 ## 📝 Latest Blog Posts and activities
 
 ## Recent updates
-<!-- LATESTACTIVITY:START -->
+<!-- LATESTACTIVITYBLOG:START -->
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/a2c46626ec...cbad643056)
 - [The Importance of Updating Installed PowerShell Modules – And automate it too with my script](https://blog.sonnes.cloud/the-importance-of-updating-installed-powershell-modules-and-automate-it-too/)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/dbc4f57acb...a52be31c87)
@@ -97,7 +97,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 - [How to use Windows LAPS – PowerShell](https://blog.sonnes.cloud/how-to-use-windows-laps-powershell/)
 - [Windows LAPS and management through Microsoft Intune](https://blog.sonnes.cloud/windows-laps-and-management-through-microsoft-intune/)
 - [Securing your Azure/Microsoft 365 environment with Principle of Least Privilege and Azure PIM](https://blog.sonnes.cloud/securing-your-azure-microsoft-365-environment-with-principle-of-least-privilege-and-azure-pim/)
-<!-- LATESTACTIVITY:END -->
+<!-- LATESTACTIVITYBLOG:END -->
 
 Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
  
