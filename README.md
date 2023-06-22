@@ -73,6 +73,16 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 
 ## Recent updates
 <!-- LATESTACTIVITYBLOG:START -->
+- [The Importance of Updating Installed PowerShell Modules – And automate it too with my script](https://blog.sonnes.cloud/the-importance-of-updating-installed-powershell-modules-and-automate-it-too/)
+- [Azure AD Application Activity Report Analysis](https://blog.sonnes.cloud/azure-ad-application-activity-report-analysis/)
+- [Block sign-in from shared mailboxes](https://blog.sonnes.cloud/block-sign-in-from-shared-mailboxes/)
+- [Azure DevOps – Use Azure Key Vauls for secrets in your Pipelines](https://blog.sonnes.cloud/azure-devops-use-azure-key-vauls-for-secrets-in-your-pipelines/)
+- [Azure AD Admin and use of PIM Email forwarding for your admin accounts notifications](https://blog.sonnes.cloud/azure-ad-admin-and-use-of-pim-email-forwarding-for-your-admin-accounts-notifications/)
+- [Azure DevOps – Get a local backup of your code repositories](https://blog.sonnes.cloud/azure-devops-get-a-local-backup-of-your-code-repositories/)
+- [Break Glass account – and how to get notified when a Break Glass account is used](https://blog.sonnes.cloud/break-glass-account-and-how-to-get-notified-when-a-break-glass-account-is-used/)
+- [How to use Windows LAPS – PowerShell](https://blog.sonnes.cloud/how-to-use-windows-laps-powershell/)
+- [Windows LAPS and management through Microsoft Intune](https://blog.sonnes.cloud/windows-laps-and-management-through-microsoft-intune/)
+- [Securing your Azure/Microsoft 365 environment with Principle of Least Privilege and Azure PIM](https://blog.sonnes.cloud/securing-your-azure-microsoft-365-environment-with-principle-of-least-privilege-and-azure-pim/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
