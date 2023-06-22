@@ -71,17 +71,10 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 
 ## 📝 Latest Blog Posts and activities
 
-- [Find Active Directory accounts configured to use DES and RC4 Kerberos encryption (is insecure!)](https://blog.sonnes.cloud/find-active-directory-accounts-configured-to-use-des-and-rc4-kerberos-encryption-is-insecure/)
-- [Configure Exchange Online Certificate Based Authentication for unattended scripts](https://blog.sonnes.cloud/configure-exchange-online-certificate-based-authentication-for-unattended-scripts/)
-- [Set up a free Microsoft Intune lab tenant with Microsoft 365 developer subscription](https://blog.sonnes.cloud/set-up-a-free-microsoft-intune-lab-tenant-with-microsoft-365-developer-subscription/)
-- [The Importance of Updating Installed PowerShell Modules – And automate it too with my script](https://blog.sonnes.cloud/the-importance-of-updating-installed-powershell-modules-and-automate-it-too/)
-- [Azure DevOps – Use Azure Key Vauls for secrets in your Pipelines](https://blog.sonnes.cloud/azure-devops-use-azure-key-vauls-for-secrets-in-your-pipelines/)
-- [Break Glass account – and how to get notified when a Break Glass account is used](https://blog.sonnes.cloud/break-glass-account-and-how-to-get-notified-when-a-break-glass-account-is-used/)
-- [Building an Active Directory/Windows Server Lab](https://blog.sonnes.cloud/building-an-active-directory-windows-server-lab/)
-- [12 quick tips to secure your identities in Microsoft 365](https://blog.sonnes.cloud/12-tips-to-secure-your-identities-in-microsoft-365/)
-- [What is Customer lockbox in Microsoft 365, and how to use it?](https://blog.sonnes.cloud/what-is-customer-lockbox-in-microsoft-365-and-how-to-use-it/)
-- [What is Customer lockbox in Azure, and how to use it?](https://blog.sonnes.cloud/what-is-customer-lockbox-in-azure-and-how-to-use-it/)
-- ...
+## Recent updates
+<!-- LATESTACTIVITY:START -->
+
+<!-- LATESTACTIVITY:END -->
 
 Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
  
