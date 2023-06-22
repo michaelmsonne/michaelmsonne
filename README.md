@@ -89,6 +89,20 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/a2c46626ec...cbad643056)
+- [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/dbc4f57acb...a52be31c87)
+- [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/9a29ef6cbf...8ae365d7df)
+- [michaelmsonne released 1.0.0.1 - release at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.1)
+- [michaelmsonne created a tag 1.0.0.1 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/tree/1.0.0.1)
+- [michaelmsonne deleted branch patch-2 at michaelmsonne/azure-devops-docs](https://github.com/)
+- [michaelmsonne starred microsoft/shell-intune-samples](https://github.com/microsoft/shell-intune-samples)
+- [michaelmsonne opened a pull request in MicrosoftDocs/windows-dev-docs](https://github.com/MicrosoftDocs/windows-dev-docs/pull/4484)
+- [michaelmsonne pushed to patch-1 in michaelmsonne/windows-dev-docs](https://github.com/michaelmsonne/windows-dev-docs/compare/f0895b2564...2c7e145e4a)
+- [michaelmsonne forked michaelmsonne/windows-dev-docs from MicrosoftDocs/windows-dev-docs](https://github.com/michaelmsonne/windows-dev-docs)
+- [michaelmsonne pushed to patch-2 in michaelmsonne/windows-uwp](https://github.com/michaelmsonne/windows-uwp/compare/f0895b2564...2320c19eb4)
+- [michaelmsonne commented on pull request MicrosoftDocs/azure-devops-docs#13326](https://github.com/MicrosoftDocs/azure-devops-docs/pull/13326#issuecomment-1564632731)
+- [michaelmsonne released 1.0.0.0 - release at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.0)
+- [michaelmsonne created a tag 1.0.0.0 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/tree/1.0.0.0)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ---
