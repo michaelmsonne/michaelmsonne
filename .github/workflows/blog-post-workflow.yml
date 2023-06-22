@@ -16,7 +16,7 @@ jobs:
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: 'https://github.com/michaelmsonne.atom,https://blog.sonnes.cloud/feed/'
+          feed_list: 'https://blog.sonnes.cloud/feed/'
           max_post_count: '25'
           comment_tag_name: 'LATESTACTIVITY'
           remove_duplicates: 'true'
