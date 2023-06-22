@@ -73,7 +73,6 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
-
 <!-- LATESTACTIVITY:END -->
 
 Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
