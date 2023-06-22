@@ -4,16 +4,17 @@ on:
     # Runs every hour
     - cron: '0 * * * *'
   workflow_dispatch:
-
+permissions:
+  contents: write # To write the generated contents to the readme
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest activities 
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Pull in posts
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: 'https://github.com/michaelmsonne.atom,https://blog.sonnes.cloud/feed/'
           max_post_count: '25'
