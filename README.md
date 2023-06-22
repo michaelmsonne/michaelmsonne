@@ -69,9 +69,8 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 <a href="https://docs.microsoft.com/azure/governance/"><img src="http://code.benco.io/icon-collection/azure-icons/Identity-Governance.svg" title="Azure Governance" alt="Azure Governance" width="40" height="40"/></a>&nbsp; - more to come...
 </p>
 
-## 📝 Latest Blog Posts and activities
+## 📝 Latest Blog Posts activities
 
-## Recent updates
 <!-- LATESTACTIVITYBLOG:START -->
 - [The Importance of Updating Installed PowerShell Modules – And automate it too with my script](https://blog.sonnes.cloud/the-importance-of-updating-installed-powershell-modules-and-automate-it-too/)
 - [Azure AD Application Activity Report Analysis](https://blog.sonnes.cloud/azure-ad-application-activity-report-analysis/)
@@ -86,7 +85,12 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 <!-- LATESTACTIVITYBLOG:END -->
 
 Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
- 
+
+## 🧑‍💻 Latest GitHub activities
+
+<!-- LATESTACTIVITYGITHUB:START -->
+<!-- LATESTACTIVITYGITHUB:END -->
+
 ---
 ## GitHub activity 
 [![Seif's github stats](https://github-readme-stats.vercel.app/api?username=michaelmsonne)](https://github.com/michaelmsonne)
