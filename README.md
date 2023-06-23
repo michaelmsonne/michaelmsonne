@@ -89,6 +89,7 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne starred michaelmsonne/public](https://github.com/michaelmsonne/public)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/5170d07f60...16f5768358)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/dbc4f57acb...a52be31c87)
 - [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/9a29ef6cbf...8ae365d7df)
@@ -99,7 +100,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne opened a pull request in MicrosoftDocs/windows-dev-docs](https://github.com/MicrosoftDocs/windows-dev-docs/pull/4484)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/windows-dev-docs](https://github.com/michaelmsonne/windows-dev-docs/compare/f0895b2564...2c7e145e4a)
 - [michaelmsonne forked michaelmsonne/windows-dev-docs from MicrosoftDocs/windows-dev-docs](https://github.com/michaelmsonne/windows-dev-docs)
-- [michaelmsonne pushed to patch-2 in michaelmsonne/windows-uwp](https://github.com/michaelmsonne/windows-uwp/compare/f0895b2564...2320c19eb4)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![Seif's github stats](https://github-readme-stats.vercel.app/api?username=michaelmsonne)](https://github.com/michaelmsonne)
