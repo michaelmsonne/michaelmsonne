@@ -89,6 +89,7 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne opened an issue in andrew-s-taylor/public](https://github.com/andrew-s-taylor/public/issues/15)
 - [michaelmsonne starred michaelmsonne/public](https://github.com/michaelmsonne/public)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/5170d07f60...16f5768358)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/dbc4f57acb...a52be31c87)
