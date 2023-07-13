@@ -72,7 +72,6 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
-- [Messed up NTFS permissions? – how to cleanup and remove users/groups there should NOT be there](https://blog.sonnes.cloud/messed-up-ntfs-permissions-how-to-cleanup-and-remove-users-groups-there-should-not-be-there/)
 - [Lets create a Free Lab with Microsoft Defender for Endpoint and Simulate some Ransomware Attacks – get the correct free trial](https://blog.sonnes.cloud/lets-create-a-free-lab-with-microsoft-defender-for-endpoint-and-simulate-some-ransomware-attacks-get-the-correct-free-trial/)
 - [Azure AD – Why use Cloud-Only Administrative/normal accounts and how to protect them in Azure AD from on-premises attacks](https://blog.sonnes.cloud/why-use-cloud-only-accounts-and-how-to-protect-them-in-azure-ad-from-on-premises-attacks/)
 - [The Importance of Updating Installed PowerShell Modules – And automate it too with my script](https://blog.sonnes.cloud/the-importance-of-updating-installed-powershell-modules-and-automate-it-too/)
@@ -82,6 +81,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 - [Azure AD Admin and use of PIM Email forwarding for your admin accounts notifications](https://blog.sonnes.cloud/azure-ad-admin-and-use-of-pim-email-forwarding-for-your-admin-accounts-notifications/)
 - [Azure DevOps – Get a local backup of your code repositories](https://blog.sonnes.cloud/azure-devops-get-a-local-backup-of-your-code-repositories/)
 - [Break Glass account – and how to get notified when a Break Glass account is used](https://blog.sonnes.cloud/break-glass-account-and-how-to-get-notified-when-a-break-glass-account-is-used/)
+- [How to use Windows LAPS – PowerShell](https://blog.sonnes.cloud/how-to-use-windows-laps-powershell/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
