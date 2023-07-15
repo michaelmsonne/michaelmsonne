@@ -25,18 +25,20 @@ A little bit about me:
 
 Code signing
 
-Most of my PowerShell (.ps1) and programs (.exe) files are signed with my code signing certificate. This way you can run it, if you require scripts to be signed or to validate it comes from me. Of course you can also choose to sign it with your own internal code signing certificate.
+Most of my PowerShell (.ps1), programs (.exe) and Releases files will signed with my code signing certificate. This way you can run it, if you require scripts to be signed or to validate it comes from me. Of course you can also choose to sign it with your own internal code signing certificate.
 
 See Certificate information here: [Trusted Publisher Certificate by Sectigo](https://github.com/michaelmsonne/michaelmsonne/tree/main/Trusted_Publisher_Certificate) - Sectigo Public Code Signing CA R36, Sectigo Limited
 
 ## 👉🏻 Get in touch
 Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 
-<a href="https://www.linkedin.com/in/michaelmsonne/">
-  <img align="left" alt="Seif Bassem's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michaelmsonne/)
+
 <a href="https://blog.sonnes.cloud/">
   <img align="left" alt="Sonne´s blog" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg" />
+</a>
+<a href="https://sonnes.cloud/">
+  <img align="left" alt="Michael´s CV" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg" />
 </a>
 <a href="https://cv.sonnes.cloud/">
   <img align="left" alt="Michael´s CV" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg" />
@@ -55,6 +57,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 ![image](https://images.credly.com/size/110x110/images/e1b12077-7be7-493a-8b7a-afa6e58182ce/microsoft365-security-administrator-associate-600x600.png)
 ![image](https://images.credly.com/size/110x110/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png)
 ![image](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
+...
 
 ## Current projects and interests
 
