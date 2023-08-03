@@ -92,10 +92,10 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne commented on issue andrew-s-taylor/public#15](https://github.com/andrew-s-taylor/public/issues/15#issuecomment-1663697706)
 - [michaelmsonne commented on issue microsoft/Microsoft-Win32-Content-Prep-Tool#85](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool/issues/85#issuecomment-1659039195)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/9b65e3ce4b...da875d8093)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/a52be31c87...e23962811f)
-- [michaelmsonne commented on issue andrew-s-taylor/public#15](https://github.com/andrew-s-taylor/public/issues/15#issuecomment-1619774610)
 - [michaelmsonne opened an issue in andrew-s-taylor/public](https://github.com/andrew-s-taylor/public/issues/15)
 - [michaelmsonne starred michaelmsonne/public](https://github.com/michaelmsonne/public)
 - [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/9a29ef6cbf...8ae365d7df)
