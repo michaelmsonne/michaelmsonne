@@ -92,6 +92,7 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne forked michaelmsonne/WhyNotWin11 from rcmaehl/WhyNotWin11](https://github.com/michaelmsonne/WhyNotWin11)
 - [michaelmsonne commented on issue andrew-s-taylor/public#15](https://github.com/andrew-s-taylor/public/issues/15#issuecomment-1663697706)
 - [michaelmsonne commented on issue microsoft/Microsoft-Win32-Content-Prep-Tool#85](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool/issues/85#issuecomment-1659039195)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/9b65e3ce4b...da875d8093)
