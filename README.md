@@ -92,6 +92,7 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in SonnesTest/TestRepo](https://github.com/SonnesTest/TestRepo/compare/1e3f6ecde3...7194f53b46)
 - [michaelmsonne opened a pull request in rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11/pull/730)
 - [michaelmsonne created a branch main-1 in michaelmsonne/WhyNotWin11](https://github.com/michaelmsonne/WhyNotWin11/compare/main-1)
 - [michaelmsonne forked michaelmsonne/WhyNotWin11 from rcmaehl/WhyNotWin11](https://github.com/michaelmsonne/WhyNotWin11)
@@ -103,7 +104,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne starred michaelmsonne/public](https://github.com/michaelmsonne/public)
 - [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/9a29ef6cbf...8ae365d7df)
 - [michaelmsonne released 1.0.0.1 - release at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.1)
-- [michaelmsonne created a tag 1.0.0.1 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/tree/1.0.0.1)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![Seif's github stats](https://github-readme-stats.vercel.app/api?username=michaelmsonne)](https://github.com/michaelmsonne)
