@@ -17,9 +17,9 @@
 
 A little bit about me:
 
-- Security Specialist @ Region Hovedstaden in Denmark
-- Helped customers all over the world to accelerate their digital transformation leveraging Microsoft Azure/Cloud services
-- 6+ years as an IT pro
+- Secure Infrastructure @ TrueSec in Denmark
+- Helped customers to accelerate their digital transformation leveraging Microsoft Azure/Cloud services and other IT related stuff
+- 6+ years in IT
 
 ## 🔐 Security
 
