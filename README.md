@@ -92,6 +92,7 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/2cac400128...f473dbf0f2)
 - [michaelmsonne commented on pull request Gerenios/AADInternals#68](https://github.com/Gerenios/AADInternals/pull/68#issuecomment-1694733720)
 - [michaelmsonne pushed to master in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/378d49f597...51dd30730e)
 - [michaelmsonne opened a pull request in Gerenios/AADInternals](https://github.com/Gerenios/AADInternals/pull/68)
@@ -103,7 +104,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne forked michaelmsonne/WhyNotWin11 from rcmaehl/WhyNotWin11](https://github.com/michaelmsonne/WhyNotWin11)
 - [michaelmsonne commented on issue andrew-s-taylor/public#15](https://github.com/andrew-s-taylor/public/issues/15#issuecomment-1663697706)
 - [michaelmsonne commented on issue microsoft/Microsoft-Win32-Content-Prep-Tool#85](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool/issues/85#issuecomment-1659039195)
-- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/9b65e3ce4b...da875d8093)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/a52be31c87...e23962811f)
 - [michaelmsonne opened an issue in andrew-s-taylor/public](https://github.com/andrew-s-taylor/public/issues/15)
 - [michaelmsonne starred michaelmsonne/public](https://github.com/michaelmsonne/public)
