@@ -114,8 +114,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmsonne&layout=compact)](https://github.com/michaelmsonne)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=michaelmsonne)](https://git.io/streak-stats)
-
 <!--
 **michaelmsonne/michaelmsonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
