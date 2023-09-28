@@ -92,6 +92,9 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne created a tag 1.0.0.2 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/tree/1.0.0.2)
+- [michaelmsonne released 1.0.0.2 - release at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.2)
+- [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/5f2044040d...c9825c7301)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/0d4643f51e...dbb7cbbb0d)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/056af13a34...4c382a200d)
 - [michaelmsonne created a branch dev in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/dev)
@@ -100,13 +103,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a tag 1.0.5.6 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.0.5.6)
 - [michaelmsonne released 1.0.5.6 release at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.0.5.6)
 - [michaelmsonne pushed to master in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/378d49f597...51dd30730e)
-- [michaelmsonne opened a pull request in Gerenios/AADInternals](https://github.com/Gerenios/AADInternals/pull/68)
-- [michaelmsonne forked michaelmsonne/AADInternals from Gerenios/AADInternals](https://github.com/michaelmsonne/AADInternals)
-- [michaelmsonne commented on issue Gerenios/AADInternals#63](https://github.com/Gerenios/AADInternals/issues/63#issuecomment-1677053763)
-- [michaelmsonne pushed to main in SonnesTest/TestRepo](https://github.com/SonnesTest/TestRepo/compare/1e3f6ecde3...7194f53b46)
-- [michaelmsonne opened a pull request in rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11/pull/730)
-- [michaelmsonne created a branch main-1 in michaelmsonne/WhyNotWin11](https://github.com/michaelmsonne/WhyNotWin11/compare/main-1)
-- [michaelmsonne forked michaelmsonne/WhyNotWin11 from rcmaehl/WhyNotWin11](https://github.com/michaelmsonne/WhyNotWin11)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![Seif's github stats](https://github-readme-stats.vercel.app/api?username=michaelmsonne)](https://github.com/michaelmsonne)
