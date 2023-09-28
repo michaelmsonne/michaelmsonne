@@ -92,12 +92,13 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/0d4643f51e...dbb7cbbb0d)
+- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/056af13a34...4c382a200d)
+- [michaelmsonne created a branch dev in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/dev)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/47d3b40ef3...afd44bfe7e)
-- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/b6a8f6126b...056af13a34)
 - [michaelmsonne commented on pull request Gerenios/AADInternals#68](https://github.com/Gerenios/AADInternals/pull/68#issuecomment-1705425443)
 - [michaelmsonne created a tag 1.0.5.6 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.0.5.6)
 - [michaelmsonne released 1.0.5.6 release at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.0.5.6)
-- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/2cac400128...f473dbf0f2)
 - [michaelmsonne pushed to master in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/378d49f597...51dd30730e)
 - [michaelmsonne opened a pull request in Gerenios/AADInternals](https://github.com/Gerenios/AADInternals/pull/68)
 - [michaelmsonne forked michaelmsonne/AADInternals from Gerenios/AADInternals](https://github.com/michaelmsonne/AADInternals)
@@ -106,8 +107,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne opened a pull request in rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11/pull/730)
 - [michaelmsonne created a branch main-1 in michaelmsonne/WhyNotWin11](https://github.com/michaelmsonne/WhyNotWin11/compare/main-1)
 - [michaelmsonne forked michaelmsonne/WhyNotWin11 from rcmaehl/WhyNotWin11](https://github.com/michaelmsonne/WhyNotWin11)
-- [michaelmsonne commented on issue andrew-s-taylor/public#15](https://github.com/andrew-s-taylor/public/issues/15#issuecomment-1663697706)
-- [michaelmsonne commented on issue microsoft/Microsoft-Win32-Content-Prep-Tool#85](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool/issues/85#issuecomment-1659039195)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![Seif's github stats](https://github-readme-stats.vercel.app/api?username=michaelmsonne)](https://github.com/michaelmsonne)
