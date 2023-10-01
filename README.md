@@ -106,7 +106,7 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to master in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/378d49f597...51dd30730e)
 <!-- LATESTACTIVITYGITHUB:END -->
 
-## Stats
+## 🔥 Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/michaelmsonne?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmsonne&layout=compact)](https://github.com/michaelmsonne)
