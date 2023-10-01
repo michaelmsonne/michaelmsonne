@@ -20,7 +20,7 @@ A little bit about me:
 - Secure Infrastructure @ TrueSec A/S in Denmark (Part of TrueSec AB in Sweden)
 - Helped customers to accelerate their digital transformation leveraging Microsoft Azure/Cloud services and other IT related stuff
 - 6+ years in IT
-- I'm a IT Pro with Microsoft stuff. I focus primarily on Microsoft 365 and related services like Entra ID and other related workloads. I have a big PowerShell affection, and love to create supporting tools and automate processes for admins and devs. More to come here soon...
+- I'm a IT Pro with Microsoft stuff. I focus primarily on Microsoft 365 and related services like Entra ID and other related workloads. I have a big PowerShell affection (and C# 😂), and love to create supporting tools and automate processes for admins, devs and users. More to come here soon...
 
 ## 🔐 Security
 
