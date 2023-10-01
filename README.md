@@ -106,7 +106,8 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/michaelmsonne?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelmsonne&show_icons=true&theme=dark&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmsonne&layout=compact)](https://github.com/michaelmsonne)
 
