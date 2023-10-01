@@ -60,6 +60,25 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 ![image](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
 ...
 
+## 📜 Microsoft Customer Connection Program Community Badges
+![image](https://images.credly.com/size/110x110/images/d74766a0-f99c-44c3-89fa-499156e1853d/image.png)
+![image](https://images.credly.com/size/110x110/images/ce086763-26bf-4882-b7e0-b9cda89302ad/image.png)
+![image](https://images.credly.com/size/110x110/images/265a75b6-fe06-4168-9bea-8f0d7c70fbb3/image.png)
+![image](https://images.credly.com/size/110x110/images/0de8be22-2b85-4ba1-a523-40020ddaa9d8/image.png)
+![image](https://images.credly.com/size/110x110/images/c89edc19-cb32-41d2-8ddf-25dddc1518d3/image.png)
+![image](https://images.credly.com/size/110x110/images/0c1eb2a2-25d8-411d-b195-d0c88cf3a3c5/image.png)
+![image](https://images.credly.com/size/110x110/images/7941cf3f-4295-4553-a57f-f0abf155d24e/image.png)
+![image](https://images.credly.com/size/110x110/images/b00eb07d-d487-4ced-807c-0bd3b85bb9de/image.png)
+...
+
+See more at [www.aka.ms/JoinCCP](www.aka.ms/JoinCCP)
+
+By signing up for one of our ongoing communities you will be added to the program's Teams site, where Microsoft host NDA Roadmap Calls, Feedback Sessions, Surveys, Private Previews and more. 
+
+**N.B: Membership requirements**:
+- All participants must have an existing **NDA** with Microsoft. If you do not have an existing **NDA with Microsoft**, please work with your Microsoft Account Team or point-of-contact to issue one.
+- You can not **discuss or publicize** details regarding any private preview with a third party, **without written approval by Microsoft**.
+
 ## Current projects and interests
 
 <p>
