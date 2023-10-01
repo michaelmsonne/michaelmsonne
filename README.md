@@ -3,6 +3,7 @@
   <div id="badges">
     <a href="https://www.linkedin.com/in/michaelmsonne/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <a href="https://blog.sonnes.cloud"><img src="https://img.shields.io/badge/-Blog-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog Badge"/></a>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=michaelmsonne&style=flat-square&color=blue" alt=""/>
@@ -20,6 +21,7 @@ A little bit about me:
 - Secure Infrastructure @ TrueSec in Denmark
 - Helped customers to accelerate their digital transformation leveraging Microsoft Azure/Cloud services and other IT related stuff
 - 6+ years in IT
+- I'm a IT Pro with Microsoft stuff. I focus primarily on Microsoft 365 and related services like Entra ID and other related workloads. I have a big PowerShell affection, and love to create supporting tools and automate processes for admins and devs. More to come here soon...
 
 ## 🔐 Security
 
@@ -105,7 +107,8 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to master in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/378d49f597...51dd30730e)
 <!-- LATESTACTIVITYGITHUB:END -->
 
-[![Seif's github stats](https://github-readme-stats.vercel.app/api?username=michaelmsonne)](https://github.com/michaelmsonne)
+## Stats
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/michaelmsonne?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmsonne&layout=compact)](https://github.com/michaelmsonne)
 
