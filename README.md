@@ -73,7 +73,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 
 See more at [www.aka.ms/JoinCCP](www.aka.ms/JoinCCP)
 
-By signing up for one of our ongoing communities you will be added to the program's Teams site, where Microsoft host NDA Roadmap Calls, Feedback Sessions, Surveys, Private Previews and more. 
+By signing up for one of Microsof´s ongoing communities you will be added to the program's Teams site(s), where Microsoft host NDA Roadmap Calls, Feedback Sessions, Surveys, Private Previews and more. 
 
 **N.B: Membership requirements**:
 - All participants must have an existing **NDA** with Microsoft. If you do not have an existing **NDA with Microsoft**, please work with your Microsoft Account Team or point-of-contact to issue one.
