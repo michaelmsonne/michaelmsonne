@@ -114,10 +114,10 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/314cd9efef...3d6bc33652)
 - [michaelmsonne pushed to public in michaelmsonne/microsoft-365-docs](https://github.com/michaelmsonne/microsoft-365-docs/compare/38a18b0195...20bdf65801)
 - [michaelmsonne pushed to patch-3 in michaelmsonne/microsoft-365-docs](https://github.com/michaelmsonne/microsoft-365-docs/compare/14698ebb2f...64276c8cad)
 - [michaelmsonne commented on pull request Gerenios/AADInternals#68](https://github.com/Gerenios/AADInternals/pull/68#issuecomment-1742764003)
-- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/c67c371f6a...83fbfa6f31)
 - [michaelmsonne created a tag 1.0.0.2 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/tree/1.0.0.2)
 - [michaelmsonne released 1.0.0.2 - release at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.2)
 - [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/5f2044040d...c9825c7301)
