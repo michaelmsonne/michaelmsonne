@@ -24,11 +24,17 @@ A little bit about me:
 
 ## 🔐 Security
 
-Code signing
+### Code signing
 
 Most of my PowerShell (.ps1), programs (.exe) and Releases files will signed with my code signing certificate. This way you can run it, if you require scripts to be signed or to validate it comes from me. Of course you can also choose to sign it with your own internal code signing certificate.
 
 See Certificate information here: [Trusted Publisher Certificate by Sectigo](https://github.com/michaelmsonne/michaelmsonne/tree/main/Trusted_Publisher_Certificate) - Sectigo Public Code Signing CA R36, Sectigo Limited
+
+### Code security
+
+I try to **create secure code the best I can**. To support me too I have an account to Snyk Code Scanning (SAST Tool) to find Code Vulnerabilities in the code.
+
+I have en Open-Source license to PVS-Studio also.
 
 ## 👉🏻 Get in touch
 Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
