@@ -120,6 +120,12 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne created a branch master in michaelmsonne/Office365TrialGeneratorTool](https://github.com/michaelmsonne/Office365TrialGeneratorTool/compare/master)
+- [michaelmsonne created a repository michaelmsonne/Office365-Trial-Generator](https://github.com/michaelmsonne/Office365-Trial-Generator//)
+- [michaelmsonne created a branch master in michaelmsonne/SignToolUI](https://github.com/michaelmsonne/SignToolUI/compare/master)
+- [michaelmsonne created a repository michaelmsonne/SignToolUI](https://github.com/michaelmsonne/SignToolUI//)
+- [michaelmsonne created a branch master in michaelmsonne/SMTPTester](https://github.com/michaelmsonne/SMTPTester/compare/master)
+- [michaelmsonne created a repository michaelmsonne/SMTPTester](https://github.com/michaelmsonne/SMTPTester//)
 - [michaelmsonne opened a pull request in Gerenios/AADInternals](https://github.com/Gerenios/AADInternals/pull/73)
 - [michaelmsonne pushed to master in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/c95fa1fc79...f312e34dd2)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/1158c319f0...79c6dfe149)
@@ -130,9 +136,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a tag 1.0.0.2 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/tree/1.0.0.2)
 - [michaelmsonne released 1.0.0.2 - release at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.2)
 - [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/5f2044040d...c9825c7301)
-- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/056af13a34...4c382a200d)
-- [michaelmsonne created a branch dev in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/dev)
-- [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/47d3b40ef3...afd44bfe7e)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
