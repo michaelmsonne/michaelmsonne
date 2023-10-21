@@ -121,6 +121,7 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/7710601a94...cd9eb5804e)
 - [michaelmsonne created a branch master in michaelmsonne/Office365TrialGeneratorTool](https://github.com/michaelmsonne/Office365TrialGeneratorTool/compare/master)
 - [michaelmsonne created a repository michaelmsonne/Office365-Trial-Generator](https://github.com/michaelmsonne/Office365-Trial-Generator//)
 - [michaelmsonne created a branch master in michaelmsonne/SignToolUI](https://github.com/michaelmsonne/SignToolUI/compare/master)
@@ -129,7 +130,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a repository michaelmsonne/SMTPTester](https://github.com/michaelmsonne/SMTPTester//)
 - [michaelmsonne opened a pull request in Gerenios/AADInternals](https://github.com/Gerenios/AADInternals/pull/73)
 - [michaelmsonne pushed to master in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/c95fa1fc79...f312e34dd2)
-- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/1158c319f0...79c6dfe149)
 - [michaelmsonne created a branch test in SonnesTest/TestRepo](https://github.com/SonnesTest/TestRepo/compare/test)
 - [michaelmsonne pushed to public in michaelmsonne/microsoft-365-docs](https://github.com/michaelmsonne/microsoft-365-docs/compare/38a18b0195...20bdf65801)
 - [michaelmsonne pushed to patch-3 in michaelmsonne/microsoft-365-docs](https://github.com/michaelmsonne/microsoft-365-docs/compare/14698ebb2f...64276c8cad)
