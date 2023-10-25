@@ -104,6 +104,7 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Entra ID – Comming: Auto-rollout of basic Conditional Access policies to protect your tenant – is missing in so many tenants so finally!](https://blog.sonnes.cloud/entra-id-comming-auto-rollout-of-basic-conditional-access-policies-to-protect-your-tenant-is-missing-in-so-many-tenants-so-finally/)
 - [Messed up NTFS permissions? – how to cleanup and remove users/groups there should NOT be there](https://blog.sonnes.cloud/messed-up-ntfs-permissions-how-to-cleanup-and-remove-users-groups-there-should-not-be-there/)
 - [How is it now you get a refund for Microsoft 365 and Azure  downtime and see service status?](https://blog.sonnes.cloud/how-is-it-now-you-get-a-refund-for-microsoft-365-and-azure-downtime-and-see-service-status/)
 - [Lets create a Free Lab with Microsoft Defender for Endpoint and Simulate some Ransomware Attacks – get the correct free trial](https://blog.sonnes.cloud/lets-create-a-free-lab-with-microsoft-defender-for-endpoint-and-simulate-some-ransomware-attacks-get-the-correct-free-trial/)
@@ -113,7 +114,6 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 - [Block sign-in from shared mailboxes](https://blog.sonnes.cloud/block-sign-in-from-shared-mailboxes/)
 - [Azure DevOps – Use Azure Key Vauls for secrets in your Pipelines](https://blog.sonnes.cloud/azure-devops-use-azure-key-vauls-for-secrets-in-your-pipelines/)
 - [Azure AD Admin and use of PIM Email forwarding for your admin accounts notifications](https://blog.sonnes.cloud/azure-ad-admin-and-use-of-pim-email-forwarding-for-your-admin-accounts-notifications/)
-- [Azure DevOps – Get a local backup of your code repositories](https://blog.sonnes.cloud/azure-devops-get-a-local-backup-of-your-code-repositories/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
