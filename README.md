@@ -121,6 +121,7 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to master in michaelmsonne/Intune-Resource-Access](https://github.com/michaelmsonne/Intune-Resource-Access/compare/bfb7540fca...68d310192f)
 - [michaelmsonne created a tag 1.0.0.3 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/tree/1.0.0.3)
 - [michaelmsonne released 1.0.0.3 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.3)
 - [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/5bd3f27001...4578b51046)
@@ -137,7 +138,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a branch test in SonnesTest/TestRepo](https://github.com/SonnesTest/TestRepo/compare/test)
 - [michaelmsonne pushed to public in michaelmsonne/microsoft-365-docs](https://github.com/michaelmsonne/microsoft-365-docs/compare/38a18b0195...20bdf65801)
 - [michaelmsonne pushed to patch-3 in michaelmsonne/microsoft-365-docs](https://github.com/michaelmsonne/microsoft-365-docs/compare/14698ebb2f...64276c8cad)
-- [michaelmsonne commented on pull request Gerenios/AADInternals#68](https://github.com/Gerenios/AADInternals/pull/68#issuecomment-1742764003)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
