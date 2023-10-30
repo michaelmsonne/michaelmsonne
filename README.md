@@ -121,13 +121,13 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/ce34d08f6e...287c851cad)
 - [michaelmsonne pushed to patch-4 in michaelmsonne/microsoft-365-docs](https://github.com/michaelmsonne/microsoft-365-docs/compare/8b8227eabf...6c93efcd34)
 - [michaelmsonne opened a pull request in MicrosoftDocs/microsoft-365-docs](https://github.com/MicrosoftDocs/microsoft-365-docs/pull/13044)
 - [michaelmsonne pushed to master in michaelmsonne/Intune-Resource-Access](https://github.com/michaelmsonne/Intune-Resource-Access/compare/bfb7540fca...68d310192f)
 - [michaelmsonne created a tag 1.0.0.3 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/tree/1.0.0.3)
 - [michaelmsonne released 1.0.0.3 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.3)
 - [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/5bd3f27001...4578b51046)
-- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/766acfa9ce...ce34d08f6e)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/7710601a94...cd9eb5804e)
 - [michaelmsonne created a branch master in michaelmsonne/Office365TrialGeneratorTool](https://github.com/michaelmsonne/Office365TrialGeneratorTool/compare/master)
 - [michaelmsonne created a repository michaelmsonne/Office365-Trial-Generator](https://github.com/michaelmsonne/Office365-Trial-Generator//)
@@ -137,7 +137,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a repository michaelmsonne/SMTPTester](https://github.com/michaelmsonne/SMTPTester//)
 - [michaelmsonne opened a pull request in Gerenios/AADInternals](https://github.com/Gerenios/AADInternals/pull/73)
 - [michaelmsonne pushed to master in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/c95fa1fc79...f312e34dd2)
-- [michaelmsonne created a branch test in SonnesTest/TestRepo](https://github.com/SonnesTest/TestRepo/compare/test)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
