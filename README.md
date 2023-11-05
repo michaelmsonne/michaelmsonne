@@ -76,6 +76,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 ![image](https://images.credly.com/size/110x110/images/7941cf3f-4295-4553-a57f-f0abf155d24e/image.png)
 ![image](https://images.credly.com/size/110x110/images/b00eb07d-d487-4ced-807c-0bd3b85bb9de/image.png)
 ![image](https://images.credly.com/size/110x110/images/4d465384-04ec-4e7c-8a28-ab46c7f6f2a5/image.png)
+![image](https://images.credly.com/size/110x110/images/aa14ea45-a3b1-47b9-bfd2-7bae8a13e8c0/image.png)
 ![image](https://images.credly.com/size/110x110/images/f4d81e6e-560a-40ad-8d77-be9055f72d77/image.png)
 ![image](https://images.credly.com/size/110x110/images/f07b7e05-3dfc-4444-a250-b97a28a01648/image.png)
 ![image](https://images.credly.com/size/110x110/images/b434a50f-2bef-48f6-949f-bc35b1910464/image.png)
