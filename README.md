@@ -119,10 +119,10 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/400cc66596...2bf8cfd010)
 - [michaelmsonne opened a pull request in microsoft/Microsoft-Defender-for-Identity](https://github.com/microsoft/Microsoft-Defender-for-Identity/pull/9)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/Microsoft-Defender-for-Identity](https://github.com/michaelmsonne/Microsoft-Defender-for-Identity/compare/46a4eb3c13...62de40d654)
 - [michaelmsonne forked michaelmsonne/Microsoft-Defender-for-Identity from microsoft/Microsoft-Defender-for-Identity](https://github.com/michaelmsonne/Microsoft-Defender-for-Identity)
-- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/0dea5bc3e2...af63f7a93d)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/ce34d08f6e...287c851cad)
 - [michaelmsonne pushed to patch-4 in michaelmsonne/microsoft-365-docs](https://github.com/michaelmsonne/microsoft-365-docs/compare/8b8227eabf...6c93efcd34)
 - [michaelmsonne opened a pull request in MicrosoftDocs/microsoft-365-docs](https://github.com/MicrosoftDocs/microsoft-365-docs/pull/13044)
@@ -135,8 +135,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a branch master in michaelmsonne/SignToolUI](https://github.com/michaelmsonne/SignToolUI/compare/master)
 - [michaelmsonne created a repository michaelmsonne/SignToolUI](https://github.com/michaelmsonne/SignToolUI//)
 - [michaelmsonne created a branch master in michaelmsonne/SMTPTester](https://github.com/michaelmsonne/SMTPTester/compare/master)
-- [michaelmsonne created a repository michaelmsonne/SMTPTester](https://github.com/michaelmsonne/SMTPTester//)
-- [michaelmsonne opened a pull request in Gerenios/AADInternals](https://github.com/Gerenios/AADInternals/pull/73)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
