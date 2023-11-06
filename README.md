@@ -130,11 +130,11 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a tag 1.0.0.3 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/tree/1.0.0.3)
 - [michaelmsonne released 1.0.0.3 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.3)
 - [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/5bd3f27001...4578b51046)
-- [michaelmsonne created a branch master in michaelmsonne/Office365TrialGeneratorTool](https://github.com/michaelmsonne/Office365TrialGeneratorTool/compare/master)
-- [michaelmsonne created a repository michaelmsonne/Office365-Trial-Generator](https://github.com/michaelmsonne/Office365-Trial-Generator//)
 - [michaelmsonne created a branch master in michaelmsonne/SignToolUI](https://github.com/michaelmsonne/SignToolUI/compare/master)
 - [michaelmsonne created a repository michaelmsonne/SignToolUI](https://github.com/michaelmsonne/SignToolUI//)
 - [michaelmsonne created a branch master in michaelmsonne/SMTPTester](https://github.com/michaelmsonne/SMTPTester/compare/master)
+- [michaelmsonne created a repository michaelmsonne/SMTPTester](https://github.com/michaelmsonne/SMTPTester//)
+- [michaelmsonne opened a pull request in Gerenios/AADInternals](https://github.com/Gerenios/AADInternals/pull/73)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
