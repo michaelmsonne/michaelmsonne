@@ -119,6 +119,8 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne commented on pull request MicrosoftDocs/azure-docs#116812](https://github.com/MicrosoftDocs/azure-docs/pull/116812#issuecomment-1798456452)
+- [michaelmsonne forked michaelmsonne/EntraExporter from microsoft/EntraExporter](https://github.com/michaelmsonne/EntraExporter)
 - [michaelmsonne opened a pull request in MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/pull/116812)
 - [michaelmsonne pushed to patch-2 in michaelmsonne/azure-docs](https://github.com/michaelmsonne/azure-docs/compare/b303317f3e...a9f39cb822)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/azure-docs](https://github.com/michaelmsonne/azure-docs/compare/b303317f3e...e33d8271fd)
@@ -134,7 +136,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a tag 1.0.0.3 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/tree/1.0.0.3)
 - [michaelmsonne released 1.0.0.3 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.3)
 - [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/5bd3f27001...4578b51046)
-- [michaelmsonne created a branch master in michaelmsonne/SignToolUI](https://github.com/michaelmsonne/SignToolUI/compare/master)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
