@@ -119,6 +119,8 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne opened a pull request in MicrosoftDocs/microsoft-365-docs](https://github.com/MicrosoftDocs/microsoft-365-docs/pull/13183)
+- [michaelmsonne pushed to patch-5 in michaelmsonne/microsoft-365-docs](https://github.com/michaelmsonne/microsoft-365-docs/compare/6ecbba76a3...8a2fe4c05e)
 - [michaelmsonne commented on pull request MicrosoftDocs/azure-docs#116812](https://github.com/MicrosoftDocs/azure-docs/pull/116812#issuecomment-1798456452)
 - [michaelmsonne forked michaelmsonne/EntraExporter from microsoft/EntraExporter](https://github.com/michaelmsonne/EntraExporter)
 - [michaelmsonne opened a pull request in MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/pull/116812)
@@ -131,7 +133,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne forked michaelmsonne/Microsoft-Defender-for-Identity from microsoft/Microsoft-Defender-for-Identity](https://github.com/michaelmsonne/Microsoft-Defender-for-Identity)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/ce34d08f6e...287c851cad)
 - [michaelmsonne pushed to patch-4 in michaelmsonne/microsoft-365-docs](https://github.com/michaelmsonne/microsoft-365-docs/compare/8b8227eabf...6c93efcd34)
-- [michaelmsonne opened a pull request in MicrosoftDocs/microsoft-365-docs](https://github.com/MicrosoftDocs/microsoft-365-docs/pull/13044)
 - [michaelmsonne pushed to master in michaelmsonne/Intune-Resource-Access](https://github.com/michaelmsonne/Intune-Resource-Access/compare/bfb7540fca...68d310192f)
 - [michaelmsonne created a tag 1.0.0.3 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/tree/1.0.0.3)
 - [michaelmsonne released 1.0.0.3 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.3)
