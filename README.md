@@ -119,6 +119,10 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/de187b8132...6d4f41245a)
+- [michaelmsonne merged a pull request in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/pull/2)
+- [michaelmsonne deleted branch dependabot/nuget/CefSharp.WinForms-119.1.20 at michaelmsonne/LyngdorfBrowser](https://github.com/)
+- [michaelmsonne deleted branch dependabot/nuget/cef.redist.x64-119.1.2 at michaelmsonne/LyngdorfBrowser](https://github.com/)
 - [michaelmsonne opened a pull request in MicrosoftDocs/microsoft-365-docs](https://github.com/MicrosoftDocs/microsoft-365-docs/pull/13183)
 - [michaelmsonne pushed to patch-5 in michaelmsonne/microsoft-365-docs](https://github.com/michaelmsonne/microsoft-365-docs/compare/6ecbba76a3...8a2fe4c05e)
 - [michaelmsonne commented on pull request MicrosoftDocs/azure-docs#116812](https://github.com/MicrosoftDocs/azure-docs/pull/116812#issuecomment-1798456452)
@@ -133,10 +137,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne forked michaelmsonne/Microsoft-Defender-for-Identity from microsoft/Microsoft-Defender-for-Identity](https://github.com/michaelmsonne/Microsoft-Defender-for-Identity)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/ce34d08f6e...287c851cad)
 - [michaelmsonne pushed to patch-4 in michaelmsonne/microsoft-365-docs](https://github.com/michaelmsonne/microsoft-365-docs/compare/8b8227eabf...6c93efcd34)
-- [michaelmsonne pushed to master in michaelmsonne/Intune-Resource-Access](https://github.com/michaelmsonne/Intune-Resource-Access/compare/bfb7540fca...68d310192f)
-- [michaelmsonne created a tag 1.0.0.3 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/tree/1.0.0.3)
-- [michaelmsonne released 1.0.0.3 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.3)
-- [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/5bd3f27001...4578b51046)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
