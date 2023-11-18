@@ -119,7 +119,9 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/de187b8132...6d4f41245a)
+- [michaelmsonne created a tag 1.0.0.4 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/tree/1.0.0.4)
+- [michaelmsonne released 1.0.0.4 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.4)
+- [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/70a4c8a70e...828054adce)
 - [michaelmsonne merged a pull request in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/pull/2)
 - [michaelmsonne deleted branch dependabot/nuget/CefSharp.WinForms-119.1.20 at michaelmsonne/LyngdorfBrowser](https://github.com/)
 - [michaelmsonne deleted branch dependabot/nuget/cef.redist.x64-119.1.2 at michaelmsonne/LyngdorfBrowser](https://github.com/)
@@ -135,8 +137,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne opened a pull request in microsoft/Microsoft-Defender-for-Identity](https://github.com/microsoft/Microsoft-Defender-for-Identity/pull/9)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/Microsoft-Defender-for-Identity](https://github.com/michaelmsonne/Microsoft-Defender-for-Identity/compare/46a4eb3c13...62de40d654)
 - [michaelmsonne forked michaelmsonne/Microsoft-Defender-for-Identity from microsoft/Microsoft-Defender-for-Identity](https://github.com/michaelmsonne/Microsoft-Defender-for-Identity)
-- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/ce34d08f6e...287c851cad)
-- [michaelmsonne pushed to patch-4 in michaelmsonne/microsoft-365-docs](https://github.com/michaelmsonne/microsoft-365-docs/compare/8b8227eabf...6c93efcd34)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
