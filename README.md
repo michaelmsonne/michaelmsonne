@@ -119,6 +119,8 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne deleted branch test3 at SonnesTest/TestRepo](https://github.com/)
+- [michaelmsonne created a branch test3 in SonnesTest/TestRepo](https://github.com/SonnesTest/TestRepo/compare/test3)
 - [michaelmsonne created a tag 1.0.0.4 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/tree/1.0.0.4)
 - [michaelmsonne released 1.0.0.4 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.4)
 - [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/70a4c8a70e...828054adce)
@@ -135,8 +137,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne forked michaelmsonne/azure-docs from MicrosoftDocs/azure-docs](https://github.com/michaelmsonne/azure-docs)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/400cc66596...2bf8cfd010)
 - [michaelmsonne opened a pull request in microsoft/Microsoft-Defender-for-Identity](https://github.com/microsoft/Microsoft-Defender-for-Identity/pull/9)
-- [michaelmsonne pushed to patch-1 in michaelmsonne/Microsoft-Defender-for-Identity](https://github.com/michaelmsonne/Microsoft-Defender-for-Identity/compare/46a4eb3c13...62de40d654)
-- [michaelmsonne forked michaelmsonne/Microsoft-Defender-for-Identity from microsoft/Microsoft-Defender-for-Identity](https://github.com/michaelmsonne/Microsoft-Defender-for-Identity)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
