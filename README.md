@@ -121,6 +121,7 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/50cd269c9c...7b86b2e7cd)
 - [michaelmsonne commented on issue microsoft/Microsoft-Defender-for-Identity#10](https://github.com/microsoft/Microsoft-Defender-for-Identity/issues/10#issuecomment-1831775887)
 - [michaelmsonne deleted branch test3 at SonnesTest/TestRepo](https://github.com/)
 - [michaelmsonne created a branch test3 in SonnesTest/TestRepo](https://github.com/SonnesTest/TestRepo/compare/test3)
@@ -137,8 +138,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne opened a pull request in MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/pull/116812)
 - [michaelmsonne pushed to patch-2 in michaelmsonne/azure-docs](https://github.com/michaelmsonne/azure-docs/compare/b303317f3e...a9f39cb822)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/azure-docs](https://github.com/michaelmsonne/azure-docs/compare/b303317f3e...e33d8271fd)
-- [michaelmsonne forked michaelmsonne/azure-docs from MicrosoftDocs/azure-docs](https://github.com/michaelmsonne/azure-docs)
-- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/400cc66596...2bf8cfd010)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
