@@ -66,6 +66,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 ## 📜 Microsoft Customer Connection Program Community Badges
 ![image](https://images.credly.com/size/110x110/images/d74766a0-f99c-44c3-89fa-499156e1853d/image.png)
 ![image](https://images.credly.com/size/110x110/images/ce086763-26bf-4882-b7e0-b9cda89302ad/image.png)
+![image](https://images.credly.com/size/110x110/images/c6f6474d-9435-41d2-a991-626330aab650/image.png)
 ![image](https://images.credly.com/size/110x110/images/265a75b6-fe06-4168-9bea-8f0d7c70fbb3/image.png)
 ![image](https://images.credly.com/size/110x110/images/0de8be22-2b85-4ba1-a523-40020ddaa9d8/image.png)
 ![image](https://images.credly.com/size/110x110/images/c89edc19-cb32-41d2-8ddf-25dddc1518d3/image.png)
@@ -74,6 +75,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 ![image](https://images.credly.com/size/110x110/images/b00eb07d-d487-4ced-807c-0bd3b85bb9de/image.png)
 ![image](https://images.credly.com/size/110x110/images/4d465384-04ec-4e7c-8a28-ab46c7f6f2a5/image.png)
 ![image](https://images.credly.com/size/110x110/images/aa14ea45-a3b1-47b9-bfd2-7bae8a13e8c0/image.png)
+![image](https://images.credly.com/size/110x110/images/7577f29f-0471-4bd2-9ca4-80bff13c8299/image.png)
 ![image](https://images.credly.com/size/110x110/images/f4d81e6e-560a-40ad-8d77-be9055f72d77/image.png)
 ![image](https://images.credly.com/size/110x110/images/f07b7e05-3dfc-4444-a250-b97a28a01648/image.png)
 ![image](https://images.credly.com/size/110x110/images/b434a50f-2bef-48f6-949f-bc35b1910464/image.png)
