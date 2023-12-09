@@ -121,6 +121,9 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne opened a pull request in SysAdminDk/Powershell](https://github.com/SysAdminDk/Powershell/pull/1)
+- [michaelmsonne pushed to patch-1 in michaelmsonne/Powershell](https://github.com/michaelmsonne/Powershell/compare/761941e192...59c490072d)
+- [michaelmsonne forked michaelmsonne/Powershell from SysAdminDk/Powershell](https://github.com/michaelmsonne/Powershell)
 - [michaelmsonne commented on pull request MicrosoftDocs/azure-docs#116812](https://github.com/MicrosoftDocs/azure-docs/pull/116812#issuecomment-1843670598)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/50cd269c9c...7b86b2e7cd)
 - [michaelmsonne commented on issue microsoft/Microsoft-Defender-for-Identity#10](https://github.com/microsoft/Microsoft-Defender-for-Identity/issues/10#issuecomment-1831775887)
@@ -134,9 +137,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne deleted branch dependabot/nuget/cef.redist.x64-119.1.2 at michaelmsonne/LyngdorfBrowser](https://github.com/)
 - [michaelmsonne opened a pull request in MicrosoftDocs/microsoft-365-docs](https://github.com/MicrosoftDocs/microsoft-365-docs/pull/13183)
 - [michaelmsonne pushed to patch-5 in michaelmsonne/microsoft-365-docs](https://github.com/michaelmsonne/microsoft-365-docs/compare/6ecbba76a3...8a2fe4c05e)
-- [michaelmsonne forked michaelmsonne/EntraExporter from microsoft/EntraExporter](https://github.com/michaelmsonne/EntraExporter)
-- [michaelmsonne opened a pull request in MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/pull/116812)
-- [michaelmsonne pushed to patch-2 in michaelmsonne/azure-docs](https://github.com/michaelmsonne/azure-docs/compare/b303317f3e...a9f39cb822)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
