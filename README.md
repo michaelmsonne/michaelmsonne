@@ -121,6 +121,8 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne opened a pull request in MicrosoftDocs/microsoft-365-docs](https://github.com/MicrosoftDocs/microsoft-365-docs/pull/13310)
+- [michaelmsonne pushed to patch-6 in michaelmsonne/microsoft-365-docs](https://github.com/michaelmsonne/microsoft-365-docs/compare/7a6c642076...3ab4af44fb)
 - [michaelmsonne opened a pull request in SysAdminDk/Powershell](https://github.com/SysAdminDk/Powershell/pull/1)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/Powershell](https://github.com/michaelmsonne/Powershell/compare/761941e192...59c490072d)
 - [michaelmsonne forked michaelmsonne/Powershell from SysAdminDk/Powershell](https://github.com/michaelmsonne/Powershell)
@@ -135,8 +137,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne merged a pull request in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/pull/2)
 - [michaelmsonne deleted branch dependabot/nuget/CefSharp.WinForms-119.1.20 at michaelmsonne/LyngdorfBrowser](https://github.com/)
 - [michaelmsonne deleted branch dependabot/nuget/cef.redist.x64-119.1.2 at michaelmsonne/LyngdorfBrowser](https://github.com/)
-- [michaelmsonne opened a pull request in MicrosoftDocs/microsoft-365-docs](https://github.com/MicrosoftDocs/microsoft-365-docs/pull/13183)
-- [michaelmsonne pushed to patch-5 in michaelmsonne/microsoft-365-docs](https://github.com/michaelmsonne/microsoft-365-docs/compare/6ecbba76a3...8a2fe4c05e)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
