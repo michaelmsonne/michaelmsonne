@@ -104,6 +104,7 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Microsoft Defender for Endpoint plug-in for Windows Subsystem for Linux &lpar;WSL&rpar; – finally!](https://blog.sonnes.cloud/microsoft-defender-for-endpoint-plug-in-for-windows-subsystem-for-linux-wsl-finally/)
 - [Get email notifications for actions performed in Defender XDR &lpar;Defender for Endpoint&rpar;](https://blog.sonnes.cloud/get-email-notifications-for-actions-performed-in-defender-xdr-defender-for-endpoint/)
 - [You can now finally upgrade to Windows 11 23H2!](https://blog.sonnes.cloud/you-can-now-finally-upgrade-to-windows-11-23h2/)
 - [Microsoft Defender for Endpoint: New and more streamlined device connectivity on the way](https://blog.sonnes.cloud/microsoft-defender-for-endpoint-new-and-more-streamlined-device-connectivity-on-the-way/)
@@ -113,7 +114,6 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 - [Lets create a Free Lab with Microsoft Defender for Endpoint and Simulate some Ransomware Attacks – get the correct free trial](https://blog.sonnes.cloud/lets-create-a-free-lab-with-microsoft-defender-for-endpoint-and-simulate-some-ransomware-attacks-get-the-correct-free-trial/)
 - [Azure AD – Why use Cloud-Only Administrative/normal accounts and how to protect them in Azure AD from on-premises attacks](https://blog.sonnes.cloud/why-use-cloud-only-accounts-and-how-to-protect-them-in-azure-ad-from-on-premises-attacks/)
 - [The Importance of Updating Installed PowerShell Modules – And automate it too with my script](https://blog.sonnes.cloud/the-importance-of-updating-installed-powershell-modules-and-automate-it-too/)
-- [Azure AD Application Activity Report Analysis](https://blog.sonnes.cloud/azure-ad-application-activity-report-analysis/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
