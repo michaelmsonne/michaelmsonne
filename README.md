@@ -121,6 +121,9 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/d11ae415c0...7f7391d127)
+- [michaelmsonne merged a pull request in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/pull/9)
+- [michaelmsonne pushed to dependabot/nuget/CefSharp.WinForms-and-cef.redist.x86-and-cef.redist.x64-119.4.30 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/076ad3d9a3...7cc1dcc64c)
 - [michaelmsonne opened a pull request in MicrosoftDocs/microsoft-365-docs](https://github.com/MicrosoftDocs/microsoft-365-docs/pull/13310)
 - [michaelmsonne pushed to patch-6 in michaelmsonne/microsoft-365-docs](https://github.com/michaelmsonne/microsoft-365-docs/compare/7a6c642076...3ab4af44fb)
 - [michaelmsonne opened a pull request in SysAdminDk/Powershell](https://github.com/SysAdminDk/Powershell/pull/1)
@@ -133,10 +136,7 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a branch test3 in SonnesTest/TestRepo](https://github.com/SonnesTest/TestRepo/compare/test3)
 - [michaelmsonne created a tag 1.0.0.4 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/tree/1.0.0.4)
 - [michaelmsonne released 1.0.0.4 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.4)
-- [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/70a4c8a70e...828054adce)
-- [michaelmsonne merged a pull request in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/pull/2)
 - [michaelmsonne deleted branch dependabot/nuget/CefSharp.WinForms-119.1.20 at michaelmsonne/LyngdorfBrowser](https://github.com/)
-- [michaelmsonne deleted branch dependabot/nuget/cef.redist.x64-119.1.2 at michaelmsonne/LyngdorfBrowser](https://github.com/)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
