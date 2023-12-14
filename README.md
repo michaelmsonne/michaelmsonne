@@ -121,6 +121,8 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne deleted branch dev at michaelmsonne/AzureDevOpsBackupTool](https://github.com/)
+- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/ad225b6ef1...92c892e854)
 - [michaelmsonne created a tag 1.0.0.5 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/tree/1.0.0.5)
 - [michaelmsonne released 1.0.0.5 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.5)
 - [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/dde491acf4...7f2bf2739b)
@@ -133,11 +135,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne forked michaelmsonne/Powershell from SysAdminDk/Powershell](https://github.com/michaelmsonne/Powershell)
 - [michaelmsonne commented on pull request MicrosoftDocs/azure-docs#116812](https://github.com/MicrosoftDocs/azure-docs/pull/116812#issuecomment-1843670598)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/50cd269c9c...7b86b2e7cd)
-- [michaelmsonne commented on issue microsoft/Microsoft-Defender-for-Identity#10](https://github.com/microsoft/Microsoft-Defender-for-Identity/issues/10#issuecomment-1831775887)
-- [michaelmsonne deleted branch test3 at SonnesTest/TestRepo](https://github.com/)
-- [michaelmsonne created a branch test3 in SonnesTest/TestRepo](https://github.com/SonnesTest/TestRepo/compare/test3)
-- [michaelmsonne created a tag 1.0.0.4 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/tree/1.0.0.4)
-- [michaelmsonne released 1.0.0.4 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.4)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
