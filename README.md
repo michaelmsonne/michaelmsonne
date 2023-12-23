@@ -79,8 +79,8 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 ![image](https://images.credly.com/size/110x110/images/f4d81e6e-560a-40ad-8d77-be9055f72d77/image.png)
 ![image](https://images.credly.com/size/110x110/images/f07b7e05-3dfc-4444-a250-b97a28a01648/image.png)
 ![image](https://images.credly.com/size/110x110/images/b434a50f-2bef-48f6-949f-bc35b1910464/image.png)
-<img src="[[https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://images.credly.com/images/23d9f8d7-d662-4b93-b1b2-2fbe5b9e06e7/CREDLY_Microsoft_Sentinel_Black_Belt_V1.png)](https://images.credly.com/images/23d9f8d7-d662-4b93-b1b2-2fbe5b9e06e7/CREDLY_Microsoft_Sentinel_Black_Belt_V1.png)"  width="110" height="110">
 ![image](https://images.credly.com/size/110x110/images/54c8e380-0ab3-40b9-b101-0155e23d5950/image.png)
+<img src="https://images.credly.com/images/23d9f8d7-d662-4b93-b1b2-2fbe5b9e06e7/CREDLY_Microsoft_Sentinel_Black_Belt_V1.png" alt="Image" style="width:110px;height:110px;">
 
 See more at [www.aka.ms/JoinCCP](www.aka.ms/JoinCCP)
 
