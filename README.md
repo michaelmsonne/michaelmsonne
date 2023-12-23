@@ -123,6 +123,7 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/30c03e5d0d...12d550910e)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/5dd51ca5bb...ab5f71dafd)
 - [michaelmsonne deleted branch dev at michaelmsonne/AzureDevOpsBackupTool](https://github.com/)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/ad225b6ef1...92c892e854)
@@ -135,8 +136,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to patch-6 in michaelmsonne/microsoft-365-docs](https://github.com/michaelmsonne/microsoft-365-docs/compare/7a6c642076...3ab4af44fb)
 - [michaelmsonne opened a pull request in SysAdminDk/Powershell](https://github.com/SysAdminDk/Powershell/pull/1)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/Powershell](https://github.com/michaelmsonne/Powershell/compare/761941e192...59c490072d)
-- [michaelmsonne forked michaelmsonne/Powershell from SysAdminDk/Powershell](https://github.com/michaelmsonne/Powershell)
-- [michaelmsonne commented on pull request MicrosoftDocs/azure-docs#116812](https://github.com/MicrosoftDocs/azure-docs/pull/116812#issuecomment-1843670598)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
