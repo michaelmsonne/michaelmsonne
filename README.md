@@ -123,19 +123,15 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/7f2bf2739b...e40ae5a095)
+- [michaelmsonne merged a pull request in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/pull/10)
+- [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/6334e66a9c...80763f681c)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/30c03e5d0d...12d550910e)
-- [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/5dd51ca5bb...ab5f71dafd)
 - [michaelmsonne deleted branch dev at michaelmsonne/AzureDevOpsBackupTool](https://github.com/)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/ad225b6ef1...92c892e854)
 - [michaelmsonne created a tag 1.0.0.5 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/tree/1.0.0.5)
 - [michaelmsonne released 1.0.0.5 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.5)
-- [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/dde491acf4...7f2bf2739b)
-- [michaelmsonne merged a pull request in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/pull/9)
 - [michaelmsonne pushed to dependabot/nuget/CefSharp.WinForms-and-cef.redist.x86-and-cef.redist.x64-119.4.30 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/076ad3d9a3...7cc1dcc64c)
-- [michaelmsonne opened a pull request in MicrosoftDocs/microsoft-365-docs](https://github.com/MicrosoftDocs/microsoft-365-docs/pull/13310)
-- [michaelmsonne pushed to patch-6 in michaelmsonne/microsoft-365-docs](https://github.com/michaelmsonne/microsoft-365-docs/compare/7a6c642076...3ab4af44fb)
-- [michaelmsonne opened a pull request in SysAdminDk/Powershell](https://github.com/SysAdminDk/Powershell/pull/1)
-- [michaelmsonne pushed to patch-1 in michaelmsonne/Powershell](https://github.com/michaelmsonne/Powershell/compare/761941e192...59c490072d)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
