@@ -106,6 +106,7 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Reflecting on 2023: A Year of Achievements, Growth, and Gratitude](https://blog.sonnes.cloud/reflecting-on-2023-a-year-of-achievements-growth-and-gratitude/)
 - [Entra ID Quota Limit – Learn to manage your usage to avoid maxing it out and extend it before it’s too late](https://blog.sonnes.cloud/entra-id-quota-limit-learn-to-manage-your-usage-to-avoid-maxing-it-out-and-extend-it-before-its-too-late/)
 - [Microsoft Defender for Endpoint plug-in for Windows Subsystem for Linux &lpar;WSL&rpar; – finally!](https://blog.sonnes.cloud/microsoft-defender-for-endpoint-plug-in-for-windows-subsystem-for-linux-wsl-finally/)
 - [Get email notifications for actions performed in Defender XDR &lpar;Defender for Endpoint&rpar;](https://blog.sonnes.cloud/get-email-notifications-for-actions-performed-in-defender-xdr-defender-for-endpoint/)
@@ -115,7 +116,6 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 - [Messed up NTFS permissions? – how to cleanup and remove users/groups there should NOT be there](https://blog.sonnes.cloud/messed-up-ntfs-permissions-how-to-cleanup-and-remove-users-groups-there-should-not-be-there/)
 - [How is it now you get a refund for Microsoft 365 and Azure  downtime and see service status?](https://blog.sonnes.cloud/how-is-it-now-you-get-a-refund-for-microsoft-365-and-azure-downtime-and-see-service-status/)
 - [Lets create a Free Lab with Microsoft Defender for Endpoint and Simulate some Ransomware Attacks – get the correct free trial](https://blog.sonnes.cloud/lets-create-a-free-lab-with-microsoft-defender-for-endpoint-and-simulate-some-ransomware-attacks-get-the-correct-free-trial/)
-- [Azure AD – Why use Cloud-Only Administrative/normal accounts and how to protect them in Azure AD from on-premises attacks](https://blog.sonnes.cloud/why-use-cloud-only-accounts-and-how-to-protect-them-in-azure-ad-from-on-premises-attacks/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
