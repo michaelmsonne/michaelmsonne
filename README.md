@@ -33,10 +33,12 @@ I try to **create secure code the best I can**. To support me too I have an acco
 
 I have en Open-Source license to PVS-Studio also.
 
-## 👉🏻 Get in touch
+## 👉🏻 Get in touch / follow me
 Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michaelmsonne/)
+
+[![GitHub followers](https://img.shields.io/github/followers/michaelmsonne?label=Follow&style=social)](https://github.com/michaelmsonne/?tab=follow)
 
 <a href="https://blog.sonnes.cloud/">
   <img align="left" alt="Sonne´s blog" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg" />
@@ -49,6 +51,13 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 </a>
 
 </br>
+
+
+# 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1)
+<!--START_SECTION:badges-->
+
+<!--END_SECTION:badges-->
+
 
 ## 📜 Microsoft Certification Badges
 ![image](https://images.credly.com/size/110x110/images/0ba22331-acf9-4e8a-8ce3-b4cc3d376040/image.png)
