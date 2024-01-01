@@ -41,7 +41,6 @@ I have en Open-Source license to PVS-Studio also.
 Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michaelmsonne/)
-
 [![GitHub followers](https://img.shields.io/github/followers/michaelmsonne?label=Follow&style=social)](https://github.com/michaelmsonne/?tab=follow)
 
 <a href="https://blog.sonnes.cloud/">
