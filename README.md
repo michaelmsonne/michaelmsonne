@@ -8,16 +8,20 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=michaelmsonne&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hi there, i'm Michael Morten Sonne
+    Hi there, i'm Michael Morten Sonne 👋 
   </h1>
 </div>
 
-A little bit about me:
+## 😎 A little bit about me:
 
-- Secure Infrastructure @ Truesec A/S in Denmark (Part of Truesec AB in Sweden)
-- Helped customers to accelerate their digital transformation leveraging Microsoft Azure/Cloud services and other IT related stuff
-- 6+ years in IT
-- I'm a IT Pro with Microsoft stuff. I focus primarily on Microsoft 365 and related services like Entra ID and other related workloads. I have a big PowerShell affection (and C# 😂), and love to create supporting tools and automate processes for admins, devs and users. More to come here soon...
+- 👷 I’m work in Secure Infrastructure @ Truesec A/S in Denmark (Part of Truesec AB in Sweden)
+- 💁 Helped customers to accelerate their digital transformation leveraging Microsoft Azure/Cloud services and other IT related stuff 
+- 🧐 6+ years in IT
+- ⚡ I'm a IT Pro with Microsoft stuff. I focus primarily on Microsoft 365 and related services like Entra ID and other related workloads. I have a big PowerShell affection (and C# 😂), and love to create supporting tools and automate processes for admins, devs and users. More to come here soon...
+- 🔐 I’m currently learning even more about cybersecurity
+- 👯 I’m looking to collaborate on any good idea!
+- 💬 Ask me about anything you want!
+- 📫 How to reach me: See below or abow!
 
 ## 🔐 Security
 
