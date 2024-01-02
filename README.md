@@ -145,14 +145,16 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne opened a pull request in microsoft/ConditionalAccessforZeroTrustResources](https://github.com/microsoft/ConditionalAccessforZeroTrustResources/pull/12)
+- [michaelmsonne pushed to patch-2 in michaelmsonne/ConditionalAccessforZeroTrustResources](https://github.com/michaelmsonne/ConditionalAccessforZeroTrustResources/compare/b4709f3330...e991af8a08)
+- [michaelmsonne pushed to patch-1 in michaelmsonne/ConditionalAccessforZeroTrustResources](https://github.com/michaelmsonne/ConditionalAccessforZeroTrustResources/compare/b4709f3330...21f922bb29)
+- [michaelmsonne forked michaelmsonne/ConditionalAccessforZeroTrustResources from microsoft/ConditionalAccessforZeroTrustResources](https://github.com/michaelmsonne/ConditionalAccessforZeroTrustResources)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/e365ace588...4407b0849d)
 - [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/e021837c5a...bb00f06591)
 - [michaelmsonne merged a pull request in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/pull/10)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/6334e66a9c...80763f681c)
 - [michaelmsonne deleted branch dev at michaelmsonne/AzureDevOpsBackupTool](https://github.com/)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/ad225b6ef1...92c892e854)
-- [michaelmsonne created a tag 1.0.0.5 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/tree/1.0.0.5)
-- [michaelmsonne released 1.0.0.5 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.5)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
