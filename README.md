@@ -59,6 +59,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1)
 <!--START_SECTION:badges-->
 
+[![Cloud Security Customer Champion | December](https://images.credly.com/size/110x110/images/d5cf5f63-5111-4e00-bab5-c620df43eb5e/image.png)](http://www.credly.com/badges/a834bc46-9f36-445c-a5fd-20177a078d9b "Cloud Security Customer Champion | December")
 [![Microsoft Sentinel Black Belt](https://images.credly.com/size/110x110/images/23d9f8d7-d662-4b93-b1b2-2fbe5b9e06e7/CREDLY_Microsoft_Sentinel_Black_Belt_V1.png)](http://www.credly.com/badges/af0abebc-03dc-4df6-a8af-ef6e0807f74c "Microsoft Sentinel Black Belt")
 [![Microsoft Sentinel Influencer](https://images.credly.com/size/110x110/images/54c8e380-0ab3-40b9-b101-0155e23d5950/image.png)](http://www.credly.com/badges/f273fce9-6d85-44c0-9aec-78398ed37ae1 "Microsoft Sentinel Influencer")
 [![Microsoft Entra ID Influencer](https://images.credly.com/size/110x110/images/c6f6474d-9435-41d2-a991-626330aab650/image.png)](http://www.credly.com/badges/e2add800-da0d-45de-929e-ebbb009e248c "Microsoft Entra ID Influencer")
