@@ -146,7 +146,7 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/80767aaf62...f38c5b94c8)
+- [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/f38c5b94c8...c8839de5a5)
 - [michaelmsonne deleted branch patch-1 at michaelmsonne/entra-docs](https://github.com/)
 - [michaelmsonne opened a pull request in MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/155)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/entra-docs](https://github.com/michaelmsonne/entra-docs/compare/92ecd865d6...3a98b90619)
@@ -159,7 +159,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/e021837c5a...bb00f06591)
 - [michaelmsonne merged a pull request in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/pull/10)
 - [michaelmsonne deleted branch dev at michaelmsonne/AzureDevOpsBackupTool](https://github.com/)
-- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/ad225b6ef1...92c892e854)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
