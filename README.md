@@ -129,6 +129,7 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Microsoft Defender for Identity – What is it, how to install it and setup requirements](https://blog.sonnes.cloud/microsoft-defender-for-identity-what-is-it-how-to-install-it-and-setup-requirements/)
 - [Entra ID – Stale Application Analysis with PowerShell](https://blog.sonnes.cloud/entra-id-stale-application-analysis-with-powershell/)
 - [Microsoft Defender XDR – Activity log and change incident severity](https://blog.sonnes.cloud/microsoft-defender-xdr-activity-log-and-change-incident-severity/)
 - [Microsoft Defender XDR – Experience Improvements for Advanced Hunting](https://blog.sonnes.cloud/microsoft-defender-xdr-experience-improvements-for-advanced-hunting/)
@@ -138,7 +139,6 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 - [Get email notifications for actions performed in Defender XDR &lpar;Defender for Endpoint&rpar;](https://blog.sonnes.cloud/get-email-notifications-for-actions-performed-in-defender-xdr-defender-for-endpoint/)
 - [You can now finally upgrade to Windows 11 23H2!](https://blog.sonnes.cloud/you-can-now-finally-upgrade-to-windows-11-23h2/)
 - [Microsoft Defender for Endpoint: New and more streamlined device connectivity on the way](https://blog.sonnes.cloud/microsoft-defender-for-endpoint-new-and-more-streamlined-device-connectivity-on-the-way/)
-- [Entra ID – Comming: Auto-rollout of basic Conditional Access policies to protect your tenant – is missing in so many tenants so finally!](https://blog.sonnes.cloud/entra-id-comming-auto-rollout-of-basic-conditional-access-policies-to-protect-your-tenant-is-missing-in-so-many-tenants-so-finally/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
