@@ -146,7 +146,7 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/47312c347b...c1c0ea7be4)
+- [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/7c8703bb09...4979943177)
 - [michaelmsonne deleted branch patch-1 at michaelmsonne/entra-docs](https://github.com/)
 - [michaelmsonne opened a pull request in MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/155)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/entra-docs](https://github.com/michaelmsonne/entra-docs/compare/92ecd865d6...3a98b90619)
@@ -156,7 +156,6 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to patch-1 in michaelmsonne/ConditionalAccessforZeroTrustResources](https://github.com/michaelmsonne/ConditionalAccessforZeroTrustResources/compare/b4709f3330...21f922bb29)
 - [michaelmsonne forked michaelmsonne/ConditionalAccessforZeroTrustResources from microsoft/ConditionalAccessforZeroTrustResources](https://github.com/michaelmsonne/ConditionalAccessforZeroTrustResources)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/e365ace588...4407b0849d)
-- [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/e021837c5a...bb00f06591)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
