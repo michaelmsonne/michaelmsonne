@@ -59,6 +59,9 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1)
 <!--START_SECTION:badges-->
 
+[![Security CCP Customer Champion | January 2024](https://images.credly.com/size/110x110/images/34ed78b8-f9de-4907-b6bd-7779cb5fbcfb/image.png)](http://www.credly.com/badges/10c1f42d-d3a4-4324-bc20-c60522ee7872 "Security CCP Customer Champion | January 2024")
+[![Entra Advisors Customer Champion | January 2024](https://images.credly.com/size/110x110/images/fa3d5b56-eb26-45a9-81d0-3a2760601e23/image.png)](http://www.credly.com/badges/927e1b4a-70f8-4834-b36a-4341fe967eb1 "Entra Advisors Customer Champion | January 2024")
+[![Microsoft Defender XDR Champion - 2024](https://images.credly.com/size/110x110/images/eeb83d7c-c953-44d0-b297-5e017e15a086/image.png)](http://www.credly.com/badges/46a855e3-9ddd-411f-b4b1-1ed33478471d "Microsoft Defender XDR Champion - 2024")
 [![Microsoft Community Contributor - 2024](https://images.credly.com/size/110x110/images/feda1a51-e0c7-46a4-814d-3379575fe0ec/image.png)](http://www.credly.com/badges/9b22d840-d580-4367-92ab-b636d3211f38 "Microsoft Community Contributor - 2024")
 [![Microsoft Community Advocate - 2024](https://images.credly.com/size/110x110/images/46826bdd-8334-43f1-9785-f131af2d66f3/image.png)](http://www.credly.com/badges/c1239d54-f70b-40b7-8781-b93fbaa4a6a4 "Microsoft Community Advocate - 2024")
 [![Cloud Security Customer Champion | December](https://images.credly.com/size/110x110/images/d5cf5f63-5111-4e00-bab5-c620df43eb5e/image.png)](http://www.credly.com/badges/a834bc46-9f36-445c-a5fd-20177a078d9b "Cloud Security Customer Champion | December")
