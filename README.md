@@ -134,6 +134,7 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Defender for Cloud – Permissions Management – New Features added to Cloud Infrastructure Entitlement Management &lpar;CIEM&rpar;](https://blog.sonnes.cloud/defender-for-cloud-permissions-management-new-features-added-to-cloud-infrastructure-entitlement-management-ciem/)
 - [Microsoft Defender for Identity – What is it, how to install it and setup requirements](https://blog.sonnes.cloud/microsoft-defender-for-identity-what-is-it-how-to-install-it-and-setup-requirements/)
 - [Entra ID – Stale Application Analysis with PowerShell](https://blog.sonnes.cloud/entra-id-stale-application-analysis-with-powershell/)
 - [Microsoft Defender XDR – Activity log and change incident severity](https://blog.sonnes.cloud/microsoft-defender-xdr-activity-log-and-change-incident-severity/)
@@ -143,7 +144,6 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 - [Microsoft Defender for Endpoint plug-in for Windows Subsystem for Linux &lpar;WSL&rpar; – finally!](https://blog.sonnes.cloud/microsoft-defender-for-endpoint-plug-in-for-windows-subsystem-for-linux-wsl-finally/)
 - [Get email notifications for actions performed in Defender XDR &lpar;Defender for Endpoint&rpar;](https://blog.sonnes.cloud/get-email-notifications-for-actions-performed-in-defender-xdr-defender-for-endpoint/)
 - [You can now finally upgrade to Windows 11 23H2!](https://blog.sonnes.cloud/you-can-now-finally-upgrade-to-windows-11-23h2/)
-- [Microsoft Defender for Endpoint: New and more streamlined device connectivity on the way](https://blog.sonnes.cloud/microsoft-defender-for-endpoint-new-and-more-streamlined-device-connectivity-on-the-way/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
