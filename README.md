@@ -151,16 +151,9 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/bcac4d2c33...32c2c86b8a)
+- [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/bb9d231ad7...a36f07d7a7)
 - [michaelmsonne deleted branch patch-1 at michaelmsonne/entra-docs](https://github.com/)
 - [michaelmsonne opened a pull request in MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/155)
-- [michaelmsonne pushed to patch-1 in michaelmsonne/entra-docs](https://github.com/michaelmsonne/entra-docs/compare/92ecd865d6...3a98b90619)
-- [michaelmsonne forked michaelmsonne/entra-docs from MicrosoftDocs/entra-docs](https://github.com/michaelmsonne/entra-docs)
-- [michaelmsonne opened a pull request in microsoft/ConditionalAccessforZeroTrustResources](https://github.com/microsoft/ConditionalAccessforZeroTrustResources/pull/12)
-- [michaelmsonne pushed to patch-2 in michaelmsonne/ConditionalAccessforZeroTrustResources](https://github.com/michaelmsonne/ConditionalAccessforZeroTrustResources/compare/b4709f3330...e991af8a08)
-- [michaelmsonne pushed to patch-1 in michaelmsonne/ConditionalAccessforZeroTrustResources](https://github.com/michaelmsonne/ConditionalAccessforZeroTrustResources/compare/b4709f3330...21f922bb29)
-- [michaelmsonne forked michaelmsonne/ConditionalAccessforZeroTrustResources from microsoft/ConditionalAccessforZeroTrustResources](https://github.com/michaelmsonne/ConditionalAccessforZeroTrustResources)
-- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/e365ace588...4407b0849d)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
