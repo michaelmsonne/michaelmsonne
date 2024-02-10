@@ -152,9 +152,9 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne made michaelmsonne/GitHubBackupTool public](https://github.com/michaelmsonne/GitHubBackupTool)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/bb9d231ad7...a36f07d7a7)
 - [michaelmsonne deleted branch patch-1 at michaelmsonne/entra-docs](https://github.com/)
-- [michaelmsonne opened a pull request in MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/155)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
