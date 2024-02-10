@@ -59,6 +59,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1)
 <!--START_SECTION:badges-->
 
+[![Microsoft Defender for Cloud Champion - 2024](https://images.credly.com/size/110x110/images/ad679bba-a220-4cfb-8ceb-1cb571b6c1e1/image.png)](http://www.credly.com/badges/b27ba941-fe35-44a6-a379-0f87f24ce69c "Microsoft Defender for Cloud Champion - 2024")
 [![Security CCP Customer Champion | January 2024](https://images.credly.com/size/110x110/images/34ed78b8-f9de-4907-b6bd-7779cb5fbcfb/image.png)](http://www.credly.com/badges/10c1f42d-d3a4-4324-bc20-c60522ee7872 "Security CCP Customer Champion | January 2024")
 [![Entra Advisors Customer Champion | January 2024](https://images.credly.com/size/110x110/images/fa3d5b56-eb26-45a9-81d0-3a2760601e23/image.png)](http://www.credly.com/badges/927e1b4a-70f8-4834-b36a-4341fe967eb1 "Entra Advisors Customer Champion | January 2024")
 [![Microsoft Defender XDR Champion - 2024](https://images.credly.com/size/110x110/images/eeb83d7c-c953-44d0-b297-5e017e15a086/image.png)](http://www.credly.com/badges/46a855e3-9ddd-411f-b4b1-1ed33478471d "Microsoft Defender XDR Champion - 2024")
