@@ -135,6 +135,7 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Configure email authentication for domains you own in Exchange Online &lpar;SPF, DKIM, DMARC and MTA-STS&rpar;](https://blog.sonnes.cloud/configure-email-authentication-for-domains-you-own-in-exchange-online-spf-dkim-dmarc-and-mta-sts/)
 - [Defender for Cloud – Permissions Management – New Features added to Cloud Infrastructure Entitlement Management &lpar;CIEM&rpar;](https://blog.sonnes.cloud/defender-for-cloud-permissions-management-new-features-added-to-cloud-infrastructure-entitlement-management-ciem/)
 - [Microsoft Defender for Identity – What is it, how to install it and setup requirements](https://blog.sonnes.cloud/microsoft-defender-for-identity-what-is-it-how-to-install-it-and-setup-requirements/)
 - [Entra ID – Stale Application Analysis with PowerShell](https://blog.sonnes.cloud/entra-id-stale-application-analysis-with-powershell/)
@@ -144,7 +145,6 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 - [Entra ID – Quota Limit – Learn to manage your usage to avoid maxing it out and extend it before it’s too late](https://blog.sonnes.cloud/entra-id-quota-limit-learn-to-manage-your-usage-to-avoid-maxing-it-out-and-extend-it-before-its-too-late/)
 - [Microsoft Defender for Endpoint plug-in for Windows Subsystem for Linux &lpar;WSL&rpar; – finally!](https://blog.sonnes.cloud/microsoft-defender-for-endpoint-plug-in-for-windows-subsystem-for-linux-wsl-finally/)
 - [Get email notifications for actions performed in Defender XDR &lpar;Defender for Endpoint&rpar;](https://blog.sonnes.cloud/get-email-notifications-for-actions-performed-in-defender-xdr-defender-for-endpoint/)
-- [You can now finally upgrade to Windows 11 23H2!](https://blog.sonnes.cloud/you-can-now-finally-upgrade-to-windows-11-23h2/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
