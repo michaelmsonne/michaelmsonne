@@ -152,6 +152,7 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne created a repository michaelmsonne/MS-DOS](https://github.com/michaelmsonne/MS-DOS//)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/93768e0191...30a5d446c6)
 - [michaelmsonne made michaelmsonne/LookupIPtoDNSTool public](https://github.com/michaelmsonne/LookupIPtoDNSTool)
 - [michaelmsonne made michaelmsonne/GitHubBackupTool public](https://github.com/michaelmsonne/GitHubBackupTool)
