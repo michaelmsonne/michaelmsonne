@@ -135,7 +135,7 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
-- [Entra ID – Global Secure Access Client – Part 1](https://blog.sonnes.cloud/entra-id-global-secure-access-client-part-1/)
+- [Entra ID – Global Secure Access Client – What it is about – Part 1](https://blog.sonnes.cloud/entra-id-global-secure-access-client-part-1/)
 - [Configure email authentication for domains you own in Exchange Online &lpar;SPF, DKIM, DMARC and MTA-STS&rpar;](https://blog.sonnes.cloud/configure-email-authentication-for-domains-you-own-in-exchange-online-spf-dkim-dmarc-and-mta-sts/)
 - [Defender for Cloud – Permissions Management – New Features added to Cloud Infrastructure Entitlement Management &lpar;CIEM&rpar;](https://blog.sonnes.cloud/defender-for-cloud-permissions-management-new-features-added-to-cloud-infrastructure-entitlement-management-ciem/)
 - [Microsoft Defender for Identity – What is it, how to install it and setup requirements](https://blog.sonnes.cloud/microsoft-defender-for-identity-what-is-it-how-to-install-it-and-setup-requirements/)
