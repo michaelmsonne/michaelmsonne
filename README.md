@@ -59,6 +59,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1)
 <!--START_SECTION:badges-->
 
+[![Microsoft Defender XDR Influencer - 2024](https://images.credly.com/size/110x110/images/741877a0-46d9-4054-a395-388e5e539448/image.png)](http://www.credly.com/badges/dcfb5b1b-c88b-4b5d-8018-56d06db1f1b8 "Microsoft Defender XDR Influencer - 2024")
 [![Microsoft Defender for Cloud Champion - 2024](https://images.credly.com/size/110x110/images/ad679bba-a220-4cfb-8ceb-1cb571b6c1e1/image.png)](http://www.credly.com/badges/b27ba941-fe35-44a6-a379-0f87f24ce69c "Microsoft Defender for Cloud Champion - 2024")
 [![Security CCP Customer Champion | January 2024](https://images.credly.com/size/110x110/images/34ed78b8-f9de-4907-b6bd-7779cb5fbcfb/image.png)](http://www.credly.com/badges/10c1f42d-d3a4-4324-bc20-c60522ee7872 "Security CCP Customer Champion | January 2024")
 [![Entra Advisors Customer Champion | January 2024](https://images.credly.com/size/110x110/images/fa3d5b56-eb26-45a9-81d0-3a2760601e23/image.png)](http://www.credly.com/badges/927e1b4a-70f8-4834-b36a-4341fe967eb1 "Entra Advisors Customer Champion | January 2024")
@@ -84,6 +85,8 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 [![Cloud Security Product Influencer](https://images.credly.com/size/110x110/images/0c1eb2a2-25d8-411d-b195-d0c88cf3a3c5/image.png)](http://www.credly.com/badges/f64210ff-3ad8-45bf-8190-1e01430fba82 "Cloud Security Product Influencer")
 [![Microsoft Management Community Contributor](https://images.credly.com/size/110x110/images/ce086763-26bf-4882-b7e0-b9cda89302ad/image.png)](http://www.credly.com/badges/6ba070ed-2a91-4fa6-bae0-260553074919 "Microsoft Management Community Contributor")
 [![M365 Defender Champion](https://images.credly.com/size/110x110/images/0de8be22-2b85-4ba1-a523-40020ddaa9d8/image.png)](http://www.credly.com/badges/f2dd0933-8ea5-4ab7-863f-a26dce8dc720 "M365 Defender Champion")
+[![Kusto Detective Agency - Complete](https://images.credly.com/size/110x110/images/6726e724-5ce8-477e-93f5-6b39d6933273/image.png)](http://www.credly.com/badges/22fd9434-e009-44a9-a3ac-27f0c6f4b537 "Kusto Detective Agency - Complete")
+[![Kusto Detective Agency - Case #5 Badge](https://images.credly.com/size/110x110/images/43b452c6-89f2-4649-bb84-19f3166a833e/image.png)](http://www.credly.com/badges/c65d562d-d4a0-4473-9f0c-51767f371f85 "Kusto Detective Agency - Case #5 Badge")
 [![Kusto Detective Agency - Case #4 Badge](https://images.credly.com/size/110x110/images/e7522dc8-886b-4a5b-9436-535e1adaa5c5/image.png)](http://www.credly.com/badges/107e8016-e4fa-4077-bef6-ea49a3fc05b4 "Kusto Detective Agency - Case #4 Badge")
 [![Kusto Detective Agency - Case #3 Badge](https://images.credly.com/size/110x110/images/9e9311e6-911b-4193-86ae-9b80c8b410fe/image.png)](http://www.credly.com/badges/d998b995-cf9e-45b5-9643-874f50d091b5 "Kusto Detective Agency - Case #3 Badge")
 [![Kusto Detective Agency - Case #2 Badge](https://images.credly.com/size/110x110/images/ba8eb12f-2d57-4e9c-b1da-c395bd1d7fd3/image.png)](http://www.credly.com/badges/fe898ddf-dc1e-4f40-a79f-33eb8f42ed7f "Kusto Detective Agency - Case #2 Badge")
@@ -104,9 +107,6 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 [![Microsoft 365 Certified: Enterprise Administrator Expert](https://images.credly.com/size/110x110/images/dfa4cb20-16ed-42ca-90a5-6528b62ee651/microsoft365-enterprise-adminstrator-expert-600x600.png)](http://www.credly.com/badges/bb985932-6d88-4bc5-bc50-5830954ec9fc "Microsoft 365 Certified: Enterprise Administrator Expert")
 [![ITIL 4 ® Foundation](https://images.credly.com/size/110x110/images/8b943c4b-c186-4e9f-84aa-004322b76eed/image.png)](http://www.credly.com/badges/f226b3ac-a022-49ca-acca-33537fe5d3b1 "ITIL 4 ® Foundation")
 [![MS-100: Microsoft 365 Identity and Services](https://images.credly.com/size/110x110/images/0c7981d8-e5c6-44c9-8bd6-563664c609cd/exam-ms100-600x600.png)](http://www.credly.com/badges/01baeb05-0b2f-43ca-906f-4d518c861801 "MS-100: Microsoft 365 Identity and Services")
-[![Microsoft 365 Certified: Security Administrator Associate*](https://images.credly.com/size/110x110/images/e1b12077-7be7-493a-8b7a-afa6e58182ce/microsoft365-security-administrator-associate-600x600.png)](http://www.credly.com/badges/8339e637-2197-489d-ab3f-e58bee22cac6 "Microsoft 365 Certified: Security Administrator Associate*")
-[![Microsoft 365 Certified: Fundamentals](https://images.credly.com/size/110x110/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png)](http://www.credly.com/badges/a9bdfd79-93e7-4d46-a36b-7b0c7ba80225 "Microsoft 365 Certified: Fundamentals")
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/038a6d59-f98d-4403-895d-b6f4d4150070 "Microsoft Certified: Azure Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 📜 Member of the Microsoft Customer Connection Program Community
