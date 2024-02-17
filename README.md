@@ -135,6 +135,7 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Entra ID – Global Secure Access Client – Part 1](https://blog.sonnes.cloud/entra-id-global-secure-access-client-part-1/)
 - [Configure email authentication for domains you own in Exchange Online &lpar;SPF, DKIM, DMARC and MTA-STS&rpar;](https://blog.sonnes.cloud/configure-email-authentication-for-domains-you-own-in-exchange-online-spf-dkim-dmarc-and-mta-sts/)
 - [Defender for Cloud – Permissions Management – New Features added to Cloud Infrastructure Entitlement Management &lpar;CIEM&rpar;](https://blog.sonnes.cloud/defender-for-cloud-permissions-management-new-features-added-to-cloud-infrastructure-entitlement-management-ciem/)
 - [Microsoft Defender for Identity – What is it, how to install it and setup requirements](https://blog.sonnes.cloud/microsoft-defender-for-identity-what-is-it-how-to-install-it-and-setup-requirements/)
@@ -144,7 +145,6 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 - [Microsoft Defender XDR – Experience Improvements for Advanced Hunting](https://blog.sonnes.cloud/microsoft-defender-xdr-experience-improvements-for-advanced-hunting/)
 - [Reflecting on 2023: A Year of Achievements, Growth, and Gratitude](https://blog.sonnes.cloud/reflecting-on-2023-a-year-of-achievements-growth-and-gratitude/)
 - [Entra ID – Quota Limit – Learn to manage your usage to avoid maxing it out and extend it before it’s too late](https://blog.sonnes.cloud/entra-id-quota-limit-learn-to-manage-your-usage-to-avoid-maxing-it-out-and-extend-it-before-its-too-late/)
-- [Microsoft Defender for Endpoint plug-in for Windows Subsystem for Linux &lpar;WSL&rpar; – finally!](https://blog.sonnes.cloud/microsoft-defender-for-endpoint-plug-in-for-windows-subsystem-for-linux-wsl-finally/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
