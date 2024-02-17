@@ -152,6 +152,7 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne commented on issue microsoft/Microsoft-Win32-Content-Prep-Tool#120](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool/issues/120#issuecomment-1950414959)
 - [michaelmsonne pushed to main in michaelmsonne/MS-DOS](https://github.com/michaelmsonne/MS-DOS/compare/18e941b2d1...62c8d9ab0b)
 - [michaelmsonne pushed to main in michaelmsonne/MS-WORD](https://github.com/michaelmsonne/MS-WORD/compare/cd37eecd2c...a101c794d2)
 - [michaelmsonne created a branch main in michaelmsonne/MS-WORD](https://github.com/michaelmsonne/MS-WORD/compare/main)
