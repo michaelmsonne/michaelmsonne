@@ -145,6 +145,16 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 - [Entra ID – Stale Application Analysis with PowerShell](https://blog.sonnes.cloud/entra-id-stale-application-analysis-with-powershell/)
 - [Microsoft Defender XDR – Activity log and change incident severity](https://blog.sonnes.cloud/microsoft-defender-xdr-activity-log-and-change-incident-severity/)
 - [Microsoft Defender XDR – Experience Improvements for Advanced Hunting](https://blog.sonnes.cloud/microsoft-defender-xdr-experience-improvements-for-advanced-hunting/)
+- [Reflecting on 2023: A Year of Achievements, Growth, and Gratitude](https://blog.sonnes.cloud/reflecting-on-2023-a-year-of-achievements-growth-and-gratitude/)
+- [Entra ID – Quota Limit – Learn to manage your usage to avoid maxing it out and extend it before it’s too late](https://blog.sonnes.cloud/entra-id-quota-limit-learn-to-manage-your-usage-to-avoid-maxing-it-out-and-extend-it-before-its-too-late/)
+- [Microsoft Defender for Endpoint plug-in for Windows Subsystem for Linux &lpar;WSL&rpar; – finally!](https://blog.sonnes.cloud/microsoft-defender-for-endpoint-plug-in-for-windows-subsystem-for-linux-wsl-finally/)
+- [Get email notifications for actions performed in Defender XDR &lpar;Defender for Endpoint&rpar;](https://blog.sonnes.cloud/get-email-notifications-for-actions-performed-in-defender-xdr-defender-for-endpoint/)
+- [You can now finally upgrade to Windows 11 23H2!](https://blog.sonnes.cloud/you-can-now-finally-upgrade-to-windows-11-23h2/)
+- [Microsoft Defender for Endpoint: New and more streamlined device connectivity on the way](https://blog.sonnes.cloud/microsoft-defender-for-endpoint-new-and-more-streamlined-device-connectivity-on-the-way/)
+- [Entra ID – Comming: Auto-rollout of basic Conditional Access policies to protect your tenant – is missing in so many tenants so finally!](https://blog.sonnes.cloud/entra-id-comming-auto-rollout-of-basic-conditional-access-policies-to-protect-your-tenant-is-missing-in-so-many-tenants-so-finally/)
+- [Messed up NTFS permissions? – how to cleanup and remove users/groups there should NOT be there](https://blog.sonnes.cloud/messed-up-ntfs-permissions-how-to-cleanup-and-remove-users-groups-there-should-not-be-there/)
+- [How is it now you get a refund for Microsoft 365 and Azure  downtime and see service status?](https://blog.sonnes.cloud/how-is-it-now-you-get-a-refund-for-microsoft-365-and-azure-downtime-and-see-service-status/)
+- [Lets create a Free Lab with Microsoft Defender for Endpoint and Simulate some Ransomware Attacks – get the correct free trial](https://blog.sonnes.cloud/lets-create-a-free-lab-with-microsoft-defender-for-endpoint-and-simulate-some-ransomware-attacks-get-the-correct-free-trial/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
