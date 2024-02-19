@@ -135,6 +135,7 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Microsoft Defender XDR – Offboarding scripts will now expire in 3 days and not 30 days](https://blog.sonnes.cloud/microsoft-defender-xdr-offboarding-scripts-will-now-expire-in-3-days-and-not-30-days/)
 - [Microsoft maked the source code for MS-DOS and Word for Windows available to the public](https://blog.sonnes.cloud/microsoft-maked-the-source-code-for-ms-dos-and-word-for-windows-available-to-the-public/)
 - [Entra ID – Global Secure Access Client – What it is about – Part 1](https://blog.sonnes.cloud/entra-id-global-secure-access-client-part-1/)
 - [Configure email authentication for domains you own in Exchange Online &lpar;SPF, DKIM, DMARC and MTA-STS&rpar;](https://blog.sonnes.cloud/configure-email-authentication-for-domains-you-own-in-exchange-online-spf-dkim-dmarc-and-mta-sts/)
@@ -144,7 +145,6 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 - [Entra ID – Stale Application Analysis with PowerShell](https://blog.sonnes.cloud/entra-id-stale-application-analysis-with-powershell/)
 - [Microsoft Defender XDR – Activity log and change incident severity](https://blog.sonnes.cloud/microsoft-defender-xdr-activity-log-and-change-incident-severity/)
 - [Microsoft Defender XDR – Experience Improvements for Advanced Hunting](https://blog.sonnes.cloud/microsoft-defender-xdr-experience-improvements-for-advanced-hunting/)
-- [Reflecting on 2023: A Year of Achievements, Growth, and Gratitude](https://blog.sonnes.cloud/reflecting-on-2023-a-year-of-achievements-growth-and-gratitude/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
