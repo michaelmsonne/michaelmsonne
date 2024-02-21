@@ -161,6 +161,9 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne opened a pull request in MicrosoftDocs/OfficeDocs-SharePoint](https://github.com/MicrosoftDocs/OfficeDocs-SharePoint/pull/4132)
+- [michaelmsonne pushed to patch-1 in michaelmsonne/OfficeDocs-SharePoint](https://github.com/michaelmsonne/OfficeDocs-SharePoint/compare/3028ff0492...9a5b536acf)
+- [michaelmsonne forked michaelmsonne/OfficeDocs-SharePoint from MicrosoftDocs/OfficeDocs-SharePoint](https://github.com/michaelmsonne/OfficeDocs-SharePoint)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/85ac5833b2...9843b041ca)
 - [michaelmsonne pushed to main in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/61614b25c8...8e656fa509)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/30a5d446c6...584aaf183f)
