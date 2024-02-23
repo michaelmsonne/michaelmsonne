@@ -58,6 +58,9 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1)
 <!--START_SECTION:badges-->
 
+[![Microsoft Community Rockstar - 2024](https://images.credly.com/size/110x110/images/0f6a2315-7908-43e8-99c3-9bb5c2459b67/image.png)](http://www.credly.com/badges/78f651d6-017c-4d96-9fd9-0cf9f3d2bc9f "Microsoft Community Rockstar - 2024")
+[![Microsoft Defender for Cloud Influencer - 2024](https://images.credly.com/size/110x110/images/700a8114-e424-463d-bb0d-c2589b34db9a/image.png)](http://www.credly.com/badges/3df0e77c-e06a-48d0-ae82-7d26f81a1b86 "Microsoft Defender for Cloud Influencer - 2024")
+[![Microsoft Security Leader - 2024](https://images.credly.com/size/110x110/images/bfdd477b-f61c-4f2b-917e-c1d1c927c458/image.png)](http://www.credly.com/badges/d6789dba-e2c2-4de5-9a9a-2149b7649451 "Microsoft Security Leader - 2024")
 [![Microsoft Defender XDR Influencer - 2024](https://images.credly.com/size/110x110/images/741877a0-46d9-4054-a395-388e5e539448/image.png)](http://www.credly.com/badges/dcfb5b1b-c88b-4b5d-8018-56d06db1f1b8 "Microsoft Defender XDR Influencer - 2024")
 [![Microsoft Defender for Cloud Champion - 2024](https://images.credly.com/size/110x110/images/ad679bba-a220-4cfb-8ceb-1cb571b6c1e1/image.png)](http://www.credly.com/badges/b27ba941-fe35-44a6-a379-0f87f24ce69c "Microsoft Defender for Cloud Champion - 2024")
 [![Security CCP Customer Champion | January 2024](https://images.credly.com/size/110x110/images/34ed78b8-f9de-4907-b6bd-7779cb5fbcfb/image.png)](http://www.credly.com/badges/10c1f42d-d3a4-4324-bc20-c60522ee7872 "Security CCP Customer Champion | January 2024")
@@ -103,9 +106,6 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 [![MD-100: Windows Client](https://images.credly.com/size/110x110/images/69278d25-c54c-46a2-b1f6-836c6b2a260b/exam-md100-600x600.png)](http://www.credly.com/badges/053f0f0d-8044-4b4e-b756-84efe1671c8f "MD-100: Windows Client")
 [![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/110x110/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](http://www.credly.com/badges/f6c45452-970e-4436-9767-6ba096fb8197 "Microsoft Certified: Azure Administrator Associate")
 [![MS-101: Microsoft 365 Mobility and Security](https://images.credly.com/size/110x110/images/f5aaf5dc-9ef4-4ecd-8886-a68c83e32fc5/exam-ms100_1-600x600.png)](http://www.credly.com/badges/e0a6f2fb-80ae-4079-8ba0-90d4f553a6a8 "MS-101: Microsoft 365 Mobility and Security")
-[![Microsoft 365 Certified: Enterprise Administrator Expert](https://images.credly.com/size/110x110/images/dfa4cb20-16ed-42ca-90a5-6528b62ee651/microsoft365-enterprise-adminstrator-expert-600x600.png)](http://www.credly.com/badges/bb985932-6d88-4bc5-bc50-5830954ec9fc "Microsoft 365 Certified: Enterprise Administrator Expert")
-[![ITIL 4 ® Foundation](https://images.credly.com/size/110x110/images/8b943c4b-c186-4e9f-84aa-004322b76eed/image.png)](http://www.credly.com/badges/f226b3ac-a022-49ca-acca-33537fe5d3b1 "ITIL 4 ® Foundation")
-[![MS-100: Microsoft 365 Identity and Services](https://images.credly.com/size/110x110/images/0c7981d8-e5c6-44c9-8bd6-563664c609cd/exam-ms100-600x600.png)](http://www.credly.com/badges/01baeb05-0b2f-43ca-906f-4d518c861801 "MS-100: Microsoft 365 Identity and Services")
 <!--END_SECTION:badges-->
 
 ## 📜 Member of the Microsoft Customer Connection Program Community
