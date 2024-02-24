@@ -15,3 +15,4 @@ jobs:
         with:
           CREDLY_SORT: RECENT
           CREDLY_USER: michael-morten-sonne
+          NUMBER_LAST_BADGES: 0
