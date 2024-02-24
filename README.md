@@ -55,7 +55,8 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 
 </br>
 
-# 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1)
+# 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1) 
+__*(last 48)*__
 <!--START_SECTION:badges-->
 [![Microsoft Community Rockstar - 2024](https://images.credly.com/size/150x150/images/0f6a2315-7908-43e8-99c3-9bb5c2459b67/image.png)](http://www.credly.com/badges/78f651d6-017c-4d96-9fd9-0cf9f3d2bc9f "Microsoft Community Rockstar - 2024")
 [![Microsoft Defender for Cloud Influencer - 2024](https://images.credly.com/size/150x150/images/700a8114-e424-463d-bb0d-c2589b34db9a/image.png)](http://www.credly.com/badges/3df0e77c-e06a-48d0-ae82-7d26f81a1b86 "Microsoft Defender for Cloud Influencer - 2024")
