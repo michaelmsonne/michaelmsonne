@@ -134,6 +134,7 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Microsoft Defender for Identity – Updated Advanced Settings Page](https://blog.sonnes.cloud/microsoft-defender-for-identity-updated-advanced-settings-page/)
 - [Entra ID – Global Secure Access Client – Installation of the Agent on Windows – Part 2](https://blog.sonnes.cloud/entra-id-global-secure-access-client-part-2/)
 - [Microsoft Defender XDR – Offboarding scripts will now expire in 3 days and not 30 days](https://blog.sonnes.cloud/microsoft-defender-xdr-offboarding-scripts-will-now-expire-in-3-days-and-not-30-days/)
 - [Microsoft maked the source code for MS-DOS and Word for Windows available to the public](https://blog.sonnes.cloud/microsoft-maked-the-source-code-for-ms-dos-and-word-for-windows-available-to-the-public/)
@@ -153,7 +154,6 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 - [Microsoft Defender for Endpoint: New and more streamlined device connectivity on the way](https://blog.sonnes.cloud/microsoft-defender-for-endpoint-new-and-more-streamlined-device-connectivity-on-the-way/)
 - [Entra ID – Comming: Auto-rollout of basic Conditional Access policies to protect your tenant – is missing in so many tenants so finally!](https://blog.sonnes.cloud/entra-id-comming-auto-rollout-of-basic-conditional-access-policies-to-protect-your-tenant-is-missing-in-so-many-tenants-so-finally/)
 - [Messed up NTFS permissions? – how to cleanup and remove users/groups there should NOT be there](https://blog.sonnes.cloud/messed-up-ntfs-permissions-how-to-cleanup-and-remove-users-groups-there-should-not-be-there/)
-- [How is it now you get a refund for Microsoft 365 and Azure  downtime and see service status?](https://blog.sonnes.cloud/how-is-it-now-you-get-a-refund-for-microsoft-365-and-azure-downtime-and-see-service-status/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
