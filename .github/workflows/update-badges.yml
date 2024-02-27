@@ -15,4 +15,4 @@ jobs:
         with:
           CREDLY_SORT: RECENT
           CREDLY_USER: michael-morten-sonne
-          BADGE_SIZE: 130
+          BADGE_SIZE: 110
