@@ -133,6 +133,7 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Honored to receive the Microsoft MVP Award in Security – Febuary 2024!](https://blog.sonnes.cloud/honored-to-receive-the-microsoft-mvp-award-in-security-febuary-2024/)
 - [PowerShell – Code Sign and validate files in a folder with optimized logic](https://blog.sonnes.cloud/powershell-code-sign-and-validate-files-in-a-folder-with-optimized-logic/)
 - [Microsoft Defender for Identity – Updated Advanced Settings Page](https://blog.sonnes.cloud/microsoft-defender-for-identity-updated-advanced-settings-page/)
 - [Entra ID – Global Secure Access Client – Installation of the Agent on Windows – Part 2](https://blog.sonnes.cloud/entra-id-global-secure-access-client-part-2/)
@@ -152,7 +153,6 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 - [Get email notifications for actions performed in Defender XDR &lpar;Defender for Endpoint&rpar;](https://blog.sonnes.cloud/get-email-notifications-for-actions-performed-in-defender-xdr-defender-for-endpoint/)
 - [You can now finally upgrade to Windows 11 23H2!](https://blog.sonnes.cloud/you-can-now-finally-upgrade-to-windows-11-23h2/)
 - [Microsoft Defender for Endpoint: New and more streamlined device connectivity on the way](https://blog.sonnes.cloud/microsoft-defender-for-endpoint-new-and-more-streamlined-device-connectivity-on-the-way/)
-- [Entra ID – Comming: Auto-rollout of basic Conditional Access policies to protect your tenant – is missing in so many tenants so finally!](https://blog.sonnes.cloud/entra-id-comming-auto-rollout-of-basic-conditional-access-policies-to-protect-your-tenant-is-missing-in-so-many-tenants-so-finally/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
