@@ -166,7 +166,9 @@ Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to main in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/7248e0065b...3ff890cf10)
+- [michaelmsonne created a tag 1.0.0 in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/tree/1.0.0)
+- [michaelmsonne released [1.0.0] - 05-03-2024 at michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/releases/tag/1.0.0)
+- [michaelmsonne pushed to main in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/ac83a95b1e...65533862f3)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/75c8af1c7b...b399f1d25c)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/27de19afda...078546104e)
 <!-- LATESTACTIVITYGITHUB:END -->
