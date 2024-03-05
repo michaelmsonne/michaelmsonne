@@ -139,6 +139,7 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [GitHub – Get a local backup of your code repositories](https://blog.sonnes.cloud/github-get-a-local-backup-of-your-code-repositories/)
 - [Honored to receive the Microsoft MVP Award in Security – Febuary 2024!](https://blog.sonnes.cloud/honored-to-receive-the-microsoft-mvp-award-in-security-febuary-2024/)
 - [PowerShell – Code Sign and validate files in a folder with optimized logic](https://blog.sonnes.cloud/powershell-code-sign-and-validate-files-in-a-folder-with-optimized-logic/)
 - [Microsoft Defender for Identity – Updated Advanced Settings Page](https://blog.sonnes.cloud/microsoft-defender-for-identity-updated-advanced-settings-page/)
@@ -158,7 +159,6 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 - [Microsoft Defender for Endpoint plug-in for Windows Subsystem for Linux &lpar;WSL&rpar; – finally!](https://blog.sonnes.cloud/microsoft-defender-for-endpoint-plug-in-for-windows-subsystem-for-linux-wsl-finally/)
 - [Get email notifications for actions performed in Defender XDR &lpar;Defender for Endpoint&rpar;](https://blog.sonnes.cloud/get-email-notifications-for-actions-performed-in-defender-xdr-defender-for-endpoint/)
 - [You can now finally upgrade to Windows 11 23H2!](https://blog.sonnes.cloud/you-can-now-finally-upgrade-to-windows-11-23h2/)
-- [Microsoft Defender for Endpoint: New and more streamlined device connectivity on the way](https://blog.sonnes.cloud/microsoft-defender-for-endpoint-new-and-more-streamlined-device-connectivity-on-the-way/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
