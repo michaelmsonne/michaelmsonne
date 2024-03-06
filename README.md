@@ -139,6 +139,7 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Secure Boot – What it is and how to update Secure Boot keys](https://blog.sonnes.cloud/secure-boot-what-it-is-and-how-to-update-secure-boot-keys/)
 - [GitHub – Get a local backup of your code repositories](https://blog.sonnes.cloud/github-get-a-local-backup-of-your-code-repositories/)
 - [Honored to receive the Microsoft MVP Award in Security – Febuary 2024!](https://blog.sonnes.cloud/honored-to-receive-the-microsoft-mvp-award-in-security-febuary-2024/)
 - [PowerShell – Code Sign and validate files in a folder with optimized logic](https://blog.sonnes.cloud/powershell-code-sign-and-validate-files-in-a-folder-with-optimized-logic/)
@@ -158,7 +159,6 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 - [Entra ID – Quota Limit – Learn to manage your usage to avoid maxing it out and extend it before it’s too late](https://blog.sonnes.cloud/entra-id-quota-limit-learn-to-manage-your-usage-to-avoid-maxing-it-out-and-extend-it-before-its-too-late/)
 - [Microsoft Defender for Endpoint plug-in for Windows Subsystem for Linux &lpar;WSL&rpar; – finally!](https://blog.sonnes.cloud/microsoft-defender-for-endpoint-plug-in-for-windows-subsystem-for-linux-wsl-finally/)
 - [Get email notifications for actions performed in Defender XDR &lpar;Defender for Endpoint&rpar;](https://blog.sonnes.cloud/get-email-notifications-for-actions-performed-in-defender-xdr-defender-for-endpoint/)
-- [You can now finally upgrade to Windows 11 23H2!](https://blog.sonnes.cloud/you-can-now-finally-upgrade-to-windows-11-23h2/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
