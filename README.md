@@ -161,7 +161,7 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 - [Microsoft Defender for Endpoint plug-in for Windows Subsystem for Linux &lpar;WSL&rpar; – finally!](https://blog.sonnes.cloud/microsoft-defender-for-endpoint-plug-in-for-windows-subsystem-for-linux-wsl-finally/)
 <!-- LATESTACTIVITYBLOG:END -->
 
-Starting up a [blog](https://blog.sonnes.cloud/) - check it out!...
+Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 
 ## 🧑‍💻 Latest GitHub activities
 
