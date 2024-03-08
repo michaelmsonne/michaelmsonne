@@ -63,6 +63,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1) 
 __*(Last 48 bades on  credly.com)*__
 <!--START_SECTION:badges-->
+[![Security CCP Customer Champion | February 2024](https://images.credly.com/size/110x110/images/8a963a4a-755f-4b31-9137-6ad31043ea8b/image.png)](http://www.credly.com/badges/cfda5ba1-e1dd-45ab-a317-7c68693925ec "Security CCP Customer Champion | February 2024")
 [![Microsoft Community Rockstar - 2024](https://images.credly.com/size/110x110/images/0f6a2315-7908-43e8-99c3-9bb5c2459b67/image.png)](http://www.credly.com/badges/78f651d6-017c-4d96-9fd9-0cf9f3d2bc9f "Microsoft Community Rockstar - 2024")
 [![Microsoft Defender for Cloud Influencer - 2024](https://images.credly.com/size/110x110/images/700a8114-e424-463d-bb0d-c2589b34db9a/image.png)](http://www.credly.com/badges/3df0e77c-e06a-48d0-ae82-7d26f81a1b86 "Microsoft Defender for Cloud Influencer - 2024")
 [![Microsoft Security Leader - 2024](https://images.credly.com/size/110x110/images/bfdd477b-f61c-4f2b-917e-c1d1c927c458/image.png)](http://www.credly.com/badges/d6789dba-e2c2-4de5-9a9a-2149b7649451 "Microsoft Security Leader - 2024")
@@ -110,7 +111,6 @@ __*(Last 48 bades on  credly.com)*__
 [![Microsoft 365 Certified: Modern Desktop Administrator Associate](https://images.credly.com/size/110x110/images/dbc3530b-af8c-4fa1-8d9c-cdfbd9edf462/microsoft365-modern-desktop-administrator-associate-600x600.png)](http://www.credly.com/badges/19bdacf8-b22e-402e-a2fb-f1f92233fb5b "Microsoft 365 Certified: Modern Desktop Administrator Associate")
 [![MD-100: Windows Client](https://images.credly.com/size/110x110/images/69278d25-c54c-46a2-b1f6-836c6b2a260b/exam-md100-600x600.png)](http://www.credly.com/badges/053f0f0d-8044-4b4e-b756-84efe1671c8f "MD-100: Windows Client")
 [![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/110x110/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](http://www.credly.com/badges/f6c45452-970e-4436-9767-6ba096fb8197 "Microsoft Certified: Azure Administrator Associate")
-[![MS-101: Microsoft 365 Mobility and Security](https://images.credly.com/size/110x110/images/f5aaf5dc-9ef4-4ecd-8886-a68c83e32fc5/exam-ms100_1-600x600.png)](http://www.credly.com/badges/e0a6f2fb-80ae-4079-8ba0-90d4f553a6a8 "MS-101: Microsoft 365 Mobility and Security")
 <!--END_SECTION:badges-->
 
 ## 📜 Member of the Microsoft Customer Connection Program Community
