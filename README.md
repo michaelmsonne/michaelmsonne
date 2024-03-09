@@ -123,6 +123,17 @@ By signing up for one of Microsof´s ongoing communities you will be added to th
 - All participants must have an existing **NDA** with Microsoft. If you do not have an existing **NDA with Microsoft**, please work with your Microsoft Account Team or point-of-contact to issue one.
 - You can not **discuss or publicize** details regarding any private preview with a third party, **without written approval by Microsoft**.
 
+## 🏆 Microsoft MVP Recognition
+
+I am honored to announce that  has been recognized as a **Microsoft Most Valuable Professional (MVP)** in **Security**. 
+
+<a href="https://mvp.microsoft.com/en-US/mvp/profile/b6a5bd91-5ebd-4c84-8965-023a95273093?wt.mc_id=MVP_353010"><img src="https://github.com/michaelmsonne/michaelmsonne/assets/49366751/15b969a0-e7b6-43f1-84fa-df37d160e065" alt="Microsoft MVP"/></a>
+
+#### About the Microsoft MVP Award
+
+The Microsoft MVP Award is an annual recognition given to exceptional, independent community leaders who share their expertise, real-world skills, and passion for technology with others. Recipients of this prestigious award are acknowledged for their outstanding contributions, advocacy, and impact in their respective technical communities.
+
+
 ## Current projects and interests
 
 <p>
