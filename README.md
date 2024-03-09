@@ -166,10 +166,14 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to dev in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/a825597e7c...cdd2ae5633)
+- [michaelmsonne pushed to dev in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/cdd2ae5633...633810616d)
+- [michaelmsonne created a tag 1.1.0.0 in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/tree/1.1.0.0)
+- [michaelmsonne released 1.1.0.0 at michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/releases/tag/1.1.0.0)
+- [michaelmsonne pushed to main in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/65533862f3...85e258f5c4)
+- [michaelmsonne merged a pull request in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/pull/10)
+- [michaelmsonne opened a pull request in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/pull/10)
 - [michaelmsonne commented on issue libgit2/libgit2sharp#2051](https://github.com/libgit2/libgit2sharp/issues/2051#issuecomment-1985521294)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/20bc3ac831...d1dea9f5f4)
-- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/60dd0be51b...db840fc361)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
