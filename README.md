@@ -177,6 +177,9 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/c60dea7cff...6bea9b06a2)
+- [michaelmsonne created a tag 1.0.5.7 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.0.5.7)
+- [michaelmsonne released [1.0.5.7] - 11-03-2024 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.0.5.7)
 - [michaelmsonne starred saharalon/try_git](https://github.com/saharalon/try_git)
 - [michaelmsonne opened a pull request in Azure/Microsoft-Defender-for-Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud/pull/851)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/Microsoft-Defender-for-Cloud](https://github.com/michaelmsonne/Microsoft-Defender-for-Cloud/compare/855ca5f63d...2c46e2ddff)
@@ -188,7 +191,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a tag 1.1.0.0 in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/tree/1.1.0.0)
 - [michaelmsonne released 1.1.0.0 at michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/releases/tag/1.1.0.0)
 - [michaelmsonne merged a pull request in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/pull/10)
-- [michaelmsonne opened a pull request in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/pull/10)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
