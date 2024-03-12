@@ -152,7 +152,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 <!-- LATESTACTIVITYBLOG:START -->
 - [Entra ID – Global Secure Access Client – Setup of the Microsoft 365 Profile – Part 3](https://blog.sonnes.cloud/entra-id-global-secure-access-client-setup-of-the-microsoft-365-profile-part-3/)
 - [Secure Boot – What it is and how to update Secure Boot keys](https://blog.sonnes.cloud/secure-boot-what-it-is-and-how-to-update-secure-boot-keys/)
-- [GitHub – Get a local backup of your code repositories](https://blog.sonnes.cloud/github-get-a-local-backup-of-your-code-repositories/)
+- [GitHub – Get a local backup of your code repositories – v. 1 of the tool](https://blog.sonnes.cloud/github-get-a-local-backup-of-your-code-repositories/)
 - [Honored to receive the Microsoft MVP Award in Security – Febuary 2024!](https://blog.sonnes.cloud/honored-to-receive-the-microsoft-mvp-award-in-security-febuary-2024/)
 - [PowerShell – Code Sign and validate files in a folder with optimized logic](https://blog.sonnes.cloud/powershell-code-sign-and-validate-files-in-a-folder-with-optimized-logic/)
 - [Microsoft Defender for Identity – Updated Advanced Settings Page](https://blog.sonnes.cloud/microsoft-defender-for-identity-updated-advanced-settings-page/)
