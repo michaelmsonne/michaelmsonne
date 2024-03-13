@@ -177,6 +177,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne starred michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool)
 - [michaelmsonne pushed to dev in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/dcea42c886...5c73d74586)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/c60dea7cff...6bea9b06a2)
 - [michaelmsonne created a tag 1.0.5.7 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.0.5.7)
