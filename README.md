@@ -177,6 +177,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/6845c9e782...97f3dad3e1)
 - [michaelmsonne pushed to dev in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/adb65cf23d...6b58d416e8)
 - [michaelmsonne deleted branch michaelmsonne-patch-1 at SonnesTest/TestRepo](https://github.com/)
 - [michaelmsonne deleted branch test at SonnesTest/TestRepo](https://github.com/)
@@ -192,7 +193,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne released [1.0.5.7] - 11-03-2024 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.0.5.7)
 - [michaelmsonne starred saharalon/try_git](https://github.com/saharalon/try_git)
 - [michaelmsonne opened a pull request in Azure/Microsoft-Defender-for-Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud/pull/851)
-- [michaelmsonne pushed to patch-1 in michaelmsonne/Microsoft-Defender-for-Cloud](https://github.com/michaelmsonne/Microsoft-Defender-for-Cloud/compare/855ca5f63d...2c46e2ddff)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
