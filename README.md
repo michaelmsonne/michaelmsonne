@@ -150,6 +150,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Microsoft 365 Developer Program – Attention to all Microsoft 365 developers and learners!](https://blog.sonnes.cloud/microsoft-365-developer-program-attention-to-all-microsoft-365-developers-and-learners/)
 - [Entra ID – Global Secure Access Client – Setup of the Microsoft 365 Profile – Part 3](https://blog.sonnes.cloud/entra-id-global-secure-access-client-setup-of-the-microsoft-365-profile-part-3/)
 - [Secure Boot – What it is and how to update Secure Boot keys](https://blog.sonnes.cloud/secure-boot-what-it-is-and-how-to-update-secure-boot-keys/)
 - [GitHub – Get a local backup of your code repositories – v. 1 of the tool](https://blog.sonnes.cloud/github-get-a-local-backup-of-your-code-repositories/)
@@ -169,7 +170,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Microsoft Defender XDR – Experience Improvements for Advanced Hunting](https://blog.sonnes.cloud/microsoft-defender-xdr-experience-improvements-for-advanced-hunting/)
 - [Reflecting on 2023: A Year of Achievements, Growth, and Gratitude](https://blog.sonnes.cloud/reflecting-on-2023-a-year-of-achievements-growth-and-gratitude/)
 - [Entra ID – Quota Limit – Learn to manage your usage to avoid maxing it out and extend it before it’s too late](https://blog.sonnes.cloud/entra-id-quota-limit-learn-to-manage-your-usage-to-avoid-maxing-it-out-and-extend-it-before-its-too-late/)
-- [Microsoft Defender for Endpoint plug-in for Windows Subsystem for Linux &lpar;WSL&rpar; – finally!](https://blog.sonnes.cloud/microsoft-defender-for-endpoint-plug-in-for-windows-subsystem-for-linux-wsl-finally/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
