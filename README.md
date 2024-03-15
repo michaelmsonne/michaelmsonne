@@ -61,7 +61,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 </br>
 
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1) 
-__*(Last 48 bades on  credly.com)*__
+__*(Last 48 badges on credly.com)*__
 <!--START_SECTION:badges-->
 [![Entra Advisors Customer Champion | February 2024](https://images.credly.com/size/110x110/images/033cfe4e-93c3-4b43-951a-cd5c8b887924/image.png)](http://www.credly.com/badges/7503433c-a778-4bd5-b184-e3dbde628437 "Entra Advisors Customer Champion | February 2024")
 [![Security MVP 2023](https://images.credly.com/size/110x110/images/fefaed44-a378-4f2a-a778-2b43d67c1e71/image.png)](http://www.credly.com/badges/21610306-f7df-488f-8091-3171686bbffa "Security MVP 2023")
