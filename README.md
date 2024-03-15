@@ -63,6 +63,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1) 
 __*(Last 48 bades on  credly.com)*__
 <!--START_SECTION:badges-->
+[![Entra Advisors Customer Champion | February 2024](https://images.credly.com/size/110x110/images/033cfe4e-93c3-4b43-951a-cd5c8b887924/image.png)](http://www.credly.com/badges/7503433c-a778-4bd5-b184-e3dbde628437 "Entra Advisors Customer Champion | February 2024")
 [![Security MVP 2023](https://images.credly.com/size/110x110/images/fefaed44-a378-4f2a-a778-2b43d67c1e71/image.png)](http://www.credly.com/badges/21610306-f7df-488f-8091-3171686bbffa "Security MVP 2023")
 [![Security CCP Customer Champion | February 2024](https://images.credly.com/size/110x110/images/8a963a4a-755f-4b31-9137-6ad31043ea8b/image.png)](http://www.credly.com/badges/cfda5ba1-e1dd-45ab-a317-7c68693925ec "Security CCP Customer Champion | February 2024")
 [![Microsoft Community Rockstar - 2024](https://images.credly.com/size/110x110/images/0f6a2315-7908-43e8-99c3-9bb5c2459b67/image.png)](http://www.credly.com/badges/78f651d6-017c-4d96-9fd9-0cf9f3d2bc9f "Microsoft Community Rockstar - 2024")
@@ -110,7 +111,6 @@ __*(Last 48 bades on  credly.com)*__
 [![Microsoft 365 Certified: Messaging Administrator Associate](https://images.credly.com/size/110x110/images/8d90420f-2166-4168-8f81-b4992777a57f/image.png)](http://www.credly.com/badges/d58533b1-b907-4e12-9baa-363f7bfcf740 "Microsoft 365 Certified: Messaging Administrator Associate")
 [![MD-101: Managing Modern Desktops](https://images.credly.com/size/110x110/images/abf489f7-c482-4632-98de-87a8f3fc5db7/exam-md101-600x600.png)](http://www.credly.com/badges/71969ae9-a1e0-455f-89d2-80e52fff60d7 "MD-101: Managing Modern Desktops")
 [![Microsoft 365 Certified: Modern Desktop Administrator Associate](https://images.credly.com/size/110x110/images/dbc3530b-af8c-4fa1-8d9c-cdfbd9edf462/microsoft365-modern-desktop-administrator-associate-600x600.png)](http://www.credly.com/badges/19bdacf8-b22e-402e-a2fb-f1f92233fb5b "Microsoft 365 Certified: Modern Desktop Administrator Associate")
-[![MD-100: Windows Client](https://images.credly.com/size/110x110/images/69278d25-c54c-46a2-b1f6-836c6b2a260b/exam-md100-600x600.png)](http://www.credly.com/badges/053f0f0d-8044-4b4e-b756-84efe1671c8f "MD-100: Windows Client")
 <!--END_SECTION:badges-->
 
 ## 📜 Member of the Microsoft Customer Connection Program Community
