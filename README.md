@@ -177,8 +177,9 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to dev in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/f32f59e54e...4da75667b3)
+- [michaelmsonne starred michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/6845c9e782...97f3dad3e1)
-- [michaelmsonne pushed to dev in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/adb65cf23d...6b58d416e8)
 - [michaelmsonne deleted branch michaelmsonne-patch-1 at SonnesTest/TestRepo](https://github.com/)
 - [michaelmsonne deleted branch test at SonnesTest/TestRepo](https://github.com/)
 - [michaelmsonne commented on pull request michaelmsonne/GitHubBackupTool#11](https://github.com/michaelmsonne/GitHubBackupTool/pull/11#issuecomment-1994368691)
@@ -187,12 +188,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne commented on pull request SonnesTest/TestRepo#1](https://github.com/SonnesTest/TestRepo/pull/1#issuecomment-1994265018)
 - [michaelmsonne opened a pull request in SonnesTest/TestRepo](https://github.com/SonnesTest/TestRepo/pull/1)
 - [michaelmsonne created a branch michaelmsonne-patch-1 in SonnesTest/TestRepo](https://github.com/SonnesTest/TestRepo/compare/michaelmsonne-patch-1)
-- [michaelmsonne starred michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/c60dea7cff...6bea9b06a2)
-- [michaelmsonne created a tag 1.0.5.7 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.0.5.7)
-- [michaelmsonne released [1.0.5.7] - 11-03-2024 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.0.5.7)
-- [michaelmsonne starred saharalon/try_git](https://github.com/saharalon/try_git)
-- [michaelmsonne opened a pull request in Azure/Microsoft-Defender-for-Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud/pull/851)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
