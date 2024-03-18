@@ -177,7 +177,9 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/bb00f06591...b28b2b64d5)
+- [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/b28b2b64d5...1a3e8546e5)
+- [michaelmsonne created a tag 1.0.0.6 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/tree/1.0.0.6)
+- [michaelmsonne released 1.0.0.6 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.6)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/ec263ed6ba...355d1f7d04)
 - [michaelmsonne pushed to main in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/7c89b6f70f...09e7f4f18c)
 - [michaelmsonne released 1.2.0.0 at michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/releases/tag/1.2.0.0)
@@ -186,8 +188,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to dev in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/33740a4ce3...9047f43e70)
 - [michaelmsonne opened a pull request in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/pull/12)
 - [michaelmsonne starred michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool)
-- [michaelmsonne deleted branch michaelmsonne-patch-1 at SonnesTest/TestRepo](https://github.com/)
-- [michaelmsonne deleted branch test at SonnesTest/TestRepo](https://github.com/)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
