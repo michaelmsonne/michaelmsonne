@@ -177,6 +177,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne commented on pull request Azure/Microsoft-Defender-for-Cloud#851](https://github.com/Azure/Microsoft-Defender-for-Cloud/pull/851#issuecomment-2015088560)
 - [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/b28b2b64d5...1a3e8546e5)
 - [michaelmsonne created a tag 1.0.0.6 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/tree/1.0.0.6)
 - [michaelmsonne released 1.0.0.6 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.6)
