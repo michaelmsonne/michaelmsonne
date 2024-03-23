@@ -150,6 +150,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Azure – Automating Management Group Removal in Azure with PowerShell](https://blog.sonnes.cloud/azure-automating-management-group-removal-in-azure-with-powershell/)
 - [Introducing GitHub Backup Tool 1.2.0.0: Enhanced Security and Customization](https://blog.sonnes.cloud/introducing-github-backup-tool-1-2-0-0-enhanced-security-and-customization/)
 - [Microsoft 365 Developer Program – Attention to all Microsoft 365 developers and learners!](https://blog.sonnes.cloud/microsoft-365-developer-program-attention-to-all-microsoft-365-developers-and-learners/)
 - [Entra ID – Global Secure Access Client – Setup of the Microsoft 365 Profile – Part 3](https://blog.sonnes.cloud/entra-id-global-secure-access-client-setup-of-the-microsoft-365-profile-part-3/)
@@ -169,7 +170,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Entra ID – Stale Application Analysis with PowerShell](https://blog.sonnes.cloud/entra-id-stale-application-analysis-with-powershell/)
 - [Microsoft Defender XDR – Activity log and change incident severity](https://blog.sonnes.cloud/microsoft-defender-xdr-activity-log-and-change-incident-severity/)
 - [Microsoft Defender XDR – Experience Improvements for Advanced Hunting](https://blog.sonnes.cloud/microsoft-defender-xdr-experience-improvements-for-advanced-hunting/)
-- [Reflecting on 2023: A Year of Achievements, Growth, and Gratitude](https://blog.sonnes.cloud/reflecting-on-2023-a-year-of-achievements-growth-and-gratitude/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
