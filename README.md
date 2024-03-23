@@ -177,6 +177,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/b6148deeaa...87d93bb7b7)
 - [michaelmsonne commented on pull request Azure/Microsoft-Defender-for-Cloud#851](https://github.com/Azure/Microsoft-Defender-for-Cloud/pull/851#issuecomment-2016485280)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/Microsoft-Defender-for-Cloud](https://github.com/michaelmsonne/Microsoft-Defender-for-Cloud/compare/2c46e2ddff...119ebb0345)
 - [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/b28b2b64d5...1a3e8546e5)
@@ -189,7 +190,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne merged a pull request in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/pull/12)
 - [michaelmsonne pushed to dev in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/33740a4ce3...9047f43e70)
 - [michaelmsonne opened a pull request in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/pull/12)
-- [michaelmsonne starred michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
