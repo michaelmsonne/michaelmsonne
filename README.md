@@ -177,7 +177,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/6719e6fd32...a639956816)
+- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/0e904827a9...b7fced4f7f)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#3](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/3#issuecomment-2027790396)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#1](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/1#issuecomment-2027785405)
 - [michaelmsonne closed an issue in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/1)
@@ -185,7 +185,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to dev in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/e3bb8bd891...006b941e69)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/fc24d97ee9...d09d8a1936)
 - [michaelmsonne commented on pull request Azure/Microsoft-Defender-for-Cloud#851](https://github.com/Azure/Microsoft-Defender-for-Cloud/pull/851#issuecomment-2016485280)
-- [michaelmsonne pushed to patch-1 in michaelmsonne/Microsoft-Defender-for-Cloud](https://github.com/michaelmsonne/Microsoft-Defender-for-Cloud/compare/2c46e2ddff...119ebb0345)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
