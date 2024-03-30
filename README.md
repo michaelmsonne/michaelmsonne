@@ -177,10 +177,9 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to dev in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/2425f09bfd...0bd2b3d559)
+- [michaelmsonne pushed to dev in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/0bd2b3d559...6c28438656)
 - [michaelmsonne commented on issue libgit2/libgit2sharp#2087](https://github.com/libgit2/libgit2sharp/issues/2087#issuecomment-2028037333)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/1b50a1367e...944be5081d)
-- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#3](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/3#issuecomment-2027790396)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
