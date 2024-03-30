@@ -177,7 +177,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/673ecfd562...311013aa32)
+- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/6719e6fd32...a639956816)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#3](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/3#issuecomment-2027790396)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#1](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/1#issuecomment-2027785405)
 - [michaelmsonne closed an issue in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/1)
@@ -186,11 +186,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/fc24d97ee9...d09d8a1936)
 - [michaelmsonne commented on pull request Azure/Microsoft-Defender-for-Cloud#851](https://github.com/Azure/Microsoft-Defender-for-Cloud/pull/851#issuecomment-2016485280)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/Microsoft-Defender-for-Cloud](https://github.com/michaelmsonne/Microsoft-Defender-for-Cloud/compare/2c46e2ddff...119ebb0345)
-- [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/b28b2b64d5...1a3e8546e5)
-- [michaelmsonne created a tag 1.0.0.6 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/tree/1.0.0.6)
-- [michaelmsonne released 1.0.0.6 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.6)
-- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/ec263ed6ba...355d1f7d04)
-- [michaelmsonne pushed to main in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/7c89b6f70f...09e7f4f18c)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
