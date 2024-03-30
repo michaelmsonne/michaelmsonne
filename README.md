@@ -177,9 +177,13 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to dev in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/8e144556eb...0acddf77ca)
+- [michaelmsonne created a tag 1.3.0.0 in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/tree/1.3.0.0)
+- [michaelmsonne released 1.3.0.0 at michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/releases/tag/1.3.0.0)
+- [michaelmsonne pushed to main in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/09e7f4f18c...9e649edc6b)
+- [michaelmsonne merged a pull request in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/pull/14)
+- [michaelmsonne pushed to dev in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/00f0d0f1c6...15ffeda5ea)
+- [michaelmsonne opened a pull request in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/pull/14)
 - [michaelmsonne commented on issue libgit2/libgit2sharp#2087](https://github.com/libgit2/libgit2sharp/issues/2087#issuecomment-2028037333)
-- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/1b50a1367e...944be5081d)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
