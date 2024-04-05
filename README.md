@@ -63,6 +63,10 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1) 
 __*(Last 48 badges on credly.com)*__
 <!--START_SECTION:badges-->
+[![Microsoft SIEM Champion - 2024](https://images.credly.com/size/110x110/images/9de0181b-fcef-4e3a-b961-4a71fc3c7d0a/image.png)](http://www.credly.com/badges/17034c43-5573-4877-8336-154cb689a310 "Microsoft SIEM Champion - 2024")
+[![Entra Advisors Customer Champion | March 2024](https://images.credly.com/size/110x110/images/fff0ba1e-e13b-4d6a-893b-c6938560b89f/image.png)](http://www.credly.com/badges/dead5a97-799f-44d2-9777-2429418f0201 "Entra Advisors Customer Champion | March 2024")
+[![SIEM Influencer - 2024](https://images.credly.com/size/110x110/images/3250c29b-2d23-46af-86cd-2ffa12d3afad/image.png)](http://www.credly.com/badges/1401f08a-dc98-4904-aee4-af7272d736c2 "SIEM Influencer - 2024")
+[![Security CCP Customer Champion | March 2024](https://images.credly.com/size/110x110/images/dfa35e1b-728e-485d-b97e-7671b9fcb454/image.png)](http://www.credly.com/badges/24f65be0-c67b-4d2d-9594-68374a79a1e6 "Security CCP Customer Champion | March 2024")
 [![Entra Advisors Customer Champion | February 2024](https://images.credly.com/size/110x110/images/033cfe4e-93c3-4b43-951a-cd5c8b887924/image.png)](http://www.credly.com/badges/7503433c-a778-4bd5-b184-e3dbde628437 "Entra Advisors Customer Champion | February 2024")
 [![Security MVP 2023](https://images.credly.com/size/110x110/images/fefaed44-a378-4f2a-a778-2b43d67c1e71/image.png)](http://www.credly.com/badges/21610306-f7df-488f-8091-3171686bbffa "Security MVP 2023")
 [![Security CCP Customer Champion | February 2024](https://images.credly.com/size/110x110/images/8a963a4a-755f-4b31-9137-6ad31043ea8b/image.png)](http://www.credly.com/badges/cfda5ba1-e1dd-45ab-a317-7c68693925ec "Security CCP Customer Champion | February 2024")
@@ -107,10 +111,6 @@ __*(Last 48 badges on credly.com)*__
 [![Microsoft Certified: Windows Server Hybrid Administrator Associate](https://images.credly.com/size/110x110/images/9383e4b7-dbc0-4618-be67-3cd02fba948a/image.png)](http://www.credly.com/badges/777d8e3e-1045-43a9-9cb4-70dd14ec597e "Microsoft Certified: Windows Server Hybrid Administrator Associate")
 [![AZ-801: Configuring Windows Server Hybrid Advanced Services](https://images.credly.com/size/110x110/images/cc3c9fd5-123a-439e-a297-e31f40b79aaa/image.png)](http://www.credly.com/badges/3eb6c4b7-fc6d-4fb1-bcea-9f872928e4ac "AZ-801: Configuring Windows Server Hybrid Advanced Services")
 [![AZ-800: Administering Windows Server Hybrid Core Infrastructure](https://images.credly.com/size/110x110/images/863b781b-4c02-47e9-bb31-11a2a1e2fd79/image.png)](http://www.credly.com/badges/fcc26bba-eada-4d12-b28d-b93e2fe658d9 "AZ-800: Administering Windows Server Hybrid Core Infrastructure")
-[![Microsoft Certified: Identity and Access Administrator Associate](https://images.credly.com/size/110x110/images/91295436-0704-4b98-8e1a-ef5f937bda21/identity-and-access-administrator-associate-600x600.png)](http://www.credly.com/badges/0a3c7edd-d8ca-4bc7-8312-cc8db0cfe37f "Microsoft Certified: Identity and Access Administrator Associate")
-[![Microsoft 365 Certified: Messaging Administrator Associate](https://images.credly.com/size/110x110/images/8d90420f-2166-4168-8f81-b4992777a57f/image.png)](http://www.credly.com/badges/d58533b1-b907-4e12-9baa-363f7bfcf740 "Microsoft 365 Certified: Messaging Administrator Associate")
-[![MD-101: Managing Modern Desktops](https://images.credly.com/size/110x110/images/abf489f7-c482-4632-98de-87a8f3fc5db7/exam-md101-600x600.png)](http://www.credly.com/badges/71969ae9-a1e0-455f-89d2-80e52fff60d7 "MD-101: Managing Modern Desktops")
-[![Microsoft 365 Certified: Modern Desktop Administrator Associate](https://images.credly.com/size/110x110/images/dbc3530b-af8c-4fa1-8d9c-cdfbd9edf462/microsoft365-modern-desktop-administrator-associate-600x600.png)](http://www.credly.com/badges/19bdacf8-b22e-402e-a2fb-f1f92233fb5b "Microsoft 365 Certified: Modern Desktop Administrator Associate")
 <!--END_SECTION:badges-->
 
 ## 📜 Member of the Microsoft Customer Connection Program Community
