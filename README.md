@@ -177,7 +177,9 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/cb312156e4...8366dee48a)
+- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/50dc138661...aa2e7e0fd0)
+- [michaelmsonne created a tag 1.0.5.8 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.0.5.8)
+- [michaelmsonne released 1.0.5.8 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.0.5.8)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#3](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/3#issuecomment-2053687404)
 - [michaelmsonne closed an issue in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/3)
 - [michaelmsonne merged a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/4)
@@ -187,11 +189,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a branch formatting-patch1 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/formatting-patch1)
 - [michaelmsonne pushed to formatting in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/0cf4634eaa...cf382c1633)
 - [michaelmsonne deleted branch patch-1 at michaelmsonne/maester](https://github.com/)
-- [michaelmsonne created a branch formatting in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/formatting)
-- [michaelmsonne pushed to patch-1 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/51c5f47e6a...0cf4634eaa)
-- [michaelmsonne forked michaelmsonne/maester from maester365/maester](https://github.com/michaelmsonne/maester)
-- [michaelmsonne created a tag 1.3.0.0 in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/tree/1.3.0.0)
-- [michaelmsonne released 1.3.0.0 at michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/releases/tag/1.3.0.0)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
