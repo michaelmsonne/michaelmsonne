@@ -177,7 +177,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/024d4a9530...f60e84ae8b)
+- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/cb312156e4...8366dee48a)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#3](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/3#issuecomment-2053687404)
 - [michaelmsonne closed an issue in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/3)
 - [michaelmsonne merged a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/4)
@@ -192,8 +192,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne forked michaelmsonne/maester from maester365/maester](https://github.com/michaelmsonne/maester)
 - [michaelmsonne created a tag 1.3.0.0 in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/tree/1.3.0.0)
 - [michaelmsonne released 1.3.0.0 at michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/releases/tag/1.3.0.0)
-- [michaelmsonne pushed to main in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/09e7f4f18c...9e649edc6b)
-- [michaelmsonne merged a pull request in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/pull/14)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
