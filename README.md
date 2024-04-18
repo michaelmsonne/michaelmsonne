@@ -177,6 +177,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/a3ba67a036...fe54fb42b1)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/ee7b25fe1e...c5a474f484)
 - [michaelmsonne created a branch master in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/compare/master)
 - [michaelmsonne created a tag 1.0.5.8 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.0.5.8)
@@ -185,8 +186,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne closed an issue in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/3)
 - [michaelmsonne merged a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/4)
 - [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/61)
-- [michaelmsonne pushed to formatting-patch1 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/cf382c1633...e87c4d0a9d)
-- [michaelmsonne deleted branch formatting at michaelmsonne/maester](https://github.com/)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
