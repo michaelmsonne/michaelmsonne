@@ -63,6 +63,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1) 
 __*(Last 48 badges on credly.com)*__
 <!--START_SECTION:badges-->
+[![Microsoft Defender XDR Black Belt](https://images.credly.com/size/110x110/images/54ac29d3-ffa7-4f7b-93f0-cfdae963191f/image.png)](http://www.credly.com/badges/2047e7a6-768e-4887-9d12-5d3fcea17412 "Microsoft Defender XDR Black Belt")
 [![Microsoft SIEM Champion - 2024](https://images.credly.com/size/110x110/images/9de0181b-fcef-4e3a-b961-4a71fc3c7d0a/image.png)](http://www.credly.com/badges/17034c43-5573-4877-8336-154cb689a310 "Microsoft SIEM Champion - 2024")
 [![Entra Advisors Customer Champion | March 2024](https://images.credly.com/size/110x110/images/fff0ba1e-e13b-4d6a-893b-c6938560b89f/image.png)](http://www.credly.com/badges/dead5a97-799f-44d2-9777-2429418f0201 "Entra Advisors Customer Champion | March 2024")
 [![SIEM Influencer - 2024](https://images.credly.com/size/110x110/images/3250c29b-2d23-46af-86cd-2ffa12d3afad/image.png)](http://www.credly.com/badges/1401f08a-dc98-4904-aee4-af7272d736c2 "SIEM Influencer - 2024")
@@ -110,7 +111,6 @@ __*(Last 48 badges on credly.com)*__
 [![SC-100: Microsoft Cybersecurity Architect](https://images.credly.com/size/110x110/images/c34a6df4-c7bd-461b-ac12-deab18ab6804/image.png)](http://www.credly.com/badges/59636de2-932e-4fb9-82c2-d61539154f2c "SC-100: Microsoft Cybersecurity Architect")
 [![Microsoft Certified: Windows Server Hybrid Administrator Associate](https://images.credly.com/size/110x110/images/9383e4b7-dbc0-4618-be67-3cd02fba948a/image.png)](http://www.credly.com/badges/777d8e3e-1045-43a9-9cb4-70dd14ec597e "Microsoft Certified: Windows Server Hybrid Administrator Associate")
 [![AZ-801: Configuring Windows Server Hybrid Advanced Services](https://images.credly.com/size/110x110/images/cc3c9fd5-123a-439e-a297-e31f40b79aaa/image.png)](http://www.credly.com/badges/3eb6c4b7-fc6d-4fb1-bcea-9f872928e4ac "AZ-801: Configuring Windows Server Hybrid Advanced Services")
-[![AZ-800: Administering Windows Server Hybrid Core Infrastructure](https://images.credly.com/size/110x110/images/863b781b-4c02-47e9-bb31-11a2a1e2fd79/image.png)](http://www.credly.com/badges/fcc26bba-eada-4d12-b28d-b93e2fe658d9 "AZ-800: Administering Windows Server Hybrid Core Infrastructure")
 <!--END_SECTION:badges-->
 
 ## 📜 Member of the Microsoft Customer Connection Program Community
