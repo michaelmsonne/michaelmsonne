@@ -150,6 +150,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Defender for Cloud – Reset to free tier via PowerShell](https://blog.sonnes.cloud/defender-for-cloud-reset-to-free-tier-via-powershell/)
 - [Introducing Azure DevOps Backup Tool 1.0.5.8: Enhanced security, optimization and bug fixes!](https://blog.sonnes.cloud/introducing-azure-devops-backup-tool-1-0-5-8-enhanced-security-optimization-and-bug-fixes/)
 - [Microsoft Defender XDR – Unified Security Operations Platform &lpar;Sentinel and Defender&rpar;](https://blog.sonnes.cloud/microsoft-defender-xdr-unified-security-operations-platform-sentinel-and-defender/)
 - [Defender for Office 365 – Hunting and responding to QR code-based phishing attacks](https://blog.sonnes.cloud/defender-for-office-365-hunting-and-responding-to-qr-code-based-phishing-attacks/)
@@ -169,7 +170,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Entra ID – Global Secure Access Client – What it is about – Part 1](https://blog.sonnes.cloud/entra-id-global-secure-access-client-part-1/)
 - [Configure email authentication for domains you own in Exchange Online &lpar;SPF, DKIM, DMARC and MTA-STS&rpar;](https://blog.sonnes.cloud/configure-email-authentication-for-domains-you-own-in-exchange-online-spf-dkim-dmarc-and-mta-sts/)
 - [Defender for Cloud – Permissions Management – New Features added to Cloud Infrastructure Entitlement Management &lpar;CIEM&rpar;](https://blog.sonnes.cloud/defender-for-cloud-permissions-management-new-features-added-to-cloud-infrastructure-entitlement-management-ciem/)
-- [Microsoft Defender for Identity – What is it, how to install it and setup requirements](https://blog.sonnes.cloud/microsoft-defender-for-identity-what-is-it-how-to-install-it-and-setup-requirements/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
