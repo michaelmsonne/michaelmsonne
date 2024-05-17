@@ -63,6 +63,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1) 
 __*(Last 48 badges on credly.com)*__
 <!--START_SECTION:badges-->
+[![Entra ID Champion - 2024](https://images.credly.com/size/110x110/images/02a6bf6f-7f98-484f-b37b-c8f0b55ac747/image.png)](http://www.credly.com/badges/96efb85e-c4a3-4232-b756-22f95fb2eefb "Entra ID Champion - 2024")
 [![Security CCP Customer Champion | April 2024](https://images.credly.com/size/110x110/images/44d837e5-6699-4332-a797-9e7ea5e2a152/image.png)](http://www.credly.com/badges/d4af86c1-6801-4162-af9a-444413985366 "Security CCP Customer Champion | April 2024")
 [![Microsoft Defender XDR Black Belt](https://images.credly.com/size/110x110/images/54ac29d3-ffa7-4f7b-93f0-cfdae963191f/image.png)](http://www.credly.com/badges/2047e7a6-768e-4887-9d12-5d3fcea17412 "Microsoft Defender XDR Black Belt")
 [![Microsoft SIEM Champion - 2024](https://images.credly.com/size/110x110/images/9de0181b-fcef-4e3a-b961-4a71fc3c7d0a/image.png)](http://www.credly.com/badges/17034c43-5573-4877-8336-154cb689a310 "Microsoft SIEM Champion - 2024")
@@ -110,7 +111,6 @@ __*(Last 48 badges on credly.com)*__
 [![Kusto Detective Agency - Onboarding](https://images.credly.com/size/110x110/images/84201552-025f-4b97-81c4-55be4ba896ff/image.png)](http://www.credly.com/badges/d086bcd0-3121-4afa-992e-18f4fb69cf68 "Kusto Detective Agency - Onboarding")
 [![Microsoft Certified: Cybersecurity Architect Expert](https://images.credly.com/size/110x110/images/0ba22331-acf9-4e8a-8ce3-b4cc3d376040/image.png)](http://www.credly.com/badges/c7761c69-deb2-4832-9300-862c6aba6169 "Microsoft Certified: Cybersecurity Architect Expert")
 [![SC-100: Microsoft Cybersecurity Architect](https://images.credly.com/size/110x110/images/c34a6df4-c7bd-461b-ac12-deab18ab6804/image.png)](http://www.credly.com/badges/59636de2-932e-4fb9-82c2-d61539154f2c "SC-100: Microsoft Cybersecurity Architect")
-[![Microsoft Certified: Windows Server Hybrid Administrator Associate](https://images.credly.com/size/110x110/images/9383e4b7-dbc0-4618-be67-3cd02fba948a/image.png)](http://www.credly.com/badges/777d8e3e-1045-43a9-9cb4-70dd14ec597e "Microsoft Certified: Windows Server Hybrid Administrator Associate")
 <!--END_SECTION:badges-->
 
 ## 📜 Member of the Microsoft Customer Connection Program Community
