@@ -135,7 +135,7 @@ I am honored to announce that  has been recognized as a **Microsoft Most Valuabl
 
 The Microsoft MVP Award is an annual recognition given to exceptional, independent community leaders who share their expertise, real-world skills, and passion for technology with others. Recipients of this prestigious award are acknowledged for their outstanding contributions, advocacy, and impact in their respective technical communities.
 
-[Read more about the award here](https://mvp.microsoft.com/)
+[Read more about the award here](https://mvp.microsoft.com/en-US/mvp)
 
 ## Current projects and interests
 
