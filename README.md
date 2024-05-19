@@ -177,9 +177,11 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to dev in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/compare/77a6d70c96...a530a53e24)
+- [michaelmsonne created a branch dev in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/compare/dev)
+- [michaelmsonne pushed to main in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/compare/6faa7464be...ace2794f4a)
 - [michaelmsonne created a tag 1.0.0.3 in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/tree/1.0.0.3)
 - [michaelmsonne released 1.0.0.3 at michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/releases/tag/1.0.0.3)
-- [michaelmsonne pushed to main in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/compare/0844920450...1452c2fffa)
 - [michaelmsonne deleted branch master at michaelmsonne/LookupIPtoDNSTool](https://github.com/)
 - [michaelmsonne pushed to master in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/compare/45fb466498...80f55105ca)
 - [michaelmsonne opened an issue in msmvps/join-this-organization](https://github.com/msmvps/join-this-organization/issues/193)
