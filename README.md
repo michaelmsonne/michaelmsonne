@@ -34,6 +34,8 @@
 
 Most of my PowerShell (.ps1), programs (.exe) and Releases files will signed with my code signing certificate. This way you can run it, if you require scripts to be signed or to validate it comes from me. Of course you can also choose to sign it with your own internal code signing certificate.
 
+If **you will support me** to keep doing this (Code Sign) **for the community**, please support me with some 🤑 to keep it **active**! 🤘
+
 See Certificate information here: [Trusted Publisher Certificate by Sectigo](https://github.com/michaelmsonne/michaelmsonne/tree/main/Trusted_Publisher_Certificate) - Sectigo Public Code Signing CA R36, Sectigo Limited
 
 ### Code security
