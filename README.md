@@ -177,15 +177,17 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne created a tag 1.0.0.3 in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/tree/1.0.0.3)
+- [michaelmsonne released 1.0.0.3 at michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/releases/tag/1.0.0.3)
+- [michaelmsonne pushed to main in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/compare/0844920450...1452c2fffa)
+- [michaelmsonne deleted branch master at michaelmsonne/LookupIPtoDNSTool](https://github.com/)
+- [michaelmsonne pushed to master in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/compare/45fb466498...80f55105ca)
 - [michaelmsonne opened an issue in msmvps/join-this-organization](https://github.com/msmvps/join-this-organization/issues/193)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/a3ba67a036...fe54fb42b1)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/ee7b25fe1e...c5a474f484)
 - [michaelmsonne created a branch master in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/compare/master)
 - [michaelmsonne created a tag 1.0.5.8 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.0.5.8)
 - [michaelmsonne released 1.0.5.8 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.0.5.8)
-- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#3](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/3#issuecomment-2053687404)
-- [michaelmsonne closed an issue in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/3)
-- [michaelmsonne merged a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/4)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
