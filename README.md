@@ -180,6 +180,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne commented on issue msmvps/join-this-organization#193](https://github.com/msmvps/join-this-organization/issues/193#issuecomment-2134061776)
 - [michaelmsonne pushed to dev in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/compare/f3600f96a0...a7cf399859)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/53d529f0b3...2fb0e99a1e)
 - [michaelmsonne created a branch dev in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/compare/dev)
@@ -190,8 +191,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to master in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/compare/45fb466498...80f55105ca)
 - [michaelmsonne opened an issue in msmvps/join-this-organization](https://github.com/msmvps/join-this-organization/issues/193)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/a3ba67a036...fe54fb42b1)
-- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/ee7b25fe1e...c5a474f484)
-- [michaelmsonne created a branch master in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/compare/master)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
