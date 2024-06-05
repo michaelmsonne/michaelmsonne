@@ -153,6 +153,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Entra ID – Global Secure Access Client – Assign users and groups to forwarding profiles](https://blog.sonnes.cloud/entra-id-global-secure-access-client-assign-users-and-groups-to-forwarding-profiles/)
 - [Introducing a new tool – Lookup IP to DNS Tool – v. 1.0.0.3!](https://blog.sonnes.cloud/introducing-a-new-tool-lookup-ip-to-dns-tool-v-1-0-0-3/)
 - [Entra ID – Exploring the new feature: What’s New](https://blog.sonnes.cloud/entra-id-exploring-the-new-feature-whats-new/)
 - [Defender for Cloud – Reset to free tier via PowerShell](https://blog.sonnes.cloud/defender-for-cloud-reset-to-free-tier-via-powershell/)
@@ -172,7 +173,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Entra ID – Global Secure Access Client – Installation of the Agent on Windows – Part 2](https://blog.sonnes.cloud/entra-id-global-secure-access-client-part-2/)
 - [Microsoft Defender XDR – Offboarding scripts will now expire in 3 days and not 30 days](https://blog.sonnes.cloud/microsoft-defender-xdr-offboarding-scripts-will-now-expire-in-3-days-and-not-30-days/)
 - [Microsoft maked the source code for MS-DOS and Word for Windows available to the public](https://blog.sonnes.cloud/microsoft-maked-the-source-code-for-ms-dos-and-word-for-windows-available-to-the-public/)
-- [Entra ID – Global Secure Access Client – What it is about – Part 1](https://blog.sonnes.cloud/entra-id-global-secure-access-client-part-1/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
