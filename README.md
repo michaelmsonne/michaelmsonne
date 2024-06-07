@@ -65,6 +65,8 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1) 
 __*(Last 48 badges from credly.com - there is more than this...)*__
 <!--START_SECTION:badges-->
+[![Security CCP Customer Champion | May 2024](https://images.credly.com/size/110x110/images/5360ca70-b6a3-4a4a-a008-077036a80e64/image.png)](http://www.credly.com/badges/22503086-7d77-4b94-a3c3-9f232dae032d "Security CCP Customer Champion | May 2024")
+[![Entra Advisors Customer Champion | May 2024](https://images.credly.com/size/110x110/images/2a03bbe0-2f64-43a7-b8cd-47d4521be860/image.png)](http://www.credly.com/badges/7f18a19b-ed59-478f-afb1-c376eaf8c43f "Entra Advisors Customer Champion | May 2024")
 [![Entra ID Champion - 2024](https://images.credly.com/size/110x110/images/02a6bf6f-7f98-484f-b37b-c8f0b55ac747/image.png)](http://www.credly.com/badges/96efb85e-c4a3-4232-b756-22f95fb2eefb "Entra ID Champion - 2024")
 [![Security CCP Customer Champion | April 2024](https://images.credly.com/size/110x110/images/44d837e5-6699-4332-a797-9e7ea5e2a152/image.png)](http://www.credly.com/badges/d4af86c1-6801-4162-af9a-444413985366 "Security CCP Customer Champion | April 2024")
 [![Microsoft Defender XDR Black Belt](https://images.credly.com/size/110x110/images/54ac29d3-ffa7-4f7b-93f0-cfdae963191f/image.png)](http://www.credly.com/badges/2047e7a6-768e-4887-9d12-5d3fcea17412 "Microsoft Defender XDR Black Belt")
@@ -111,8 +113,6 @@ __*(Last 48 badges from credly.com - there is more than this...)*__
 [![Kusto Detective Agency - Case #2 Badge](https://images.credly.com/size/110x110/images/ba8eb12f-2d57-4e9c-b1da-c395bd1d7fd3/image.png)](http://www.credly.com/badges/fe898ddf-dc1e-4f40-a79f-33eb8f42ed7f "Kusto Detective Agency - Case #2 Badge")
 [![Kusto Detective Agency - Case #1 Badge](https://images.credly.com/size/110x110/images/14d53c52-2701-4045-9f89-e5e510eee2fd/image.png)](http://www.credly.com/badges/fd6d3bb9-ac1e-40cc-8fff-bc14ebfd16f8 "Kusto Detective Agency - Case #1 Badge")
 [![Kusto Detective Agency - Onboarding](https://images.credly.com/size/110x110/images/84201552-025f-4b97-81c4-55be4ba896ff/image.png)](http://www.credly.com/badges/d086bcd0-3121-4afa-992e-18f4fb69cf68 "Kusto Detective Agency - Onboarding")
-[![Microsoft Certified: Cybersecurity Architect Expert](https://images.credly.com/size/110x110/images/0ba22331-acf9-4e8a-8ce3-b4cc3d376040/image.png)](http://www.credly.com/badges/c7761c69-deb2-4832-9300-862c6aba6169 "Microsoft Certified: Cybersecurity Architect Expert")
-[![SC-100: Microsoft Cybersecurity Architect](https://images.credly.com/size/110x110/images/c34a6df4-c7bd-461b-ac12-deab18ab6804/image.png)](http://www.credly.com/badges/59636de2-932e-4fb9-82c2-d61539154f2c "SC-100: Microsoft Cybersecurity Architect")
 <!--END_SECTION:badges-->
 
 ## 📜 Member of the Microsoft Customer Connection Program Community
