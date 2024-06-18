@@ -180,11 +180,11 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.8.1 at michaelmsonne/maester](https://github.com/)
+- [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/243)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.8.1 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.8.1)
+- [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.8.1 at michaelmsonne/maester](https://github.com/)
 - [michaelmsonne pushed to michaelmsonne-UpdateMS.AAD.8.1 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/db1b4e851d...d59ec33c1a)
 - [michaelmsonne pushed to michaelmsonne-UpdateMS.AAD.8.2 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/90242de55c...2243c3a073)
-- [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/242)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.8.2 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.8.2)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.1 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.1)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.3.6 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.3.6)
