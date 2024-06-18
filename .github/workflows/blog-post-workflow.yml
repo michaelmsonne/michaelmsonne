@@ -17,6 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: 'https://blog.sonnes.cloud/feed/'
-          max_post_count: '25'
+          max_post_count: '30'
           comment_tag_name: 'LATESTACTIVITYBLOG'
           remove_duplicates: 'true'
