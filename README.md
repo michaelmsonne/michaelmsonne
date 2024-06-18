@@ -180,7 +180,11 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/243)
+- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.6 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.6)
+- [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/246)
+- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.7 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.7)
+- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.8 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.8)
+- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.9 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.9)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.8.1 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.8.1)
 - [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.8.1 at michaelmsonne/maester](https://github.com/)
 - [michaelmsonne pushed to michaelmsonne-UpdateMS.AAD.8.1 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/db1b4e851d...d59ec33c1a)
@@ -192,13 +196,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.3.8 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.3.8)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.5.4 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.5.4)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.5.3 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.5.3)
-- [michaelmsonne deleted branch michaelmsonne-AddMissingLinksToTests at michaelmsonne/maester](https://github.com/)
-- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.6.1 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.6.1)
-- [michaelmsonne created a branch michaelmsonne-AddMissingLinksToTests in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-AddMissingLinksToTests)
-- [michaelmsonne pushed to main in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/51c5f47e6a...ae26b59bca)
-- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/7ce59de61a...d7bf05d6b3)
-- [michaelmsonne commented on issue Gerenios/AADInternals#90](https://github.com/Gerenios/AADInternals/issues/90#issuecomment-2170597474)
-- [michaelmsonne commented on issue Gerenios/AADInternals#91](https://github.com/Gerenios/AADInternals/issues/91#issuecomment-2170595564)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
