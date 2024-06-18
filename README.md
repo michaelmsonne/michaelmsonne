@@ -180,7 +180,10 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/237)
+- [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/240)
+- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.3.6 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.3.6)
+- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.3.7 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.3.7)
+- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.3.8 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.3.8)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.5.4 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.5.4)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.5.3 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.5.3)
 - [michaelmsonne deleted branch michaelmsonne-AddMissingLinksToTests at michaelmsonne/maester](https://github.com/)
