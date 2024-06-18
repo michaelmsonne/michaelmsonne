@@ -180,8 +180,11 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/249)
+- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.4 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.4)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.6 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.6)
-- [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/246)
+- [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.7.6 at michaelmsonne/maester](https://github.com/)
+- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.5 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.5)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.7 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.7)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.8 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.8)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.9 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.9)
@@ -193,9 +196,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.1 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.1)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.3.6 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.3.6)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.3.7 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.3.7)
-- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.3.8 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.3.8)
-- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.5.4 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.5.4)
-- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.5.3 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.5.3)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
