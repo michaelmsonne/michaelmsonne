@@ -180,16 +180,18 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/237)
+- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.5.4 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.5.4)
+- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.5.3 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.5.3)
+- [michaelmsonne deleted branch michaelmsonne-AddMissingLinksToTests at michaelmsonne/maester](https://github.com/)
+- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.6.1 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.6.1)
+- [michaelmsonne created a branch michaelmsonne-AddMissingLinksToTests in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-AddMissingLinksToTests)
 - [michaelmsonne pushed to main in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/51c5f47e6a...ae26b59bca)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/7ce59de61a...d7bf05d6b3)
 - [michaelmsonne commented on issue Gerenios/AADInternals#90](https://github.com/Gerenios/AADInternals/issues/90#issuecomment-2170597474)
 - [michaelmsonne commented on issue Gerenios/AADInternals#91](https://github.com/Gerenios/AADInternals/issues/91#issuecomment-2170595564)
 - [michaelmsonne commented on issue msmvps/join-this-organization#193](https://github.com/msmvps/join-this-organization/issues/193#issuecomment-2134061776)
 - [michaelmsonne pushed to dev in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/compare/f3600f96a0...a7cf399859)
-- [michaelmsonne created a branch dev in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/compare/dev)
-- [michaelmsonne pushed to main in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/compare/6faa7464be...ace2794f4a)
-- [michaelmsonne created a tag 1.0.0.3 in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/tree/1.0.0.3)
-- [michaelmsonne released 1.0.0.3 at michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/releases/tag/1.0.0.3)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
