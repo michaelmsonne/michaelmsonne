@@ -180,6 +180,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/1464a42d58...aed6b119a7)
 - [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/250)
 - [michaelmsonne created a branch michaelmsonne-AddPowerShellReadMe in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-AddPowerShellReadMe)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.4 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.4)
@@ -195,7 +196,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to michaelmsonne-UpdateMS.AAD.8.2 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/90242de55c...2243c3a073)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.8.2 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.8.2)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.1 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.1)
-- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.3.6 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.3.6)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
