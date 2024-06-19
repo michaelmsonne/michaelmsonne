@@ -202,6 +202,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelmsonne&show_icons=true&theme=dark&include_all_commits=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmsonne&theme=dark&layout=compact)
+
 <!--
 **michaelmsonne/michaelmsonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
