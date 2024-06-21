@@ -65,6 +65,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1) 
 __*(Last 48 badges from credly.com - there is more than this...)*__
 <!--START_SECTION:badges-->
+[![Windows Cloud Champion](https://images.credly.com/size/110x110/images/ea07ddc9-17f2-49f6-aec1-e7d3721139d7/image.png)](http://www.credly.com/badges/4e395e85-9b08-4e4b-ac5a-10302c9aa0b5 "Windows Cloud Champion")
 [![Security CCP Customer Champion | May 2024](https://images.credly.com/size/110x110/images/5360ca70-b6a3-4a4a-a008-077036a80e64/image.png)](http://www.credly.com/badges/22503086-7d77-4b94-a3c3-9f232dae032d "Security CCP Customer Champion | May 2024")
 [![Entra Advisors Customer Champion | May 2024](https://images.credly.com/size/110x110/images/2a03bbe0-2f64-43a7-b8cd-47d4521be860/image.png)](http://www.credly.com/badges/7f18a19b-ed59-478f-afb1-c376eaf8c43f "Entra Advisors Customer Champion | May 2024")
 [![Entra ID Champion - 2024](https://images.credly.com/size/110x110/images/02a6bf6f-7f98-484f-b37b-c8f0b55ac747/image.png)](http://www.credly.com/badges/96efb85e-c4a3-4232-b756-22f95fb2eefb "Entra ID Champion - 2024")
@@ -112,7 +113,6 @@ __*(Last 48 badges from credly.com - there is more than this...)*__
 [![Kusto Detective Agency - Case #3 Badge](https://images.credly.com/size/110x110/images/9e9311e6-911b-4193-86ae-9b80c8b410fe/image.png)](http://www.credly.com/badges/d998b995-cf9e-45b5-9643-874f50d091b5 "Kusto Detective Agency - Case #3 Badge")
 [![Kusto Detective Agency - Case #2 Badge](https://images.credly.com/size/110x110/images/ba8eb12f-2d57-4e9c-b1da-c395bd1d7fd3/image.png)](http://www.credly.com/badges/fe898ddf-dc1e-4f40-a79f-33eb8f42ed7f "Kusto Detective Agency - Case #2 Badge")
 [![Kusto Detective Agency - Case #1 Badge](https://images.credly.com/size/110x110/images/14d53c52-2701-4045-9f89-e5e510eee2fd/image.png)](http://www.credly.com/badges/fd6d3bb9-ac1e-40cc-8fff-bc14ebfd16f8 "Kusto Detective Agency - Case #1 Badge")
-[![Kusto Detective Agency - Onboarding](https://images.credly.com/size/110x110/images/84201552-025f-4b97-81c4-55be4ba896ff/image.png)](http://www.credly.com/badges/d086bcd0-3121-4afa-992e-18f4fb69cf68 "Kusto Detective Agency - Onboarding")
 <!--END_SECTION:badges-->
 
 ## 📜 Member of the Microsoft Customer Connection Program Community
