@@ -143,11 +143,23 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 <a href="https://azure.microsoft.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" title="Azure" alt="Azure" width="40" height="40"/></a>&nbsp;
 <a href="https://docs.microsoft.com/azure/azure-arc/overview"><img src="http://code.benco.io/icon-collection/azure-icons/Azure-Arc.svg" title="Azure Arc UI" alt="Azure Arc" width="40" height="40"/></a>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".net" alt=".net" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".net" alt=".net" width="40" height="40"/>&nbsp;
 <a href="https://docs.microsoft.com/azure/cost-management-billing/cost-management-billing-overview"><img src="http://code.benco.io/icon-collection/azure-icons/Cost-Management.svg" title="Azure Cost Management" alt="Azure Cost Management" width="40" height="40"/></a>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-<img src="http://code.benco.io/icon-collection/azure-icons/Dev-Console.svg" title="Automation" alt="Automation" width="40" height="40"/>&nbsp;
-<a href="https://docs.microsoft.com/azure/governance/"><img src="http://code.benco.io/icon-collection/azure-icons/Identity-Governance.svg" title="Azure Governance" alt="Azure Governance" width="40" height="40"/></a>&nbsp; - more to come...
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
+<img src="http://code.benco.io/icon-collection/azure-icons/Dev-Console.svg" title="Dev" alt="Dev" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="cloudflare" alt="cloudflare" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="powershell" alt="powershell" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="microsoftsqlserver" alt="microsoftsqlserver" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pfsense/pfsense-original-wordmark.svg" title="pfsense" alt="pfsense" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="jetbrains" width="40" height="40"/>&nbsp;
+<a href="https://docs.microsoft.com/azure/governance/"><img src="http://code.benco.io/icon-collection/azure-icons/Identity-Governance.svg" title="Azure Governance" alt="Azure Governance" width="40" height="40"/></a>&nbsp; 
+  
+  more to come...
 </p>
 
 ## 📝 Latest Blog Posts activities
