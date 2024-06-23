@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@2.4.0
+        uses: pemtajo/badge-readme@main
         with:
           CREDLY_SORT: RECENT
           CREDLY_USER: michael-morten-sonne
