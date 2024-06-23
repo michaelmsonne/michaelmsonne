@@ -8,7 +8,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=michaelmsonne&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hi there, i'm Michael Morten Sonne 👋 
+    Hey there, i'm Michael Morten Sonne 👋 
   </h1>
 </div>
 <div id="header" align="center">
