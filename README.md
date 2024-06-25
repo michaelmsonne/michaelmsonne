@@ -192,6 +192,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne commented on pull request maester365/maester#272](https://github.com/maester365/maester/pull/272#issuecomment-2189485953)
 - [michaelmsonne opened a pull request in MicrosoftDocs/office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell/pull/11922)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/office-docs-powershell](https://github.com/michaelmsonne/office-docs-powershell/compare/4e6af3e3ae...2884f0596b)
 - [michaelmsonne forked michaelmsonne/office-docs-powershell from MicrosoftDocs/office-docs-powershell](https://github.com/michaelmsonne/office-docs-powershell)
@@ -208,7 +209,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.8.1 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.8.1)
 - [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.8.1 at michaelmsonne/maester](https://github.com/)
 - [michaelmsonne pushed to michaelmsonne-UpdateMS.AAD.8.1 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/db1b4e851d...d59ec33c1a)
-- [michaelmsonne pushed to michaelmsonne-UpdateMS.AAD.8.2 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/90242de55c...2243c3a073)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
