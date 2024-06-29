@@ -192,6 +192,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/bd53ada512...c2365827c0)
 - [michaelmsonne commented on pull request MicrosoftDocs/entra-docs#959](https://github.com/MicrosoftDocs/entra-docs/pull/959#issuecomment-2192048840)
 - [michaelmsonne opened a pull request in MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/959)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/entra-docs](https://github.com/michaelmsonne/entra-docs/compare/fe21456140...2d40358e90)
@@ -209,8 +210,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.5 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.5)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.7 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.7)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.8 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.8)
-- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.9 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.9)
-- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.8.1 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.8.1)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
