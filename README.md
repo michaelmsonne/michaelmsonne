@@ -165,6 +165,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Reflecting on a remarkable first half of the year 2024! ✨](https://blog.sonnes.cloud/reflecting-on-a-remarkable-first-half-of-the-year-2024-%e2%9c%a8/)
 - [Veeam Backup M365 – Exchange Online backup fails with error: Failed to get folder properties. Not allowed to access non IPM folder](https://blog.sonnes.cloud/veeam-backup-m365-exchange-online-backup-fails-with-error-failed-to-get-folder-properties-not-allowed-to-access-non-ipm-folder/)
 - [Entra ID – Global Secure Access Client – Assign users and groups to forwarding profiles](https://blog.sonnes.cloud/entra-id-global-secure-access-client-assign-users-and-groups-to-forwarding-profiles/)
 - [Introducing a new tool – Lookup IP to DNS Tool – v. 1.0.0.3!](https://blog.sonnes.cloud/introducing-a-new-tool-lookup-ip-to-dns-tool-v-1-0-0-3/)
@@ -184,7 +185,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [PowerShell – Code Sign and validate files in a folder with optimized logic](https://blog.sonnes.cloud/powershell-code-sign-and-validate-files-in-a-folder-with-optimized-logic/)
 - [Microsoft Defender for Identity – Updated Advanced Settings Page](https://blog.sonnes.cloud/microsoft-defender-for-identity-updated-advanced-settings-page/)
 - [Entra ID – Global Secure Access Client – Installation of the Agent on Windows – Part 2](https://blog.sonnes.cloud/entra-id-global-secure-access-client-part-2/)
-- [Microsoft Defender XDR – Offboarding scripts will now expire in 3 days and not 30 days](https://blog.sonnes.cloud/microsoft-defender-xdr-offboarding-scripts-will-now-expire-in-3-days-and-not-30-days/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
