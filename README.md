@@ -165,7 +165,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
-- [Reflecting on a remarkable first half of the year 2024! ✨](https://blog.sonnes.cloud/reflecting-on-a-remarkable-first-half-of-the-year-2024-%e2%9c%a8/)
+- [Reflecting on a remarkable first half of the year 2024! ✨](https://blog.sonnes.cloud/reflecting-on-a-remarkable-first-half-of-the-year-2024/)
 - [Veeam Backup M365 – Exchange Online backup fails with error: Failed to get folder properties. Not allowed to access non IPM folder](https://blog.sonnes.cloud/veeam-backup-m365-exchange-online-backup-fails-with-error-failed-to-get-folder-properties-not-allowed-to-access-non-ipm-folder/)
 - [Entra ID – Global Secure Access Client – Assign users and groups to forwarding profiles](https://blog.sonnes.cloud/entra-id-global-secure-access-client-assign-users-and-groups-to-forwarding-profiles/)
 - [Introducing a new tool – Lookup IP to DNS Tool – v. 1.0.0.3!](https://blog.sonnes.cloud/introducing-a-new-tool-lookup-ip-to-dns-tool-v-1-0-0-3/)
