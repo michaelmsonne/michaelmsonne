@@ -192,6 +192,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne opened a pull request in MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/pull/123663)
+- [michaelmsonne pushed to patch-3 in michaelmsonne/azure-docs](https://github.com/michaelmsonne/azure-docs/compare/fe5b7e6802...5c8ed0cb95)
 - [michaelmsonne commented on issue Azure/azure-powershell#21960](https://github.com/Azure/azure-powershell/issues/21960#issuecomment-2205276424)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/bd53ada512...c2365827c0)
 - [michaelmsonne commented on pull request MicrosoftDocs/entra-docs#959](https://github.com/MicrosoftDocs/entra-docs/pull/959#issuecomment-2192048840)
@@ -210,7 +212,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.7.6 at michaelmsonne/maester](https://github.com/)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.5 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.5)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.7 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.7)
-- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.8 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.8)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
