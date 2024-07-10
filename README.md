@@ -192,6 +192,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne opened an issue in ironmansoftware/powershell-pro-tools](https://github.com/ironmansoftware/powershell-pro-tools/issues/66)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/660d73f144...1c7f21ed8d)
 - [michaelmsonne released [1.0.5.9] at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.0.5.9)
 - [michaelmsonne created a tag 1.0.5.9 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.0.5.9)
@@ -212,7 +213,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a branch michaelmsonne-AddPowerShellReadMe in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-AddPowerShellReadMe)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.4 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.4)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.6 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.6)
-- [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.7.6 at michaelmsonne/maester](https://github.com/)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
