@@ -192,7 +192,9 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/00cb0454dd...660d73f144)
+- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/660d73f144...1c7f21ed8d)
+- [michaelmsonne released [1.0.5.9] at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.0.5.9)
+- [michaelmsonne created a tag 1.0.5.9 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.0.5.9)
 - [michaelmsonne opened a pull request in MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/pull/123663)
 - [michaelmsonne pushed to patch-3 in michaelmsonne/azure-docs](https://github.com/michaelmsonne/azure-docs/compare/fe5b7e6802...5c8ed0cb95)
 - [michaelmsonne commented on issue Azure/azure-powershell#21960](https://github.com/Azure/azure-powershell/issues/21960#issuecomment-2205276424)
@@ -211,7 +213,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.4 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.4)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.6 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.6)
 - [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.7.6 at michaelmsonne/maester](https://github.com/)
-- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.5 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.5)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
