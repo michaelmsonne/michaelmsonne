@@ -165,6 +165,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Introducing Azure DevOps Backup Tool 1.0.5.9: Enhanced security, optimization and bug fixes!](https://blog.sonnes.cloud/introducing-azure-devops-backup-tool-1-0-5-9-enhanced-security-optimization-and-bug-fixes/)
 - [Reflecting on a remarkable first half of the year 2024! ✨](https://blog.sonnes.cloud/reflecting-on-a-remarkable-first-half-of-the-year-2024/)
 - [Veeam Backup M365 – Exchange Online backup fails with error: Failed to get folder properties. Not allowed to access non IPM folder](https://blog.sonnes.cloud/veeam-backup-m365-exchange-online-backup-fails-with-error-failed-to-get-folder-properties-not-allowed-to-access-non-ipm-folder/)
 - [Entra ID – Global Secure Access Client – Assign users and groups to forwarding profiles](https://blog.sonnes.cloud/entra-id-global-secure-access-client-assign-users-and-groups-to-forwarding-profiles/)
@@ -184,7 +185,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Honored to receive the Microsoft MVP Award in Security – Febuary 2024!](https://blog.sonnes.cloud/honored-to-receive-the-microsoft-mvp-award-in-security-febuary-2024/)
 - [PowerShell – Code Sign and validate files in a folder with optimized logic](https://blog.sonnes.cloud/powershell-code-sign-and-validate-files-in-a-folder-with-optimized-logic/)
 - [Microsoft Defender for Identity – Updated Advanced Settings Page](https://blog.sonnes.cloud/microsoft-defender-for-identity-updated-advanced-settings-page/)
-- [Entra ID – Global Secure Access Client – Installation of the Agent on Windows – Part 2](https://blog.sonnes.cloud/entra-id-global-secure-access-client-part-2/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
