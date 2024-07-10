@@ -192,6 +192,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne commented on issue ironmansoftware/powershell-pro-tools#66](https://github.com/ironmansoftware/powershell-pro-tools/issues/66#issuecomment-2220613663)
 - [michaelmsonne opened an issue in ironmansoftware/powershell-pro-tools](https://github.com/ironmansoftware/powershell-pro-tools/issues/66)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/660d73f144...1c7f21ed8d)
 - [michaelmsonne released [1.0.5.9] at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.0.5.9)
@@ -212,7 +213,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/250)
 - [michaelmsonne created a branch michaelmsonne-AddPowerShellReadMe in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-AddPowerShellReadMe)
 - [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.4 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.4)
-- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.6 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.6)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
