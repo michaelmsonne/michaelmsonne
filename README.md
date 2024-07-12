@@ -65,6 +65,8 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1) 
 __*(Last 48 badges from credly.com - there is more than this...)*__
 <!--START_SECTION:badges-->
+[![Windows Commercial Champion](https://images.credly.com/size/110x110/images/d824650c-90d0-414e-ab4f-18d88a675106/image.png)](http://www.credly.com/badges/8e2e8ee2-d67c-4db4-873d-390b319f357c "Windows Commercial Champion")
+[![Security CCP Customer Champion | June 2024](https://images.credly.com/size/110x110/images/18576724-729c-4d0d-a746-4c4a97822bc7/image.png)](http://www.credly.com/badges/df9d67db-bde5-42a3-b5b9-bacdbe98ba9d "Security CCP Customer Champion | June 2024")
 [![Management Customer Connection Program Leader - 2024](https://images.credly.com/size/110x110/images/8a7c404c-ef38-4af0-975c-5f48a7386ea1/image.png)](http://www.credly.com/badges/9c51eaa5-83a3-42db-ad1e-65d599d90fdc "Management Customer Connection Program Leader - 2024")
 [![Windows Cloud Champion](https://images.credly.com/size/110x110/images/ea07ddc9-17f2-49f6-aec1-e7d3721139d7/image.png)](http://www.credly.com/badges/4e395e85-9b08-4e4b-ac5a-10302c9aa0b5 "Windows Cloud Champion")
 [![Security CCP Customer Champion | May 2024](https://images.credly.com/size/110x110/images/5360ca70-b6a3-4a4a-a008-077036a80e64/image.png)](http://www.credly.com/badges/22503086-7d77-4b94-a3c3-9f232dae032d "Security CCP Customer Champion | May 2024")
@@ -111,8 +113,6 @@ __*(Last 48 badges from credly.com - there is more than this...)*__
 [![Kusto Detective Agency - Complete](https://images.credly.com/size/110x110/images/6726e724-5ce8-477e-93f5-6b39d6933273/image.png)](http://www.credly.com/badges/22fd9434-e009-44a9-a3ac-27f0c6f4b537 "Kusto Detective Agency - Complete")
 [![Kusto Detective Agency - Case #5 Badge](https://images.credly.com/size/110x110/images/43b452c6-89f2-4649-bb84-19f3166a833e/image.png)](http://www.credly.com/badges/c65d562d-d4a0-4473-9f0c-51767f371f85 "Kusto Detective Agency - Case #5 Badge")
 [![Kusto Detective Agency - Case #4 Badge](https://images.credly.com/size/110x110/images/e7522dc8-886b-4a5b-9436-535e1adaa5c5/image.png)](http://www.credly.com/badges/107e8016-e4fa-4077-bef6-ea49a3fc05b4 "Kusto Detective Agency - Case #4 Badge")
-[![Kusto Detective Agency - Case #3 Badge](https://images.credly.com/size/110x110/images/9e9311e6-911b-4193-86ae-9b80c8b410fe/image.png)](http://www.credly.com/badges/d998b995-cf9e-45b5-9643-874f50d091b5 "Kusto Detective Agency - Case #3 Badge")
-[![Kusto Detective Agency - Case #2 Badge](https://images.credly.com/size/110x110/images/ba8eb12f-2d57-4e9c-b1da-c395bd1d7fd3/image.png)](http://www.credly.com/badges/fe898ddf-dc1e-4f40-a79f-33eb8f42ed7f "Kusto Detective Agency - Case #2 Badge")
 <!--END_SECTION:badges-->
 
 ## 📜 Member of the Microsoft Customer Connection Program Community
