@@ -192,6 +192,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to patch-2 in michaelmsonne/entra-docs](https://github.com/michaelmsonne/entra-docs/compare/62609318e9...3827f2b0e7)
+- [michaelmsonne opened a pull request in MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/996)
 - [michaelmsonne commented on issue ironmansoftware/powershell-pro-tools#66](https://github.com/ironmansoftware/powershell-pro-tools/issues/66#issuecomment-2220613663)
 - [michaelmsonne opened an issue in ironmansoftware/powershell-pro-tools](https://github.com/ironmansoftware/powershell-pro-tools/issues/66)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/660d73f144...1c7f21ed8d)
@@ -202,7 +204,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne commented on issue Azure/azure-powershell#21960](https://github.com/Azure/azure-powershell/issues/21960#issuecomment-2205276424)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/bd53ada512...c2365827c0)
 - [michaelmsonne commented on pull request MicrosoftDocs/entra-docs#959](https://github.com/MicrosoftDocs/entra-docs/pull/959#issuecomment-2192048840)
-- [michaelmsonne opened a pull request in MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/959)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/entra-docs](https://github.com/michaelmsonne/entra-docs/compare/fe21456140...2d40358e90)
 - [michaelmsonne commented on pull request maester365/maester#271](https://github.com/maester365/maester/pull/271#issuecomment-2189547935)
 - [michaelmsonne commented on pull request maester365/maester#272](https://github.com/maester365/maester/pull/272#issuecomment-2189485953)
@@ -212,7 +213,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/5aafe23b8e...87509bbe65)
 - [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/250)
 - [michaelmsonne created a branch michaelmsonne-AddPowerShellReadMe in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-AddPowerShellReadMe)
-- [michaelmsonne created a branch michaelmsonne-UpdateMS.AAD.7.4 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-UpdateMS.AAD.7.4)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
