@@ -192,6 +192,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#5](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/5#issuecomment-2226889997)
 - [michaelmsonne pushed to patch-2 in michaelmsonne/entra-docs](https://github.com/michaelmsonne/entra-docs/compare/62609318e9...3827f2b0e7)
 - [michaelmsonne opened a pull request in MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/996)
 - [michaelmsonne commented on issue ironmansoftware/powershell-pro-tools#66](https://github.com/ironmansoftware/powershell-pro-tools/issues/66#issuecomment-2220613663)
@@ -212,7 +213,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne forked michaelmsonne/office-docs-powershell from MicrosoftDocs/office-docs-powershell](https://github.com/michaelmsonne/office-docs-powershell)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/5aafe23b8e...87509bbe65)
 - [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/250)
-- [michaelmsonne created a branch michaelmsonne-AddPowerShellReadMe in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-AddPowerShellReadMe)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
