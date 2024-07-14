@@ -192,7 +192,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to michael-add-workIthemBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/f57b787232...2cb3a305ba)
+- [michaelmsonne pushed to michael-add-workIthemBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/4d5b63a560...a5067b66f2)
 - [michaelmsonne created a branch michael-add-workIthemBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/michael-add-workIthemBackup)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#5](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/5#issuecomment-2226889997)
 - [michaelmsonne pushed to patch-2 in michaelmsonne/entra-docs](https://github.com/michaelmsonne/entra-docs/compare/62609318e9...3827f2b0e7)
@@ -213,7 +213,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne opened a pull request in MicrosoftDocs/office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell/pull/11922)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/office-docs-powershell](https://github.com/michaelmsonne/office-docs-powershell/compare/4e6af3e3ae...2884f0596b)
 - [michaelmsonne forked michaelmsonne/office-docs-powershell from MicrosoftDocs/office-docs-powershell](https://github.com/michaelmsonne/office-docs-powershell)
-- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/5aafe23b8e...87509bbe65)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
