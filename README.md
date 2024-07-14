@@ -192,12 +192,13 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne opened a pull request in MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/999)
+- [michaelmsonne pushed to patch-3 in michaelmsonne/entra-docs](https://github.com/michaelmsonne/entra-docs/compare/53ea0837d1...5ca0e9dbcb)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/1c7f21ed8d...993fe4b5be)
 - [michaelmsonne pushed to michael-add-workIthemBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/4d5b63a560...a5067b66f2)
 - [michaelmsonne created a branch michael-add-workIthemBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/michael-add-workIthemBackup)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#5](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/5#issuecomment-2226889997)
 - [michaelmsonne pushed to patch-2 in michaelmsonne/entra-docs](https://github.com/michaelmsonne/entra-docs/compare/62609318e9...3827f2b0e7)
-- [michaelmsonne opened a pull request in MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/996)
 - [michaelmsonne commented on issue ironmansoftware/powershell-pro-tools#66](https://github.com/ironmansoftware/powershell-pro-tools/issues/66#issuecomment-2220613663)
 - [michaelmsonne opened an issue in ironmansoftware/powershell-pro-tools](https://github.com/ironmansoftware/powershell-pro-tools/issues/66)
 - [michaelmsonne released [1.0.5.9] at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.0.5.9)
@@ -210,8 +211,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to patch-1 in michaelmsonne/entra-docs](https://github.com/michaelmsonne/entra-docs/compare/fe21456140...2d40358e90)
 - [michaelmsonne commented on pull request maester365/maester#271](https://github.com/maester365/maester/pull/271#issuecomment-2189547935)
 - [michaelmsonne commented on pull request maester365/maester#272](https://github.com/maester365/maester/pull/272#issuecomment-2189485953)
-- [michaelmsonne opened a pull request in MicrosoftDocs/office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell/pull/11922)
-- [michaelmsonne pushed to patch-1 in michaelmsonne/office-docs-powershell](https://github.com/michaelmsonne/office-docs-powershell/compare/4e6af3e3ae...2884f0596b)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
