@@ -192,6 +192,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/1c7f21ed8d...993fe4b5be)
 - [michaelmsonne pushed to michael-add-workIthemBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/4d5b63a560...a5067b66f2)
 - [michaelmsonne created a branch michael-add-workIthemBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/michael-add-workIthemBackup)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#5](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/5#issuecomment-2226889997)
@@ -199,7 +200,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne opened a pull request in MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/996)
 - [michaelmsonne commented on issue ironmansoftware/powershell-pro-tools#66](https://github.com/ironmansoftware/powershell-pro-tools/issues/66#issuecomment-2220613663)
 - [michaelmsonne opened an issue in ironmansoftware/powershell-pro-tools](https://github.com/ironmansoftware/powershell-pro-tools/issues/66)
-- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/660d73f144...1c7f21ed8d)
 - [michaelmsonne released [1.0.5.9] at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.0.5.9)
 - [michaelmsonne created a tag 1.0.5.9 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.0.5.9)
 - [michaelmsonne opened a pull request in MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/pull/123663)
@@ -212,7 +212,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne commented on pull request maester365/maester#272](https://github.com/maester365/maester/pull/272#issuecomment-2189485953)
 - [michaelmsonne opened a pull request in MicrosoftDocs/office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell/pull/11922)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/office-docs-powershell](https://github.com/michaelmsonne/office-docs-powershell/compare/4e6af3e3ae...2884f0596b)
-- [michaelmsonne forked michaelmsonne/office-docs-powershell from MicrosoftDocs/office-docs-powershell](https://github.com/michaelmsonne/office-docs-powershell)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
