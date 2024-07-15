@@ -192,7 +192,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/c2365827c0...22227f7547)
+- [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/22227f7547...0d6404854b)
 - [michaelmsonne opened a pull request in MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/999)
 - [michaelmsonne pushed to patch-3 in michaelmsonne/entra-docs](https://github.com/michaelmsonne/entra-docs/compare/53ea0837d1...5ca0e9dbcb)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/1c7f21ed8d...993fe4b5be)
@@ -209,7 +209,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne commented on issue Azure/azure-powershell#21960](https://github.com/Azure/azure-powershell/issues/21960#issuecomment-2205276424)
 - [michaelmsonne commented on pull request MicrosoftDocs/entra-docs#959](https://github.com/MicrosoftDocs/entra-docs/pull/959#issuecomment-2192048840)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/entra-docs](https://github.com/michaelmsonne/entra-docs/compare/fe21456140...2d40358e90)
-- [michaelmsonne commented on pull request maester365/maester#271](https://github.com/maester365/maester/pull/271#issuecomment-2189547935)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
