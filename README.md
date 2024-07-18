@@ -165,6 +165,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [SignToolGUI – A new tool is here for your digital signing experience – Now public!](https://blog.sonnes.cloud/signtoolgui-a-new-tool-is-here-for-your-digital-signing-experience-now-public/)
 - [Azure Arc – Windows Admin Center – Cant connect with error: Couldn´t get server data, ajax error](https://blog.sonnes.cloud/azure-arc-windows-admin-center-cant-connect-with-error-couldnt-get-server-data-ajax-error/)
 - [Entra ID – Global Secure Access – Now Generally Available!](https://blog.sonnes.cloud/entra-id-global-secure-access-now-generally-available/)
 - [Introducing Azure DevOps Backup Tool 1.0.5.9: Enhanced security, optimization and bug fixes!](https://blog.sonnes.cloud/introducing-azure-devops-backup-tool-1-0-5-9-enhanced-security-optimization-and-bug-fixes/)
@@ -184,7 +185,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Entra ID – Global Secure Access Client – Setup of the Microsoft 365 Profile – Part 3](https://blog.sonnes.cloud/entra-id-global-secure-access-client-setup-of-the-microsoft-365-profile-part-3/)
 - [Secure Boot – What it is and how to update Secure Boot keys](https://blog.sonnes.cloud/secure-boot-what-it-is-and-how-to-update-secure-boot-keys/)
 - [GitHub – Get a local backup of your code repositories – v. 1 of the tool](https://blog.sonnes.cloud/github-get-a-local-backup-of-your-code-repositories/)
-- [Honored to receive the Microsoft MVP Award in Security – Febuary 2024!](https://blog.sonnes.cloud/honored-to-receive-the-microsoft-mvp-award-in-security-febuary-2024/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
