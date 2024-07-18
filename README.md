@@ -192,6 +192,9 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne created a tag 1.3.0.0 in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/tree/1.3.0.0)
+- [michaelmsonne released 1.3.0.0 at michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/releases/tag/1.3.0.0)
+- [michaelmsonne pushed to main in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/51eb7ff9b1...35d49822b6)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/e027b83309...7a0395108b)
 - [michaelmsonne pushed to main in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/ae26b59bca...29a27bd512)
 - [michaelmsonne commented on pull request maester365/maester#345](https://github.com/maester365/maester/pull/345#issuecomment-2229523165)
@@ -209,7 +212,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne opened an issue in ironmansoftware/powershell-pro-tools](https://github.com/ironmansoftware/powershell-pro-tools/issues/66)
 - [michaelmsonne released [1.0.5.9] at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.0.5.9)
 - [michaelmsonne created a tag 1.0.5.9 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.0.5.9)
-- [michaelmsonne opened a pull request in MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/pull/123663)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
