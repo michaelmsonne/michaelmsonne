@@ -192,7 +192,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to main in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/35d49822b6...605a68401d)
+- [michaelmsonne pushed to main in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/01211fe6ba...1aedab4188)
 - [michaelmsonne made michaelmsonne/SignToolGUI public](https://github.com/michaelmsonne/SignToolGUI)
 - [michaelmsonne created a tag 1.3.0.0 in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/tree/1.3.0.0)
 - [michaelmsonne released 1.3.0.0 at michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/releases/tag/1.3.0.0)
@@ -209,8 +209,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a branch michael-add-workIthemBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/michael-add-workIthemBackup)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#5](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/5#issuecomment-2226889997)
 - [michaelmsonne pushed to patch-2 in michaelmsonne/entra-docs](https://github.com/michaelmsonne/entra-docs/compare/62609318e9...3827f2b0e7)
-- [michaelmsonne commented on issue ironmansoftware/powershell-pro-tools#66](https://github.com/ironmansoftware/powershell-pro-tools/issues/66#issuecomment-2220613663)
-- [michaelmsonne opened an issue in ironmansoftware/powershell-pro-tools](https://github.com/ironmansoftware/powershell-pro-tools/issues/66)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
