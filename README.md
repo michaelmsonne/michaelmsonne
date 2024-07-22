@@ -192,8 +192,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/a791f936b3...c4faa3b142)
 - [michaelmsonne deleted branch michael-AddAI at michaelmsonne/SignToolGUI](https://github.com/)
-- [michaelmsonne pushed to main in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/1aedab4188...142df3f0c6)
 - [michaelmsonne merged a pull request in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/pull/1)
 - [michaelmsonne opened a pull request in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/pull/1)
 - [michaelmsonne pushed to michael-AddAI in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/a24633905d...54b274ecbd)
@@ -207,9 +207,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne commented on issue ironmansoftware/powershell-pro-tools#53](https://github.com/ironmansoftware/powershell-pro-tools/issues/53#issuecomment-2229339094)
 - [michaelmsonne commented on pull request MicrosoftDocs/entra-docs#999](https://github.com/MicrosoftDocs/entra-docs/pull/999#issuecomment-2228946979)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/22227f7547...0d6404854b)
-- [michaelmsonne opened a pull request in MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/999)
-- [michaelmsonne pushed to patch-3 in michaelmsonne/entra-docs](https://github.com/michaelmsonne/entra-docs/compare/53ea0837d1...5ca0e9dbcb)
-- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/1c7f21ed8d...993fe4b5be)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
