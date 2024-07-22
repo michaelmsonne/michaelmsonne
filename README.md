@@ -192,9 +192,12 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to michael-AddAI in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/d36f342cfc...ab5a0dc6f6)
+- [michaelmsonne deleted branch michael-AddAI at michaelmsonne/SignToolGUI](https://github.com/)
+- [michaelmsonne pushed to main in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/1aedab4188...142df3f0c6)
+- [michaelmsonne merged a pull request in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/pull/1)
+- [michaelmsonne opened a pull request in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/pull/1)
+- [michaelmsonne pushed to michael-AddAI in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/a24633905d...54b274ecbd)
 - [michaelmsonne created a branch michael-AddAI in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/michael-AddAI)
-- [michaelmsonne pushed to main in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/01211fe6ba...1aedab4188)
 - [michaelmsonne made michaelmsonne/SignToolGUI public](https://github.com/michaelmsonne/SignToolGUI)
 - [michaelmsonne created a tag 1.3.0.0 in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/tree/1.3.0.0)
 - [michaelmsonne released 1.3.0.0 at michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/releases/tag/1.3.0.0)
@@ -207,10 +210,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne opened a pull request in MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/999)
 - [michaelmsonne pushed to patch-3 in michaelmsonne/entra-docs](https://github.com/michaelmsonne/entra-docs/compare/53ea0837d1...5ca0e9dbcb)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/1c7f21ed8d...993fe4b5be)
-- [michaelmsonne pushed to michael-add-workIthemBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/4d5b63a560...a5067b66f2)
-- [michaelmsonne created a branch michael-add-workIthemBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/michael-add-workIthemBackup)
-- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#5](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/5#issuecomment-2226889997)
-- [michaelmsonne pushed to patch-2 in michaelmsonne/entra-docs](https://github.com/michaelmsonne/entra-docs/compare/62609318e9...3827f2b0e7)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
