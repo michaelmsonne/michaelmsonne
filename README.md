@@ -17,7 +17,7 @@
   <a href="https://mvp.microsoft.com/en-US/mvp/profile/b6a5bd91-5ebd-4c84-8965-023a95273093?wt.mc_id=MVP_353010"><img src="https://github.com/michaelmsonne/michaelmsonne/assets/49366751/15b969a0-e7b6-43f1-84fa-df37d160e065" alt="Microsoft MVP"/></a>
 </div>
 
-## 😎 A little bit about me:
+## 😎 A little bit about me
 
 - 🤓 Microsoft MVP Security ('Cloud Security' and 'Identity and Access') - See my Microsoft MVP Profile [here](https://mvp.microsoft.com/en-US/mvp/profile/b6a5bd91-5ebd-4c84-8965-023a95273093?wt.mc_id=MVP_353010)
 - 💁 Helped customers to accelerate their digital transformation leveraging Microsoft Azure/Cloud services and other IT related stuff 
