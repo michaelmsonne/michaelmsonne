@@ -192,9 +192,10 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne starred michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool)
+- [michaelmsonne starred michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/2cbf12a51e...915a0418aa)
 - [michaelmsonne pushed to main in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/c4faa3b142...1d4bb3cbcc)
-- [michaelmsonne starred michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI)
 - [michaelmsonne deleted branch michael-AddAI at michaelmsonne/SignToolGUI](https://github.com/)
 - [michaelmsonne merged a pull request in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/pull/1)
 - [michaelmsonne opened a pull request in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/pull/1)
@@ -204,8 +205,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a tag 1.3.0.0 in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/tree/1.3.0.0)
 - [michaelmsonne released 1.3.0.0 at michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/releases/tag/1.3.0.0)
 - [michaelmsonne pushed to main in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/ae26b59bca...29a27bd512)
-- [michaelmsonne commented on pull request maester365/maester#345](https://github.com/maester365/maester/pull/345#issuecomment-2229523165)
-- [michaelmsonne commented on issue ironmansoftware/powershell-pro-tools#53](https://github.com/ironmansoftware/powershell-pro-tools/issues/53#issuecomment-2229339094)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
