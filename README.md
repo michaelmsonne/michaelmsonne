@@ -7,6 +7,8 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=michaelmsonne&style=flat-square&color=blue" alt=""/>
+  <a href="https://www.linkedin.com/in/michaelmsonne/"><img alt="Made by" src="https://img.shields.io/static/v1?label=made%20by&message=Michael%20Morten%20Sonne&color=04D361"></a>
+  <a href='https://buymeacoffee.com/sonnes' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Glass of wine or coffee' /></a>
   <h1>
     Hey there, i'm Michael Morten Sonne 👋 
   </h1>
