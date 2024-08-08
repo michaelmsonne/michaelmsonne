@@ -194,8 +194,9 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to Add-toolToUnzipSingleBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/d2cf85efb8...942a073d29)
+- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#6](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/6#issuecomment-2276589889)
 - [michaelmsonne created a branch Add-toolToUnzipSingleBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/Add-toolToUnzipSingleBackup)
-- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#6](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/6#issuecomment-2276479949)
 - [michaelmsonne released 1.0.6.0 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.0.6.0)
 - [michaelmsonne created a tag 1.0.6.0 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.0.6.0)
 - [michaelmsonne deleted branch michael-SmallUpdates at michaelmsonne/AzureDevOpsBackupTool](https://github.com/)
@@ -205,12 +206,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to michael-SmallUpdates in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/f97c0a3e22...6371af7abc)
 - [michaelmsonne created a branch michael-SmallUpdates in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/michael-SmallUpdates)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/53c3d714ef...f512c974e2)
-- [michaelmsonne starred michaelmsonne/public](https://github.com/michaelmsonne/public)
-- [michaelmsonne starred michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool)
-- [michaelmsonne starred michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool)
-- [michaelmsonne starred michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool)
-- [michaelmsonne starred michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI)
-- [michaelmsonne pushed to main in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/c4faa3b142...1d4bb3cbcc)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
