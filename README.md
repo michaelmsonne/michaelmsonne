@@ -194,7 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#6](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/6#issuecomment-2274950844)
+- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#6](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/6#issuecomment-2276012038)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/53c3d714ef...f512c974e2)
 - [michaelmsonne starred michaelmsonne/public](https://github.com/michaelmsonne/public)
 - [michaelmsonne starred michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool)
@@ -207,7 +207,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne opened a pull request in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/pull/1)
 - [michaelmsonne pushed to michael-AddAI in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/a24633905d...54b274ecbd)
 - [michaelmsonne created a branch michael-AddAI in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/michael-AddAI)
-- [michaelmsonne made michaelmsonne/SignToolGUI public](https://github.com/michaelmsonne/SignToolGUI)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
