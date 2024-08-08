@@ -194,6 +194,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne released 1.0.6.0 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.0.6.0)
+- [michaelmsonne created a tag 1.0.6.0 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.0.6.0)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#6](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/6#issuecomment-2276223205)
 - [michaelmsonne deleted branch michael-SmallUpdates at michaelmsonne/AzureDevOpsBackupTool](https://github.com/)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/993fe4b5be...7630b1690a)
@@ -208,7 +210,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne starred michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool)
 - [michaelmsonne starred michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI)
 - [michaelmsonne pushed to main in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/c4faa3b142...1d4bb3cbcc)
-- [michaelmsonne deleted branch michael-AddAI at michaelmsonne/SignToolGUI](https://github.com/)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
