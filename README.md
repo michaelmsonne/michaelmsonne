@@ -194,7 +194,13 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#6](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/6#issuecomment-2276134419)
+- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#6](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/6#issuecomment-2276223205)
+- [michaelmsonne deleted branch michael-SmallUpdates at michaelmsonne/AzureDevOpsBackupTool](https://github.com/)
+- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/993fe4b5be...7630b1690a)
+- [michaelmsonne merged a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/7)
+- [michaelmsonne opened a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/7)
+- [michaelmsonne pushed to michael-SmallUpdates in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/f97c0a3e22...6371af7abc)
+- [michaelmsonne created a branch michael-SmallUpdates in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/michael-SmallUpdates)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/53c3d714ef...f512c974e2)
 - [michaelmsonne starred michaelmsonne/public](https://github.com/michaelmsonne/public)
 - [michaelmsonne starred michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool)
@@ -203,10 +209,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne starred michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI)
 - [michaelmsonne pushed to main in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/c4faa3b142...1d4bb3cbcc)
 - [michaelmsonne deleted branch michael-AddAI at michaelmsonne/SignToolGUI](https://github.com/)
-- [michaelmsonne merged a pull request in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/pull/1)
-- [michaelmsonne opened a pull request in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/pull/1)
-- [michaelmsonne pushed to michael-AddAI in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/a24633905d...54b274ecbd)
-- [michaelmsonne created a branch michael-AddAI in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/michael-AddAI)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
