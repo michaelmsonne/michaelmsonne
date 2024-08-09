@@ -194,20 +194,16 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to Add-toolToUnzipSingleBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/5ad41063a6...b7ab5fd51e)
+- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#8](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/8#issuecomment-2278842630)
+- [michaelmsonne pushed to Add-toolToUnzipSingleBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/3b573d4c32...1a9c279515)
+- [michaelmsonne closed an issue in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/8)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#6](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/6#issuecomment-2278612911)
-- [michaelmsonne closed an issue in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/6)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#9](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/9#issuecomment-2278587034)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#10](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/10#issuecomment-2278584116)
-- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#8](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/8#issuecomment-2278570739)
 - [michaelmsonne created a branch Add-toolToUnzipSingleBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/Add-toolToUnzipSingleBackup)
 - [michaelmsonne released 1.0.6.0 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.0.6.0)
 - [michaelmsonne created a tag 1.0.6.0 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.0.6.0)
 - [michaelmsonne deleted branch michael-SmallUpdates at michaelmsonne/AzureDevOpsBackupTool](https://github.com/)
-- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/993fe4b5be...7630b1690a)
-- [michaelmsonne merged a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/7)
-- [michaelmsonne opened a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/7)
-- [michaelmsonne pushed to michael-SmallUpdates in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/f97c0a3e22...6371af7abc)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
