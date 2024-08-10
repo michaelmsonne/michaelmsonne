@@ -194,11 +194,15 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to Add-toolToUnzipSingleBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/9cb32b4b9c...9065ffa0c0)
-- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#9](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/9#issuecomment-2279735694)
-- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#8](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/8#issuecomment-2278842630)
-- [michaelmsonne closed an issue in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/8)
-- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#6](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/6#issuecomment-2278612911)
+- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#9](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/9#issuecomment-2280410478)
+- [michaelmsonne closed an issue in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/9)
+- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#8](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/8#issuecomment-2280409075)
+- [michaelmsonne released 1.1.0.0 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.1.0.0)
+- [michaelmsonne created a tag 1.1.0.0 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.1.0.0)
+- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/7630b1690a...ae4e1fa606)
+- [michaelmsonne merged a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/11)
+- [michaelmsonne opened a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/11)
+- [michaelmsonne pushed to Add-toolToUnzipSingleBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/9065ffa0c0...aa158f0ef0)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
