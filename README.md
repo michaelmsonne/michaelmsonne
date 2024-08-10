@@ -194,12 +194,11 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to Add-toolToUnzipSingleBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/f2283b9b6a...5db2e4940e)
+- [michaelmsonne pushed to Add-toolToUnzipSingleBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/9cb32b4b9c...9065ffa0c0)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#9](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/9#issuecomment-2279735694)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#8](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/8#issuecomment-2278842630)
 - [michaelmsonne closed an issue in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/8)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#6](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/6#issuecomment-2278612911)
-- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#10](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/10#issuecomment-2278584116)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
