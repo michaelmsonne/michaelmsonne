@@ -194,8 +194,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to Add-toolToUnzipSingleBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/1a9c279515...232c4ab1f1)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#8](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/8#issuecomment-2278842630)
-- [michaelmsonne pushed to Add-toolToUnzipSingleBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/3b573d4c32...1a9c279515)
 - [michaelmsonne closed an issue in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/8)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#6](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/6#issuecomment-2278612911)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#9](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/9#issuecomment-2278587034)
@@ -203,7 +203,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a branch Add-toolToUnzipSingleBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/Add-toolToUnzipSingleBackup)
 - [michaelmsonne released 1.0.6.0 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.0.6.0)
 - [michaelmsonne created a tag 1.0.6.0 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.0.6.0)
-- [michaelmsonne deleted branch michael-SmallUpdates at michaelmsonne/AzureDevOpsBackupTool](https://github.com/)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
