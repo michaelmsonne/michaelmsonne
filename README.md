@@ -167,6 +167,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Microsoft Defender for Identity – How to manually remove a malfunctioning sensor that can’t be installed, uninstalled or removed](https://blog.sonnes.cloud/microsoft-defender-for-identity-how-to-manually-remove-a-malfunctioning-sensor-that-cant-be-installed-uninstalled-or-removed/)
 - [Introducing Azure DevOps Backup Tool 1.1.0.0: Major update with new features, bug fixes and enhanced security!](https://blog.sonnes.cloud/introducing-azure-devops-backup-tool-1-1-0-0-major-update-with-new-features-bug-fixes-and-enhanced-security/)
 - [SignToolGUI – A new tool is here for your digital signing experience – Now public!](https://blog.sonnes.cloud/signtoolgui-a-new-tool-is-here-for-your-digital-signing-experience-now-public/)
 - [Azure Arc – Windows Admin Center – Cant connect with error: Couldn´t get server data, ajax error](https://blog.sonnes.cloud/azure-arc-windows-admin-center-cant-connect-with-error-couldnt-get-server-data-ajax-error/)
@@ -186,7 +187,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Introducing GitHub Backup Tool 1.2.0.0: Enhanced Security and Customization](https://blog.sonnes.cloud/introducing-github-backup-tool-1-2-0-0-enhanced-security-and-customization/)
 - [Microsoft 365 Developer Program – Attention to all Microsoft 365 developers and learners!](https://blog.sonnes.cloud/microsoft-365-developer-program-attention-to-all-microsoft-365-developers-and-learners/)
 - [Entra ID – Global Secure Access Client – Setup of the Microsoft 365 Profile – Part 3](https://blog.sonnes.cloud/entra-id-global-secure-access-client-setup-of-the-microsoft-365-profile-part-3/)
-- [Secure Boot – What it is and how to update Secure Boot keys](https://blog.sonnes.cloud/secure-boot-what-it-is-and-how-to-update-secure-boot-keys/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
