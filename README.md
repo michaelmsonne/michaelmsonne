@@ -194,6 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne forked michaelmsonne/AzStackHCISandbox from microsoft/AzStackHCISandbox](https://github.com/michaelmsonne/AzStackHCISandbox)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#13](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/13#issuecomment-2301206753)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/91b7552398...ee7bcf107c)
 - [michaelmsonne commented on pull request MicrosoftDocs/entra-docs#996](https://github.com/MicrosoftDocs/entra-docs/pull/996#issuecomment-2291569884)
