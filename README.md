@@ -67,6 +67,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1) 
 __*(Last 48 badges from credly.com - there is more than this...)*__
 <!--START_SECTION:badges-->
+[![Microsoft Global Hackathon 2024](https://images.credly.com/size/110x110/images/ac4d1eba-bbc1-42f9-aa64-d3149a99894a/image.png)](http://www.credly.com/badges/edf1d029-efec-4b86-8813-0dcc096286a8 "Microsoft Global Hackathon 2024")
 [![Microsoft Defender for Cloud Apps Black Belt](https://images.credly.com/size/110x110/images/64d29482-78a9-4807-b2cb-4202acf4e98b/image.png)](http://www.credly.com/badges/5e45a6c4-bd94-44cc-a36e-b0b228107e09 "Microsoft Defender for Cloud Apps Black Belt")
 [![Entra ID Influencer - 2024](https://images.credly.com/size/110x110/images/ce28024a-9efe-4935-b2b6-d0b7b4e8e534/image.png)](http://www.credly.com/badges/56445700-58ed-4a02-a880-3c2ea21d48aa "Entra ID Influencer - 2024")
 [![Windows Cloud Influencer](https://images.credly.com/size/110x110/images/2a4a4280-a733-43f5-806f-d10852cbf436/image.png)](http://www.credly.com/badges/264aee54-ff9f-4ec5-b51f-2adcf8289050 "Windows Cloud Influencer")
@@ -114,7 +115,6 @@ __*(Last 48 badges from credly.com - there is more than this...)*__
 [![Cloud Security Product Champion](https://images.credly.com/size/110x110/images/7941cf3f-4295-4553-a57f-f0abf155d24e/image.png)](http://www.credly.com/badges/fbc7bc45-f6fd-4e32-b3de-d58af1996c69 "Cloud Security Product Champion")
 [![Cloud Security Product Influencer](https://images.credly.com/size/110x110/images/0c1eb2a2-25d8-411d-b195-d0c88cf3a3c5/image.png)](http://www.credly.com/badges/f64210ff-3ad8-45bf-8190-1e01430fba82 "Cloud Security Product Influencer")
 [![Microsoft Management Community Contributor](https://images.credly.com/size/110x110/images/ce086763-26bf-4882-b7e0-b9cda89302ad/image.png)](http://www.credly.com/badges/6ba070ed-2a91-4fa6-bae0-260553074919 "Microsoft Management Community Contributor")
-[![M365 Defender Champion](https://images.credly.com/size/110x110/images/0de8be22-2b85-4ba1-a523-40020ddaa9d8/image.png)](http://www.credly.com/badges/f2dd0933-8ea5-4ab7-863f-a26dce8dc720 "M365 Defender Champion")
 <!--END_SECTION:badges-->
 
 ## 📜 Member of the Microsoft Customer Connection Program Community
