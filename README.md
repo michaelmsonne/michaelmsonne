@@ -194,6 +194,9 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/.github](https://github.com/michaelmsonne/.github/compare/908baae2a7...f528c03b2c)
+- [michaelmsonne created a repository michaelmsonne/.github](https://github.com/michaelmsonne/.github//)
+- [michaelmsonne created a branch main in michaelmsonne/.github](https://github.com/michaelmsonne/.github/compare/main)
 - [michaelmsonne opened a pull request in MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/pull/124220)
 - [michaelmsonne pushed to patch-4 in michaelmsonne/azure-docs](https://github.com/michaelmsonne/azure-docs/compare/54e12d39e7...b4882926fe)
 - [michaelmsonne commented on issue Azure/azure-powershell#21960](https://github.com/Azure/azure-powershell/issues/21960#issuecomment-2302384267)
@@ -211,8 +214,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a tag 1.1.0.0 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.1.0.0)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/7630b1690a...ae4e1fa606)
 - [michaelmsonne merged a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/11)
-- [michaelmsonne opened a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/11)
-- [michaelmsonne pushed to Add-toolToUnzipSingleBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/9065ffa0c0...aa158f0ef0)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
