@@ -194,6 +194,9 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer/compare/f4d32cedd9...3c74a4beef)
+- [michaelmsonne created a repository michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer//)
+- [michaelmsonne created a branch main in michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer/compare/main)
 - [michaelmsonne pushed to main in michaelmsonne/.github](https://github.com/michaelmsonne/.github/compare/908baae2a7...f528c03b2c)
 - [michaelmsonne created a repository michaelmsonne/.github](https://github.com/michaelmsonne/.github//)
 - [michaelmsonne created a branch main in michaelmsonne/.github](https://github.com/michaelmsonne/.github/compare/main)
@@ -211,9 +214,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#9](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/9#issuecomment-2280410478)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#8](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/8#issuecomment-2280409075)
 - [michaelmsonne released 1.1.0.0 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.1.0.0)
-- [michaelmsonne created a tag 1.1.0.0 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.1.0.0)
-- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/7630b1690a...ae4e1fa606)
-- [michaelmsonne merged a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/11)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
