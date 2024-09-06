@@ -194,6 +194,9 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#14](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/14#issuecomment-2332483639)
+- [michaelmsonne closed an issue in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/14)
+- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/ae4e1fa606...1912f2f40d)
 - [michaelmsonne created a tag 1.0.0.0 in michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer/tree/1.0.0.0)
 - [michaelmsonne released 1.0.0.0 at michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer/releases/tag/1.0.0.0)
 - [michaelmsonne pushed to main in michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer/compare/e05e8e0668...bfc62d31bd)
@@ -209,9 +212,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#13](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/13#issuecomment-2301206753)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/91b7552398...ee7bcf107c)
 - [michaelmsonne commented on pull request MicrosoftDocs/entra-docs#996](https://github.com/MicrosoftDocs/entra-docs/pull/996#issuecomment-2291569884)
-- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/18ac91aeac...175375c7bf)
-- [michaelmsonne closed an issue in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/10)
-- [michaelmsonne opened an issue in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/12)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
