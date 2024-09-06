@@ -67,6 +67,10 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1) 
 __*(Last 48 badges from credly.com - there is more than this...)*__
 <!--START_SECTION:badges-->
+[![Entra Advisors Leader - 2024](https://images.credly.com/size/110x110/images/8bfeeb6f-43a9-4647-8caa-8b4b2fc1f859/image.png)](http://www.credly.com/badges/14f04065-33f1-4e46-ab7b-340b3920bd12 "Entra Advisors Leader - 2024")
+[![Entra Advisors Customer Champion | August 2024](https://images.credly.com/size/110x110/images/a30c5f8e-917c-4659-8f54-b2440090e408/image.png)](http://www.credly.com/badges/57a9d3ca-9c3b-4c55-84c5-6f874e69a1d4 "Entra Advisors Customer Champion | August 2024")
+[![Security CCP Customer Champion | August 2024](https://images.credly.com/size/110x110/images/bca31275-837a-49b5-9fd3-e6b14f85b745/image.png)](http://www.credly.com/badges/0ae4a2a6-1f98-4311-9c9a-a037700e45a7 "Security CCP Customer Champion | August 2024")
+[![Management Customer Champion | August 2024](https://images.credly.com/size/110x110/images/d3affd10-1c38-436d-92fa-a1d0df8f2571/image.png)](http://www.credly.com/badges/cd45354b-121e-4231-85de-7e7439ebe8b6 "Management Customer Champion | August 2024")
 [![Microsoft Global Hackathon 2024](https://images.credly.com/size/110x110/images/ac4d1eba-bbc1-42f9-aa64-d3149a99894a/image.png)](http://www.credly.com/badges/edf1d029-efec-4b86-8813-0dcc096286a8 "Microsoft Global Hackathon 2024")
 [![Microsoft Defender for Cloud Apps Black Belt](https://images.credly.com/size/110x110/images/64d29482-78a9-4807-b2cb-4202acf4e98b/image.png)](http://www.credly.com/badges/5e45a6c4-bd94-44cc-a36e-b0b228107e09 "Microsoft Defender for Cloud Apps Black Belt")
 [![Entra ID Influencer - 2024](https://images.credly.com/size/110x110/images/ce28024a-9efe-4935-b2b6-d0b7b4e8e534/image.png)](http://www.credly.com/badges/56445700-58ed-4a02-a880-3c2ea21d48aa "Entra ID Influencer - 2024")
@@ -111,10 +115,6 @@ __*(Last 48 badges from credly.com - there is more than this...)*__
 [![Cloud Security Customer Champion | August](https://images.credly.com/size/110x110/images/b00eb07d-d487-4ced-807c-0bd3b85bb9de/image.png)](http://www.credly.com/badges/a1ca541d-7443-4616-98d2-b8f06bb3a382 "Cloud Security Customer Champion | August")
 [![Microsoft Entra Community Champion 2023](https://images.credly.com/size/110x110/images/265a75b6-fe06-4168-9bea-8f0d7c70fbb3/image.png)](http://www.credly.com/badges/d8c93d90-aa06-4d5b-a8e5-859641860d2b "Microsoft Entra Community Champion 2023")
 [![Microsoft Management Community Influencer](https://images.credly.com/size/110x110/images/d74766a0-f99c-44c3-89fa-499156e1853d/image.png)](http://www.credly.com/badges/24b5e73e-a785-4722-9bcd-4ecfb77ed1d2 "Microsoft Management Community Influencer")
-[![M365 Defender Influencer](https://images.credly.com/size/110x110/images/c89edc19-cb32-41d2-8ddf-25dddc1518d3/image.png)](http://www.credly.com/badges/4032f762-ec60-420b-8b98-1b1cbb9709be "M365 Defender Influencer")
-[![Cloud Security Product Champion](https://images.credly.com/size/110x110/images/7941cf3f-4295-4553-a57f-f0abf155d24e/image.png)](http://www.credly.com/badges/fbc7bc45-f6fd-4e32-b3de-d58af1996c69 "Cloud Security Product Champion")
-[![Cloud Security Product Influencer](https://images.credly.com/size/110x110/images/0c1eb2a2-25d8-411d-b195-d0c88cf3a3c5/image.png)](http://www.credly.com/badges/f64210ff-3ad8-45bf-8190-1e01430fba82 "Cloud Security Product Influencer")
-[![Microsoft Management Community Contributor](https://images.credly.com/size/110x110/images/ce086763-26bf-4882-b7e0-b9cda89302ad/image.png)](http://www.credly.com/badges/6ba070ed-2a91-4fa6-bae0-260553074919 "Microsoft Management Community Contributor")
 <!--END_SECTION:badges-->
 
 ## 📜 Member of the Microsoft Customer Connection Program Community
