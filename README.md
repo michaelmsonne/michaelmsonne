@@ -194,24 +194,22 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne released 1.1.1.0 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.1.1.0)
+- [michaelmsonne created a tag 1.1.1.0 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.1.1.0)
+- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#13](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/13#issuecomment-2366830587)
+- [michaelmsonne closed an issue in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/13)
+- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#12](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/12#issuecomment-2366830375)
+- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/1912f2f40d...d55f294d8a)
+- [michaelmsonne merged a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/15)
+- [michaelmsonne opened a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/15)
 - [michaelmsonne pushed to add-checkforlogwriteaccess in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/c4f2a8372f...dee511678a)
 - [michaelmsonne created a branch add-checkforlogwriteaccess in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/add-checkforlogwriteaccess)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/8a85bbdf4f...8b4a51ce9c)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#14](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/14#issuecomment-2332483639)
-- [michaelmsonne closed an issue in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/14)
-- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/ae4e1fa606...1912f2f40d)
 - [michaelmsonne created a tag 1.0.0.0 in michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer/tree/1.0.0.0)
 - [michaelmsonne released 1.0.0.0 at michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer/releases/tag/1.0.0.0)
 - [michaelmsonne pushed to main in michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer/compare/e05e8e0668...bfc62d31bd)
 - [michaelmsonne created a repository michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer//)
-- [michaelmsonne created a branch main in michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer/compare/main)
-- [michaelmsonne pushed to main in michaelmsonne/.github](https://github.com/michaelmsonne/.github/compare/908baae2a7...f528c03b2c)
-- [michaelmsonne created a repository michaelmsonne/.github](https://github.com/michaelmsonne/.github//)
-- [michaelmsonne created a branch main in michaelmsonne/.github](https://github.com/michaelmsonne/.github/compare/main)
-- [michaelmsonne opened a pull request in MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/pull/124220)
-- [michaelmsonne pushed to patch-4 in michaelmsonne/azure-docs](https://github.com/michaelmsonne/azure-docs/compare/54e12d39e7...b4882926fe)
-- [michaelmsonne commented on issue Azure/azure-powershell#21960](https://github.com/Azure/azure-powershell/issues/21960#issuecomment-2302384267)
-- [michaelmsonne forked michaelmsonne/AzStackHCISandbox from microsoft/AzStackHCISandbox](https://github.com/michaelmsonne/AzStackHCISandbox)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
