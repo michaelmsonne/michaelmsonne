@@ -167,6 +167,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Introducing Azure DevOps Backup Tool 1.1.1.0: Update with new features and bug fixes!](https://blog.sonnes.cloud/introducing-azure-devops-backup-tool-1-1-1-0-update-with-new-features-and-bug-fixes/)
 - [Microsoft Defender for Identity – Expands support to servers with Microsoft Entra Connect](https://blog.sonnes.cloud/microsoft-defender-for-identity-expands-support-to-servers-with-microsoft-entra-connect/)
 - [Microsoft Defender for Identity – How to manually remove a malfunctioning sensor that can’t be installed, uninstalled or removed](https://blog.sonnes.cloud/microsoft-defender-for-identity-how-to-manually-remove-a-malfunctioning-sensor-that-cant-be-installed-uninstalled-or-removed/)
 - [Introducing Azure DevOps Backup Tool 1.1.0.0: Major update with new features, bug fixes and enhanced security!](https://blog.sonnes.cloud/introducing-azure-devops-backup-tool-1-1-0-0-major-update-with-new-features-bug-fixes-and-enhanced-security/)
@@ -186,7 +187,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Introducing GitHub Backup Tool 1.3.0.0: Enhanced customization, security and bug fixes!](https://blog.sonnes.cloud/introducing-github-backup-tool-1-3-0-0-enhanced-customization-security-and-bug-fixes/)
 - [Azure – Automating Management Group Removal in Azure with PowerShell](https://blog.sonnes.cloud/azure-automating-management-group-removal-in-azure-with-powershell/)
 - [Introducing GitHub Backup Tool 1.2.0.0: Enhanced Security and Customization](https://blog.sonnes.cloud/introducing-github-backup-tool-1-2-0-0-enhanced-security-and-customization/)
-- [Microsoft 365 Developer Program – Attention to all Microsoft 365 developers and learners!](https://blog.sonnes.cloud/microsoft-365-developer-program-attention-to-all-microsoft-365-developers-and-learners/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
