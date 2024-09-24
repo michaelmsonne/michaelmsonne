@@ -169,6 +169,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 <!-- LATESTACTIVITYBLOG:START -->
 - [Introducing Azure DevOps Backup Tool 1.1.1.0: Update with new features and bug fixes!](https://blog.sonnes.cloud/introducing-azure-devops-backup-tool-1-1-1-0-update-with-new-features-and-bug-fixes/)
 - [Microsoft Defender for Identity – Expands support to servers with Microsoft Entra Connect](https://blog.sonnes.cloud/microsoft-defender-for-identity-expands-support-to-servers-with-microsoft-entra-connect/)
+- [Import and Export Automation rules for Microsoft Sentinel  – Unified SOC Platform](https://blog.sonnes.cloud/import-and-export-automation-rules-for-microsoft-sentinel-unified-soc-platform/)
 - [Microsoft Defender for Identity – How to manually remove a malfunctioning sensor that can’t be installed, uninstalled or removed](https://blog.sonnes.cloud/microsoft-defender-for-identity-how-to-manually-remove-a-malfunctioning-sensor-that-cant-be-installed-uninstalled-or-removed/)
 - [Introducing Azure DevOps Backup Tool 1.1.0.0: Major update with new features, bug fixes and enhanced security!](https://blog.sonnes.cloud/introducing-azure-devops-backup-tool-1-1-0-0-major-update-with-new-features-bug-fixes-and-enhanced-security/)
 - [SignToolGUI – A new tool is here for your digital signing experience – Now public!](https://blog.sonnes.cloud/signtoolgui-a-new-tool-is-here-for-your-digital-signing-experience-now-public/)
@@ -186,7 +187,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Defender for Office 365 – Hunting and responding to QR code-based phishing attacks](https://blog.sonnes.cloud/defender-for-office-365-hunting-and-responding-to-qr-code-based-phishing-attacks/)
 - [Introducing GitHub Backup Tool 1.3.0.0: Enhanced customization, security and bug fixes!](https://blog.sonnes.cloud/introducing-github-backup-tool-1-3-0-0-enhanced-customization-security-and-bug-fixes/)
 - [Azure – Automating Management Group Removal in Azure with PowerShell](https://blog.sonnes.cloud/azure-automating-management-group-removal-in-azure-with-powershell/)
-- [Introducing GitHub Backup Tool 1.2.0.0: Enhanced Security and Customization](https://blog.sonnes.cloud/introducing-github-backup-tool-1-2-0-0-enhanced-security-and-customization/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
