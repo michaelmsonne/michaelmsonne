@@ -167,9 +167,9 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Import and Export Automation rules for Microsoft Sentinel  – Unified SOC Platform](https://blog.sonnes.cloud/import-and-export-automation-rules-for-microsoft-sentinel-unified-soc-platform/)
 - [Introducing Azure DevOps Backup Tool 1.1.1.0: Update with new features and bug fixes!](https://blog.sonnes.cloud/introducing-azure-devops-backup-tool-1-1-1-0-update-with-new-features-and-bug-fixes/)
 - [Microsoft Defender for Identity – Expands support to servers with Microsoft Entra Connect](https://blog.sonnes.cloud/microsoft-defender-for-identity-expands-support-to-servers-with-microsoft-entra-connect/)
-- [Import and Export Automation rules for Microsoft Sentinel  – Unified SOC Platform](https://blog.sonnes.cloud/import-and-export-automation-rules-for-microsoft-sentinel-unified-soc-platform/)
 - [Microsoft Defender for Identity – How to manually remove a malfunctioning sensor that can’t be installed, uninstalled or removed](https://blog.sonnes.cloud/microsoft-defender-for-identity-how-to-manually-remove-a-malfunctioning-sensor-that-cant-be-installed-uninstalled-or-removed/)
 - [Introducing Azure DevOps Backup Tool 1.1.0.0: Major update with new features, bug fixes and enhanced security!](https://blog.sonnes.cloud/introducing-azure-devops-backup-tool-1-1-0-0-major-update-with-new-features-bug-fixes-and-enhanced-security/)
 - [SignToolGUI – A new tool is here for your digital signing experience – Now public!](https://blog.sonnes.cloud/signtoolgui-a-new-tool-is-here-for-your-digital-signing-experience-now-public/)
