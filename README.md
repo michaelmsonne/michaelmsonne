@@ -194,6 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne opened an issue in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/3)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#13](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/13#issuecomment-2370715760)
 - [michaelmsonne released 1.1.1.0 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.1.1.0)
 - [michaelmsonne created a tag 1.1.1.0 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.1.1.0)
@@ -208,8 +209,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/8a85bbdf4f...8b4a51ce9c)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#14](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/14#issuecomment-2332483639)
 - [michaelmsonne created a tag 1.0.0.0 in michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer/tree/1.0.0.0)
-- [michaelmsonne released 1.0.0.0 at michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer/releases/tag/1.0.0.0)
-- [michaelmsonne pushed to main in michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer/compare/e05e8e0668...bfc62d31bd)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
