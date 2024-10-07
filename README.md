@@ -167,6 +167,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Microsoft Defender for Identity – New posture recommendations focusing on Active Directory](https://blog.sonnes.cloud/microsoft-defender-for-identity-new-posture-recommendations-focusing-on-active-directory/)
 - [Import and Export Automation rules for Microsoft Sentinel  – Unified SOC Platform](https://blog.sonnes.cloud/import-and-export-automation-rules-for-microsoft-sentinel-unified-soc-platform/)
 - [Introducing Azure DevOps Backup Tool 1.1.1.0: Update with new features and bug fixes!](https://blog.sonnes.cloud/introducing-azure-devops-backup-tool-1-1-1-0-update-with-new-features-and-bug-fixes/)
 - [Microsoft Defender for Identity – Expands support to servers with Microsoft Entra Connect](https://blog.sonnes.cloud/microsoft-defender-for-identity-expands-support-to-servers-with-microsoft-entra-connect/)
@@ -186,7 +187,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Microsoft Defender XDR – Unified Security Operations Platform &lpar;Sentinel and Defender&rpar;](https://blog.sonnes.cloud/microsoft-defender-xdr-unified-security-operations-platform-sentinel-and-defender/)
 - [Defender for Office 365 – Hunting and responding to QR code-based phishing attacks](https://blog.sonnes.cloud/defender-for-office-365-hunting-and-responding-to-qr-code-based-phishing-attacks/)
 - [Introducing GitHub Backup Tool 1.3.0.0: Enhanced customization, security and bug fixes!](https://blog.sonnes.cloud/introducing-github-backup-tool-1-3-0-0-enhanced-customization-security-and-bug-fixes/)
-- [Azure – Automating Management Group Removal in Azure with PowerShell](https://blog.sonnes.cloud/azure-automating-management-group-removal-in-azure-with-powershell/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
