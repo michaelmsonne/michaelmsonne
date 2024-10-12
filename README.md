@@ -194,6 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne opened an issue in maester365/maester](https://github.com/maester365/maester/issues/494)
 - [michaelmsonne commented on issue Azure/azure-powershell#26155](https://github.com/Azure/azure-powershell/issues/26155#issuecomment-2384974214)
 - [michaelmsonne opened an issue in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/3)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#13](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/13#issuecomment-2370715760)
