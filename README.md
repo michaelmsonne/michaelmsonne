@@ -194,6 +194,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne opened a pull request in MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/pull/124647)
+- [michaelmsonne pushed to patch-5 in michaelmsonne/azure-docs](https://github.com/michaelmsonne/azure-docs/compare/663a4fd5b1...2382c7495a)
 - [michaelmsonne opened an issue in maester365/maester](https://github.com/maester365/maester/issues/494)
 - [michaelmsonne commented on issue Azure/azure-powershell#26155](https://github.com/Azure/azure-powershell/issues/26155#issuecomment-2384974214)
 - [michaelmsonne opened an issue in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/3)
@@ -209,7 +211,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to add-checkforlogwriteaccess in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/c4f2a8372f...dee511678a)
 - [michaelmsonne created a branch add-checkforlogwriteaccess in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/add-checkforlogwriteaccess)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/8a85bbdf4f...8b4a51ce9c)
-- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#14](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/14#issuecomment-2332483639)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
