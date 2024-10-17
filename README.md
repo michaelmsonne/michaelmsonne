@@ -194,6 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne commented on pull request MicrosoftDocs/azure-docs#124220](https://github.com/MicrosoftDocs/azure-docs/pull/124220#issuecomment-2417019345)
 - [michaelmsonne opened a pull request in MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/pull/124647)
 - [michaelmsonne pushed to patch-5 in michaelmsonne/azure-docs](https://github.com/michaelmsonne/azure-docs/compare/663a4fd5b1...2382c7495a)
 - [michaelmsonne opened an issue in maester365/maester](https://github.com/maester365/maester/issues/494)
