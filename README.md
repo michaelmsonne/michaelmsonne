@@ -194,6 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne starred michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager)
 - [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/9c986beb96...c0642a6ab2)
 - [michaelmsonne made michaelmsonne/ManagedIdentityPermissionManager public](https://github.com/michaelmsonne/ManagedIdentityPermissionManager)
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#4](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/4#issuecomment-2438589816)
@@ -215,7 +216,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne closed an issue in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/13)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#12](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/12#issuecomment-2366830375)
 - [michaelmsonne merged a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/15)
-- [michaelmsonne opened a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/15)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
