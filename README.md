@@ -194,10 +194,15 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to michaelmsonne-better-module-checks in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/fb3d642c24...59a69613f6)
+- [michaelmsonne deleted branch michaelmsonne-better-module-checks at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/)
+- [michaelmsonne released 1.0.0.1 - 27-10-2024 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.0.0.1)
+- [michaelmsonne created a tag 1.0.0.1 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.0.0.1)
+- [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/36c0d9bfa6...ba6a5ae524)
+- [michaelmsonne merged a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/6)
+- [michaelmsonne opened a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/6)
+- [michaelmsonne pushed to michaelmsonne-better-module-checks in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/fae6d4ade1...d4102bdee1)
 - [michaelmsonne opened an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/5)
 - [michaelmsonne created a branch michaelmsonne-better-module-checks in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/michaelmsonne-better-module-checks)
-- [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/23de18a4b2...6744a514df)
 - [michaelmsonne starred michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager)
 - [michaelmsonne made michaelmsonne/ManagedIdentityPermissionManager public](https://github.com/michaelmsonne/ManagedIdentityPermissionManager)
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#4](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/4#issuecomment-2438589816)
@@ -205,16 +210,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne released [1.0.0.0] - 25-10-2024 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.0.0.0)
 - [michaelmsonne created a tag 1.0.0.0 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.0.0.0)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/ec533b0796...0b618ffb9c)
-- [michaelmsonne commented on pull request MicrosoftDocs/azure-docs#124220](https://github.com/MicrosoftDocs/azure-docs/pull/124220#issuecomment-2417019345)
-- [michaelmsonne opened a pull request in MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/pull/124647)
-- [michaelmsonne pushed to patch-5 in michaelmsonne/azure-docs](https://github.com/michaelmsonne/azure-docs/compare/663a4fd5b1...2382c7495a)
-- [michaelmsonne opened an issue in maester365/maester](https://github.com/maester365/maester/issues/494)
-- [michaelmsonne commented on issue Azure/azure-powershell#26155](https://github.com/Azure/azure-powershell/issues/26155#issuecomment-2384974214)
-- [michaelmsonne opened an issue in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/3)
-- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#13](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/13#issuecomment-2370715760)
-- [michaelmsonne released 1.1.1.0 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.1.1.0)
-- [michaelmsonne created a tag 1.1.1.0 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.1.1.0)
-- [michaelmsonne deleted tag 1.1.1.0 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
