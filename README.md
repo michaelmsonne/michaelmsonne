@@ -194,6 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/c0dba3972c...34b0a3be17)
 - [michaelmsonne pushed to michaelmsonne-bugfixing in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/ba6a5ae524...6abcd2e9bb)
 - [michaelmsonne created a branch michaelmsonne-bugfixing in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/michaelmsonne-bugfixing)
 - [michaelmsonne opened an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/10)
@@ -209,7 +210,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne starred michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager)
 - [michaelmsonne made michaelmsonne/ManagedIdentityPermissionManager public](https://github.com/michaelmsonne/ManagedIdentityPermissionManager)
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#4](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/4#issuecomment-2438589816)
-- [michaelmsonne closed an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/4)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
