@@ -167,6 +167,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Introducing Azure DevOps Backup Tool 1.1.2.0: Security update!](https://blog.sonnes.cloud/introducing-azure-devops-backup-tool-1-1-2-0-security-update/)
 - [Managed Identity Permission Manager – A new tool is out to test – v. 1](https://blog.sonnes.cloud/managed-identity-permission-manager-a-new-tool-is-out-to-test-v-1/)
 - [Microsoft Defender for Identity – New posture recommendations focusing on Active Directory](https://blog.sonnes.cloud/microsoft-defender-for-identity-new-posture-recommendations-focusing-on-active-directory/)
 - [Import and Export Automation rules for Microsoft Sentinel  – Unified SOC Platform](https://blog.sonnes.cloud/import-and-export-automation-rules-for-microsoft-sentinel-unified-soc-platform/)
@@ -186,7 +187,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Defender for Cloud – Reset to free tier via PowerShell](https://blog.sonnes.cloud/defender-for-cloud-reset-to-free-tier-via-powershell/)
 - [Introducing Azure DevOps Backup Tool 1.0.5.8: Enhanced security, optimization and bug fixes!](https://blog.sonnes.cloud/introducing-azure-devops-backup-tool-1-0-5-8-enhanced-security-optimization-and-bug-fixes/)
 - [Microsoft Defender XDR – Unified Security Operations Platform &lpar;Sentinel and Defender&rpar;](https://blog.sonnes.cloud/microsoft-defender-xdr-unified-security-operations-platform-sentinel-and-defender/)
-- [Defender for Office 365 – Hunting and responding to QR code-based phishing attacks](https://blog.sonnes.cloud/defender-for-office-365-hunting-and-responding-to-qr-code-based-phishing-attacks/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
