@@ -194,6 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne created a branch michaelmsonne-bugfixing in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/michaelmsonne-bugfixing)
 - [michaelmsonne opened an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/10)
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#7](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/7#issuecomment-2440176597)
 - [michaelmsonne deleted branch michaelmsonne-better-module-checks at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/)
@@ -209,7 +210,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#4](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/4#issuecomment-2438589816)
 - [michaelmsonne closed an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/4)
 - [michaelmsonne released [1.0.0.0] - 25-10-2024 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.0.0.0)
-- [michaelmsonne created a tag 1.0.0.0 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.0.0.0)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
