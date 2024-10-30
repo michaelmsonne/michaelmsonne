@@ -194,6 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne opened an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/10)
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#7](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/7#issuecomment-2440176597)
 - [michaelmsonne deleted branch michaelmsonne-better-module-checks at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/)
 - [michaelmsonne released 1.0.0.1 - 27-10-2024 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.0.0.1)
@@ -202,7 +203,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne merged a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/6)
 - [michaelmsonne opened a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/6)
 - [michaelmsonne pushed to michaelmsonne-better-module-checks in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/fae6d4ade1...d4102bdee1)
-- [michaelmsonne opened an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/5)
 - [michaelmsonne created a branch michaelmsonne-better-module-checks in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/michaelmsonne-better-module-checks)
 - [michaelmsonne starred michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager)
 - [michaelmsonne made michaelmsonne/ManagedIdentityPermissionManager public](https://github.com/michaelmsonne/ManagedIdentityPermissionManager)
@@ -210,7 +210,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne closed an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/4)
 - [michaelmsonne released [1.0.0.0] - 25-10-2024 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.0.0.0)
 - [michaelmsonne created a tag 1.0.0.0 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.0.0.0)
-- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/ec533b0796...0b618ffb9c)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
