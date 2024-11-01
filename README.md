@@ -194,7 +194,13 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to michaelmsonne-bugfixing in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/6bb9b286e5...1d2c4793a4)
+- [michaelmsonne released 1.0.0.2 - 01-11-2024 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.0.0.2)
+- [michaelmsonne created a tag 1.0.0.2 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.0.0.2)
+- [michaelmsonne deleted branch michaelmsonne-bugfixing at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/)
+- [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/ba6a5ae524...f8af9d3acc)
+- [michaelmsonne merged a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/12)
+- [michaelmsonne opened a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/12)
+- [michaelmsonne pushed to michaelmsonne-bugfixing in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/35629c6668...4ae519f478)
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#10](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/10#issuecomment-2452421115)
 - [michaelmsonne closed an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/10)
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#9](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/9#issuecomment-2452211513)
@@ -204,13 +210,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a branch michaelmsonne-bugfixing in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/michaelmsonne-bugfixing)
 - [michaelmsonne opened an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/10)
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#7](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/7#issuecomment-2440176597)
-- [michaelmsonne deleted branch michaelmsonne-better-module-checks at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/)
-- [michaelmsonne released 1.0.0.1 - 27-10-2024 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.0.0.1)
-- [michaelmsonne created a tag 1.0.0.1 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.0.0.1)
-- [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/36c0d9bfa6...ba6a5ae524)
-- [michaelmsonne merged a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/6)
-- [michaelmsonne opened a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/6)
-- [michaelmsonne pushed to michaelmsonne-better-module-checks in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/fae6d4ade1...d4102bdee1)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
