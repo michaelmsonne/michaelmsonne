@@ -194,6 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne opened an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/13)
 - [michaelmsonne released 1.0.0.2 - 01-11-2024 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.0.0.2)
 - [michaelmsonne created a tag 1.0.0.2 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.0.0.2)
 - [michaelmsonne deleted branch michaelmsonne-bugfixing at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/)
@@ -208,8 +209,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a tag 1.1.2.0 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.1.2.0)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/34b0a3be17...8e5e16b92e)
 - [michaelmsonne created a branch michaelmsonne-bugfixing in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/michaelmsonne-bugfixing)
-- [michaelmsonne opened an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/10)
-- [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#7](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/7#issuecomment-2440176597)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
