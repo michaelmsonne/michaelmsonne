@@ -194,6 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne starred michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer)
 - [michaelmsonne commented on issue Azure/azure-powershell#21960](https://github.com/Azure/azure-powershell/issues/21960#issuecomment-2454187247)
 - [michaelmsonne opened an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/13)
 - [michaelmsonne released 1.0.0.2 - 01-11-2024 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.0.0.2)
@@ -209,7 +210,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#11](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/11#issuecomment-2452184658)
 - [michaelmsonne created a tag 1.1.2.0 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.1.2.0)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/34b0a3be17...8e5e16b92e)
-- [michaelmsonne created a branch michaelmsonne-bugfixing in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/michaelmsonne-bugfixing)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
