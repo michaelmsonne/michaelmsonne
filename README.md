@@ -194,9 +194,15 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#16](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/16#issuecomment-2462988564)
-- [michaelmsonne released 1.1.2.1 - BETA at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.1.2.1)
+- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#16](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/16#issuecomment-2463167806)
 - [michaelmsonne created a tag 1.1.2.1 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.1.2.1)
+- [michaelmsonne released 1.1.2.1 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.1.2.1)
+- [michaelmsonne deleted tag 1.1.2.1 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/)
+- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/744cce5159...699d61e5c8)
+- [michaelmsonne deleted branch fix-non-SSL-enabled-SMTP-servers at michaelmsonne/AzureDevOpsBackupTool](https://github.com/)
+- [michaelmsonne merged a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/18)
+- [michaelmsonne opened a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/18)
+- [michaelmsonne released 1.1.2.1 - BETA at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.1.2.1)
 - [michaelmsonne created a branch fix-non-SSL-enabled-SMTP-servers in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/fix-non-SSL-enabled-SMTP-servers)
 - [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/86da916d0a...dc2c39c401)
 - [michaelmsonne starred michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer)
@@ -208,10 +214,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne merged a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/12)
 - [michaelmsonne opened a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/12)
 - [michaelmsonne pushed to michaelmsonne-bugfixing in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/35629c6668...4ae519f478)
-- [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#10](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/10#issuecomment-2452421115)
-- [michaelmsonne closed an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/10)
-- [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#9](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/9#issuecomment-2452211513)
-- [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#11](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/11#issuecomment-2452184658)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
