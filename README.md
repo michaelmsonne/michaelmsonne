@@ -194,6 +194,10 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#16](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/16#issuecomment-2462988564)
+- [michaelmsonne released 1.1.2.1 - BETA at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.1.2.1)
+- [michaelmsonne created a tag 1.1.2.1 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.1.2.1)
+- [michaelmsonne created a branch fix-non-SSL-enabled-SMTP-servers in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/fix-non-SSL-enabled-SMTP-servers)
 - [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/86da916d0a...dc2c39c401)
 - [michaelmsonne starred michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer)
 - [michaelmsonne commented on issue Azure/azure-powershell#21960](https://github.com/Azure/azure-powershell/issues/21960#issuecomment-2454187247)
@@ -208,8 +212,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne closed an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/10)
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#9](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/9#issuecomment-2452211513)
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#11](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/11#issuecomment-2452184658)
-- [michaelmsonne created a tag 1.1.2.0 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.1.2.0)
-- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/34b0a3be17...8e5e16b92e)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
