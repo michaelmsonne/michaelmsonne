@@ -67,6 +67,8 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1) 
 __*(Last 48 badges from credly.com - there is more than this...)*__
 <!--START_SECTION:badges-->
+[![Entra Advisors Customer Champion | October 2024](https://images.credly.com/size/110x110/images/787e8a42-b6aa-4ddb-8273-df8371fb2087/image.png)](http://www.credly.com/badges/9d8fabbb-8a13-4ad4-b207-7a3410f18c2a "Entra Advisors Customer Champion | October 2024")
+[![Security CCP Customer Champion | October 2024](https://images.credly.com/size/110x110/images/13b53652-8f3e-45cb-80f0-f90f586f4fe6/image.png)](http://www.credly.com/badges/0bf743db-0f1d-4d86-9b7a-dce29e90482c "Security CCP Customer Champion | October 2024")
 [![Windows Manageability Champion - 2024](https://images.credly.com/size/110x110/images/cd5ea598-5fe4-4b4b-b807-f5710d6353c3/image.png)](http://www.credly.com/badges/da79c07d-fe13-4a2d-9dc7-9108a42cc1f6 "Windows Manageability Champion - 2024")
 [![Windows Commercial Influencer](https://images.credly.com/size/110x110/images/3e89c678-7941-4f6f-a631-c5ce9cb8f3cc/image.png)](http://www.credly.com/badges/61e1edd3-2ee1-483b-bdee-46a63cca546c "Windows Commercial Influencer")
 [![Entra Advisors Customer Champion | September 2024](https://images.credly.com/size/110x110/images/54c3f508-c23b-4e93-9162-40c030a0203f/image.png)](http://www.credly.com/badges/dd5fa4a2-5ccd-4f51-9e86-437e6c10cf47 "Entra Advisors Customer Champion | September 2024")
@@ -113,8 +115,6 @@ __*(Last 48 badges from credly.com - there is more than this...)*__
 [![Cloud Security Customer Champion | October](https://images.credly.com/size/110x110/images/aa14ea45-a3b1-47b9-bfd2-7bae8a13e8c0/image.png)](http://www.credly.com/badges/4f962833-3287-4ced-8582-938757253017 "Cloud Security Customer Champion | October")
 [![Defender for Cloud Black Belt](https://images.credly.com/size/110x110/images/c9fffd4c-f790-462d-8892-ddc951e0f910/CREDLY_Microsoft_Defender_for_Cloud_Black_Belt_V1.png)](http://www.credly.com/badges/c70672be-ec97-4e4d-9aaf-c50c97ecf245 "Defender for Cloud Black Belt")
 [![Microsoft Defender for Cloud Influencer](https://images.credly.com/size/110x110/images/f4d81e6e-560a-40ad-8d77-be9055f72d77/image.png)](http://www.credly.com/badges/81f9a1c8-3169-411c-b332-2e0da9e14b28 "Microsoft Defender for Cloud Influencer")
-[![Microsoft Entra Community Rockstar](https://images.credly.com/size/110x110/images/b434a50f-2bef-48f6-949f-bc35b1910464/image.png)](http://www.credly.com/badges/39ced612-fa93-4e7f-bff7-035b7f5a0bee "Microsoft Entra Community Rockstar")
-[![Microsoft Entra ID Champion](https://images.credly.com/size/110x110/images/f07b7e05-3dfc-4444-a250-b97a28a01648/image.png)](http://www.credly.com/badges/0dbe6c03-dfd6-4cf5-b0d0-515286002356 "Microsoft Entra ID Champion")
 <!--END_SECTION:badges-->
 
 ## 📜 Member of the Microsoft Customer Connection Program Community
