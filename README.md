@@ -194,11 +194,11 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/e895f82c71...69c722e1f9)
 - [michaelmsonne closed a pull request in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/pull/9)
 - [michaelmsonne deleted branch dependabot/nuget/Octokit-10.0.0 at michaelmsonne/GitHubBackupTool](https://github.com/)
 - [michaelmsonne deleted branch dependabot/nuget/LibGit2Sharp-0.30.0 at michaelmsonne/GitHubBackupTool](https://github.com/)
 - [michaelmsonne deleted branch dependabot/nuget/Autofac-8.0.0 at michaelmsonne/GitHubBackupTool](https://github.com/)
-- [michaelmsonne pushed to main in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/9e649edc6b...e895f82c71)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/699d61e5c8...1d3886b63a)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#16](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/16#issuecomment-2463167806)
 - [michaelmsonne created a tag 1.1.2.1 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.1.2.1)
@@ -213,7 +213,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne starred michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer)
 - [michaelmsonne commented on issue Azure/azure-powershell#21960](https://github.com/Azure/azure-powershell/issues/21960#issuecomment-2454187247)
 - [michaelmsonne opened an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/13)
-- [michaelmsonne released 1.0.0.2 - 01-11-2024 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.0.0.2)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
