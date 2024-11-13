@@ -194,7 +194,9 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to main in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/69c722e1f9...530c3521c0)
+- [michaelmsonne released 1.3.1.0 at michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/releases/tag/1.3.1.0)
+- [michaelmsonne created a tag 1.3.1.0 in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/tree/1.3.1.0)
+- [michaelmsonne pushed to main in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/8d5a8da788...da8005d674)
 - [michaelmsonne closed a pull request in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/pull/9)
 - [michaelmsonne deleted branch dependabot/nuget/Octokit-10.0.0 at michaelmsonne/GitHubBackupTool](https://github.com/)
 - [michaelmsonne deleted branch dependabot/nuget/LibGit2Sharp-0.30.0 at michaelmsonne/GitHubBackupTool](https://github.com/)
@@ -210,8 +212,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne released 1.1.2.1 - BETA at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.1.2.1)
 - [michaelmsonne created a branch fix-non-SSL-enabled-SMTP-servers in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/fix-non-SSL-enabled-SMTP-servers)
 - [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/86da916d0a...dc2c39c401)
-- [michaelmsonne starred michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer)
-- [michaelmsonne commented on issue Azure/azure-powershell#21960](https://github.com/Azure/azure-powershell/issues/21960#issuecomment-2454187247)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
