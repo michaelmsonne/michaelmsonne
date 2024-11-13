@@ -194,7 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to main in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/e895f82c71...69c722e1f9)
+- [michaelmsonne pushed to main in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/69c722e1f9...530c3521c0)
 - [michaelmsonne closed a pull request in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/pull/9)
 - [michaelmsonne deleted branch dependabot/nuget/Octokit-10.0.0 at michaelmsonne/GitHubBackupTool](https://github.com/)
 - [michaelmsonne deleted branch dependabot/nuget/LibGit2Sharp-0.30.0 at michaelmsonne/GitHubBackupTool](https://github.com/)
@@ -212,7 +212,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/86da916d0a...dc2c39c401)
 - [michaelmsonne starred michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer)
 - [michaelmsonne commented on issue Azure/azure-powershell#21960](https://github.com/Azure/azure-powershell/issues/21960#issuecomment-2454187247)
-- [michaelmsonne opened an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/13)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
