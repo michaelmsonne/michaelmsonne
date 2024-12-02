@@ -194,6 +194,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#19](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/19#issuecomment-2510964845)
+- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#20](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/20#issuecomment-2510960687)
 - [michaelmsonne commented on issue michaelmsonne/public#1](https://github.com/michaelmsonne/public/issues/1#issuecomment-2474503640)
 - [michaelmsonne released 1.3.1.0 at michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/releases/tag/1.3.1.0)
 - [michaelmsonne created a tag 1.3.1.0 in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/tree/1.3.1.0)
@@ -211,7 +213,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne merged a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/18)
 - [michaelmsonne opened a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/18)
 - [michaelmsonne released 1.1.2.1 - BETA at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.1.2.1)
-- [michaelmsonne created a branch fix-non-SSL-enabled-SMTP-servers in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/fix-non-SSL-enabled-SMTP-servers)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
