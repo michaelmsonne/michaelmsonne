@@ -67,6 +67,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1) 
 __*(Last 48 badges from credly.com - there is more than this...)*__
 <!--START_SECTION:badges-->
+[![Microsoft Defender for Endpoint Black Belt](https://images.credly.com/size/110x110/images/c0636b09-86c8-4b1d-a086-4934b120bb71/blob)](http://www.credly.com/badges/73b8da56-fed0-4e3a-b112-5273ebf339f4 "Microsoft Defender for Endpoint Black Belt")
 [![Network Security Champion - 2024](https://images.credly.com/size/110x110/images/f424d1ea-93d0-4290-874a-0469ef08203b/image.png)](http://www.credly.com/badges/d0910cab-0a59-4bb6-8da3-bbd689e27d88 "Network Security Champion - 2024")
 [![Analytics & Admin Experiences Champion - 2024](https://images.credly.com/size/110x110/images/161416ef-e645-4a3b-805d-09e91a737ef9/image.png)](http://www.credly.com/badges/436db879-2276-4f1a-a29f-1180989b6559 "Analytics & Admin Experiences Champion - 2024")
 [![Entra Advisors Customer Champion | October 2024](https://images.credly.com/size/110x110/images/787e8a42-b6aa-4ddb-8273-df8371fb2087/image.png)](http://www.credly.com/badges/9d8fabbb-8a13-4ad4-b207-7a3410f18c2a "Entra Advisors Customer Champion | October 2024")
@@ -114,7 +115,6 @@ __*(Last 48 badges from credly.com - there is more than this...)*__
 [![Microsoft Sentinel Influencer](https://images.credly.com/size/110x110/images/54c8e380-0ab3-40b9-b101-0155e23d5950/image.png)](http://www.credly.com/badges/f273fce9-6d85-44c0-9aec-78398ed37ae1 "Microsoft Sentinel Influencer")
 [![Microsoft Entra ID Influencer](https://images.credly.com/size/110x110/images/c6f6474d-9435-41d2-a991-626330aab650/image.png)](http://www.credly.com/badges/e2add800-da0d-45de-929e-ebbb009e248c "Microsoft Entra ID Influencer")
 [![Cloud Security Customer Champion | November](https://images.credly.com/size/110x110/images/7577f29f-0471-4bd2-9ca4-80bff13c8299/image.png)](http://www.credly.com/badges/d3863773-8f53-49e9-9db5-9db29d3f40f4 "Cloud Security Customer Champion | November")
-[![Cloud Security Customer Champion | October](https://images.credly.com/size/110x110/images/aa14ea45-a3b1-47b9-bfd2-7bae8a13e8c0/image.png)](http://www.credly.com/badges/4f962833-3287-4ced-8582-938757253017 "Cloud Security Customer Champion | October")
 <!--END_SECTION:badges-->
 
 ## 📜 Member of the Microsoft Customer Connection Program Community
