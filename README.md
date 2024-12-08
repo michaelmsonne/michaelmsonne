@@ -194,10 +194,11 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to michaelmsonne-AddUpdateFunction in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/3b286dbef8...ca3e6623b4)
+- [michaelmsonne pushed to michaelmsonne-AddUpdateFunction in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/aea1385adb...03a5c82ce7)
+- [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#8](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/8#issuecomment-2525693752)
+- [michaelmsonne closed an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/8)
 - [michaelmsonne created a branch michaelmsonne-AddUpdateFunction in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/michaelmsonne-AddUpdateFunction)
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#11](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/11#issuecomment-2525682138)
-- [michaelmsonne closed an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/11)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#19](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/19#issuecomment-2510964845)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#20](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/20#issuecomment-2510960687)
 - [michaelmsonne commented on issue michaelmsonne/public#1](https://github.com/michaelmsonne/public/issues/1#issuecomment-2474503640)
@@ -213,8 +214,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a tag 1.1.2.1 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.1.2.1)
 - [michaelmsonne released 1.1.2.1 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.1.2.1)
 - [michaelmsonne deleted tag 1.1.2.1 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/)
-- [michaelmsonne deleted branch fix-non-SSL-enabled-SMTP-servers at michaelmsonne/AzureDevOpsBackupTool](https://github.com/)
-- [michaelmsonne merged a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/18)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
