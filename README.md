@@ -194,6 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne commented on issue Azure/azure-powershell#21960](https://github.com/Azure/azure-powershell/issues/21960#issuecomment-2535214832)
 - [michaelmsonne pushed to michaelmsonne-AddUpdateFunction in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/aea1385adb...03a5c82ce7)
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#8](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/8#issuecomment-2525693752)
 - [michaelmsonne closed an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/8)
@@ -213,7 +214,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#16](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/16#issuecomment-2463167806)
 - [michaelmsonne created a tag 1.1.2.1 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.1.2.1)
 - [michaelmsonne released 1.1.2.1 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.1.2.1)
-- [michaelmsonne deleted tag 1.1.2.1 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
