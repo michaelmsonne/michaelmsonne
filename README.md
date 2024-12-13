@@ -194,6 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne commented on issue maester365/maester#559](https://github.com/maester365/maester/issues/559#issuecomment-2539103509)
 - [michaelmsonne closed a pull request in michaelmsonne/maester](https://github.com/michaelmsonne/maester/pull/2)
 - [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.5.3 at michaelmsonne/maester](https://github.com/)
 - [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.6.1 at michaelmsonne/maester](https://github.com/)
@@ -218,7 +219,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to michaelmsonne-AddUpdateFunction in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/aea1385adb...03a5c82ce7)
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#8](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/8#issuecomment-2525693752)
 - [michaelmsonne closed an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/8)
-- [michaelmsonne created a branch michaelmsonne-AddUpdateFunction in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/michaelmsonne-AddUpdateFunction)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
