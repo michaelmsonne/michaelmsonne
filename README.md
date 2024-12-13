@@ -194,7 +194,9 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/578)
+- [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/579)
+- [michaelmsonne pushed to michaelmsonne-AddMissingEntraIDRoles in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/c7826dbf08...59878ff417)
+- [michaelmsonne created a branch michaelmsonne-AddMissingEntraIDRoles in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-AddMissingEntraIDRoles)
 - [michaelmsonne pushed to michaelmsonne-smallcleanups in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/5865ef9473...f255ce407c)
 - [michaelmsonne created a branch michaelmsonne-smallcleanups in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-smallcleanups)
 - [michaelmsonne commented on issue maester365/maester#559](https://github.com/maester365/maester/issues/559#issuecomment-2539103509)
@@ -217,8 +219,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.7.9 at michaelmsonne/maester](https://github.com/)
 - [michaelmsonne deleted branch michaelmsonne-AddPowerShellReadMe at michaelmsonne/maester](https://github.com/)
 - [michaelmsonne pushed to main in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/27ca8c959c...a004ddf63d)
-- [michaelmsonne commented on issue Azure/azure-powershell#21960](https://github.com/Azure/azure-powershell/issues/21960#issuecomment-2535214832)
-- [michaelmsonne pushed to michaelmsonne-AddUpdateFunction in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/aea1385adb...03a5c82ce7)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
