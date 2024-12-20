@@ -194,12 +194,13 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#14](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/14#issuecomment-2555383314)
+- [michaelmsonne commented on issue maester365/maester#559](https://github.com/maester365/maester/issues/559#issuecomment-2555373425)
 - [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/579)
 - [michaelmsonne pushed to michaelmsonne-AddMissingEntraIDRoles in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/c7826dbf08...59878ff417)
 - [michaelmsonne created a branch michaelmsonne-AddMissingEntraIDRoles in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-AddMissingEntraIDRoles)
 - [michaelmsonne pushed to michaelmsonne-smallcleanups in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/5865ef9473...f255ce407c)
 - [michaelmsonne created a branch michaelmsonne-smallcleanups in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-smallcleanups)
-- [michaelmsonne commented on issue maester365/maester#559](https://github.com/maester365/maester/issues/559#issuecomment-2539103509)
 - [michaelmsonne closed a pull request in michaelmsonne/maester](https://github.com/michaelmsonne/maester/pull/2)
 - [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.5.3 at michaelmsonne/maester](https://github.com/)
 - [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.6.1 at michaelmsonne/maester](https://github.com/)
@@ -218,7 +219,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.7.4 at michaelmsonne/maester](https://github.com/)
 - [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.7.9 at michaelmsonne/maester](https://github.com/)
 - [michaelmsonne deleted branch michaelmsonne-AddPowerShellReadMe at michaelmsonne/maester](https://github.com/)
-- [michaelmsonne pushed to main in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/27ca8c959c...a004ddf63d)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
