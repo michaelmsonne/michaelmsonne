@@ -194,6 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne starred MicrosoftDocs/mslearn-developer-tools-power-platform](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform)
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#14](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/14#issuecomment-2555383314)
 - [michaelmsonne commented on issue maester365/maester#559](https://github.com/maester365/maester/issues/559#issuecomment-2555373425)
 - [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/579)
@@ -218,7 +219,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.7.6 at michaelmsonne/maester](https://github.com/)
 - [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.7.4 at michaelmsonne/maester](https://github.com/)
 - [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.7.9 at michaelmsonne/maester](https://github.com/)
-- [michaelmsonne deleted branch michaelmsonne-AddPowerShellReadMe at michaelmsonne/maester](https://github.com/)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
