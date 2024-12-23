@@ -167,6 +167,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Managed Identity Permission Manager – v. 1.0.0.3 is out!](https://blog.sonnes.cloud/managed-identity-permission-manager-v-1-0-0-3-is-out/)
 - [Microsoft Defender for Cloud Apps – Visibility into applications with highly privileged permissions, whether used or unused](https://blog.sonnes.cloud/microsoft-defender-for-cloud-apps-visibility-into-applications-with-highly-privileged-permissions-whether-used-or-unused/)
 - [Windows – Hotpatching is now possible on clients – rebootless updates is here!](https://blog.sonnes.cloud/windows-hotpatching-is-now-possible-on-clients-rebootless-updates-is-here/)
 - [GitHub Backup Tool – update 1.3.1.0 is out](https://blog.sonnes.cloud/github-backup-tool-update-1-3-1-0-is-out/)
@@ -186,7 +187,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Reflecting on a remarkable first half of the year 2024! ✨](https://blog.sonnes.cloud/reflecting-on-a-remarkable-first-half-of-the-year-2024/)
 - [Veeam Backup M365 – Exchange Online backup fails with error: Failed to get folder properties. Not allowed to access non IPM folder](https://blog.sonnes.cloud/veeam-backup-m365-exchange-online-backup-fails-with-error-failed-to-get-folder-properties-not-allowed-to-access-non-ipm-folder/)
 - [Entra ID – Global Secure Access Client – Assign users and groups to forwarding profiles](https://blog.sonnes.cloud/entra-id-global-secure-access-client-assign-users-and-groups-to-forwarding-profiles/)
-- [Introducing a new tool – Lookup IP to DNS Tool – v. 1.0.0.3!](https://blog.sonnes.cloud/introducing-a-new-tool-lookup-ip-to-dns-tool-v-1-0-0-3/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
