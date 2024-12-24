@@ -194,7 +194,14 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to michaelmsonne-AddUpdateFunction in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/74173ff25e...1bf18ca79b)
+- [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#11](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/11#issuecomment-2560380842)
+- [michaelmsonne released 1.0.0.2 - 23-12-2024 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.0.0.3)
+- [michaelmsonne created a tag 1.0.0.3 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.0.0.3)
+- [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/2c5c474786...84db415a02)
+- [michaelmsonne closed an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/14)
+- [michaelmsonne merged a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/15)
+- [michaelmsonne opened a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/15)
+- [michaelmsonne pushed to michaelmsonne-AddUpdateFunction in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/7a32350fc5...0003417208)
 - [michaelmsonne starred MicrosoftDocs/mslearn-developer-tools-power-platform](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform)
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#14](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/14#issuecomment-2555383314)
 - [michaelmsonne commented on issue maester365/maester#559](https://github.com/maester365/maester/issues/559#issuecomment-2555373425)
@@ -208,17 +215,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.6.1 at michaelmsonne/maester](https://github.com/)
 - [michaelmsonne deleted branch formatting-patch1 at michaelmsonne/maester](https://github.com/)
 - [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.5.4 at michaelmsonne/maester](https://github.com/)
-- [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.3.8 at michaelmsonne/maester](https://github.com/)
-- [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.3.7 at michaelmsonne/maester](https://github.com/)
-- [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.7.1 at michaelmsonne/maester](https://github.com/)
-- [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.3.6 at michaelmsonne/maester](https://github.com/)
-- [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.8.2 at michaelmsonne/maester](https://github.com/)
-- [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.8.1 at michaelmsonne/maester](https://github.com/)
-- [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.7.8 at michaelmsonne/maester](https://github.com/)
-- [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.7.7 at michaelmsonne/maester](https://github.com/)
-- [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.7.5 at michaelmsonne/maester](https://github.com/)
-- [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.7.6 at michaelmsonne/maester](https://github.com/)
-- [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.7.4 at michaelmsonne/maester](https://github.com/)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
