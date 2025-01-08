@@ -194,6 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne commented on pull request merill/microsoft-info#14](https://github.com/merill/microsoft-info/pull/14#issuecomment-2576246052)
 - [michaelmsonne opened a pull request in MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/1299)
 - [michaelmsonne pushed to patch-4 in michaelmsonne/entra-docs](https://github.com/michaelmsonne/entra-docs/compare/51914e9ce7...d93ca16416)
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#11](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/11#issuecomment-2560380842)
@@ -214,7 +215,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a branch michaelmsonne-smallcleanups in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-smallcleanups)
 - [michaelmsonne closed a pull request in michaelmsonne/maester](https://github.com/michaelmsonne/maester/pull/2)
 - [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.5.3 at michaelmsonne/maester](https://github.com/)
-- [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.6.1 at michaelmsonne/maester](https://github.com/)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
