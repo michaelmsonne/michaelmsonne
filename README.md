@@ -194,6 +194,10 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to add-ExportPermissionsOnSP in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/a2475e70b0...c6dcb98531)
+- [michaelmsonne created a branch add-ExportPermissionsOnSP in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/add-ExportPermissionsOnSP)
+- [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#3](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/3#issuecomment-2585935857)
+- [michaelmsonne closed an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/3)
 - [michaelmsonne commented on pull request merill/microsoft-info#14](https://github.com/merill/microsoft-info/pull/14#issuecomment-2576246052)
 - [michaelmsonne opened a pull request in MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/1299)
 - [michaelmsonne pushed to patch-4 in michaelmsonne/entra-docs](https://github.com/michaelmsonne/entra-docs/compare/51914e9ce7...d93ca16416)
@@ -201,7 +205,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne released 1.0.0.2 - 23-12-2024 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.0.0.3)
 - [michaelmsonne created a tag 1.0.0.3 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.0.0.3)
 - [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/2c5c474786...84db415a02)
-- [michaelmsonne closed an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/14)
 - [michaelmsonne merged a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/15)
 - [michaelmsonne opened a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/15)
 - [michaelmsonne pushed to michaelmsonne-AddUpdateFunction in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/7a32350fc5...0003417208)
@@ -211,10 +214,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/579)
 - [michaelmsonne pushed to michaelmsonne-AddMissingEntraIDRoles in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/c7826dbf08...59878ff417)
 - [michaelmsonne created a branch michaelmsonne-AddMissingEntraIDRoles in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-AddMissingEntraIDRoles)
-- [michaelmsonne pushed to michaelmsonne-smallcleanups in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/5865ef9473...f255ce407c)
-- [michaelmsonne created a branch michaelmsonne-smallcleanups in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/michaelmsonne-smallcleanups)
-- [michaelmsonne closed a pull request in michaelmsonne/maester](https://github.com/michaelmsonne/maester/pull/2)
-- [michaelmsonne deleted branch michaelmsonne-UpdateMS.AAD.5.3 at michaelmsonne/maester](https://github.com/)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
