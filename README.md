@@ -167,6 +167,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Microsoft Defender for Cloud Apps – Permissions filter and export capability is here!](https://blog.sonnes.cloud/microsoft-defender-for-cloud-apps-permissions-filter-and-export-capability-is-here/)
 - [What a 2024 – a new year is now over and a new begings](https://blog.sonnes.cloud/what-a-2024-a-new-year-is-now-over-and-a-new-begings/)
 - [Managed Identity Permission Manager – v. 1.0.0.3 is out!](https://blog.sonnes.cloud/managed-identity-permission-manager-v-1-0-0-3-is-out/)
 - [Microsoft Defender for Cloud Apps – Visibility into applications with highly privileged permissions, whether used or unused](https://blog.sonnes.cloud/microsoft-defender-for-cloud-apps-visibility-into-applications-with-highly-privileged-permissions-whether-used-or-unused/)
@@ -186,7 +187,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Entra ID – Global Secure Access – Now Generally Available!](https://blog.sonnes.cloud/entra-id-global-secure-access-now-generally-available/)
 - [Introducing Azure DevOps Backup Tool 1.0.5.9: Enhanced security, optimization and bug fixes!](https://blog.sonnes.cloud/introducing-azure-devops-backup-tool-1-0-5-9-enhanced-security-optimization-and-bug-fixes/)
 - [Reflecting on a remarkable first half of the year 2024! ✨](https://blog.sonnes.cloud/reflecting-on-a-remarkable-first-half-of-the-year-2024/)
-- [Veeam Backup M365 – Exchange Online backup fails with error: Failed to get folder properties. Not allowed to access non IPM folder](https://blog.sonnes.cloud/veeam-backup-m365-exchange-online-backup-fails-with-error-failed-to-get-folder-properties-not-allowed-to-access-non-ipm-folder/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
