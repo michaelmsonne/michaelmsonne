@@ -194,6 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/84db415a02...bb38a607a2)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/ee7bcf107c...3c8840ba4f)
 - [michaelmsonne pushed to add-ExportPermissionsOnSP in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/a2475e70b0...c6dcb98531)
 - [michaelmsonne created a branch add-ExportPermissionsOnSP in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/add-ExportPermissionsOnSP)
@@ -205,7 +206,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#11](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/11#issuecomment-2560380842)
 - [michaelmsonne released 1.0.0.2 - 23-12-2024 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.0.0.3)
 - [michaelmsonne created a tag 1.0.0.3 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.0.0.3)
-- [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/2c5c474786...84db415a02)
 - [michaelmsonne merged a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/15)
 - [michaelmsonne opened a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/15)
 - [michaelmsonne pushed to michaelmsonne-AddUpdateFunction in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/7a32350fc5...0003417208)
@@ -213,7 +213,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#14](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/14#issuecomment-2555383314)
 - [michaelmsonne commented on issue maester365/maester#559](https://github.com/maester365/maester/issues/559#issuecomment-2555373425)
 - [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/579)
-- [michaelmsonne pushed to michaelmsonne-AddMissingEntraIDRoles in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/c7826dbf08...59878ff417)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
