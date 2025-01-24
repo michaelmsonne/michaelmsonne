@@ -194,7 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to add-ExportPermissionsOnSP in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/9d50765188...ca47f3ac17)
+- [michaelmsonne pushed to add-ExportPermissionsOnSP in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/ca47f3ac17...1d4e5502c2)
 - [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/84db415a02...bb38a607a2)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/ee7bcf107c...3c8840ba4f)
 - [michaelmsonne created a branch add-ExportPermissionsOnSP in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/add-ExportPermissionsOnSP)
@@ -210,7 +210,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne opened a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/15)
 - [michaelmsonne pushed to michaelmsonne-AddUpdateFunction in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/7a32350fc5...0003417208)
 - [michaelmsonne starred MicrosoftDocs/mslearn-developer-tools-power-platform](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform)
-- [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#14](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/14#issuecomment-2555383314)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
