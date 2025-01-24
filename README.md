@@ -194,9 +194,9 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to add-ExportPermissionsOnSP in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/367a1ea8fa...9d50765188)
 - [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/84db415a02...bb38a607a2)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/ee7bcf107c...3c8840ba4f)
-- [michaelmsonne pushed to add-ExportPermissionsOnSP in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/a2475e70b0...c6dcb98531)
 - [michaelmsonne created a branch add-ExportPermissionsOnSP in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/add-ExportPermissionsOnSP)
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#3](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/3#issuecomment-2585935857)
 - [michaelmsonne closed an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/3)
@@ -212,7 +212,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne starred MicrosoftDocs/mslearn-developer-tools-power-platform](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform)
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#14](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/14#issuecomment-2555383314)
 - [michaelmsonne commented on issue maester365/maester#559](https://github.com/maester365/maester/issues/559#issuecomment-2555373425)
-- [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/579)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
