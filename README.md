@@ -194,9 +194,9 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/2cd5b5adf9...24e79c30a7)
 - [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/be21dc2916...ac2aac0178)
 - [michaelmsonne pushed to add-ExportPermissionsOnSP in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/ca47f3ac17...1d4e5502c2)
-- [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/ee7bcf107c...3c8840ba4f)
 - [michaelmsonne created a branch add-ExportPermissionsOnSP in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/add-ExportPermissionsOnSP)
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#3](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/3#issuecomment-2585935857)
 - [michaelmsonne closed an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/3)
