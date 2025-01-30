@@ -201,14 +201,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#3](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/3#issuecomment-2585935857)
 - [michaelmsonne closed an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/3)
 - [michaelmsonne commented on pull request merill/microsoft-info#14](https://github.com/merill/microsoft-info/pull/14#issuecomment-2576246052)
-- [michaelmsonne opened a pull request in MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/1299)
-- [michaelmsonne pushed to patch-4 in michaelmsonne/entra-docs](https://github.com/michaelmsonne/entra-docs/compare/51914e9ce7...d93ca16416)
-- [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#11](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/11#issuecomment-2560380842)
-- [michaelmsonne released 1.0.0.2 - 23-12-2024 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.0.0.3)
-- [michaelmsonne created a tag 1.0.0.3 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.0.0.3)
-- [michaelmsonne merged a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/15)
-- [michaelmsonne opened a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/15)
-- [michaelmsonne pushed to michaelmsonne-AddUpdateFunction in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/7a32350fc5...0003417208)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
