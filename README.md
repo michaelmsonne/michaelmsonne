@@ -67,6 +67,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1) 
 __*(Last 48 badges from credly.com - there is more than this...)*__
 <!--START_SECTION:badges-->
+[![Security Community Champion - 2025](https://images.credly.com/size/110x110/images/5fbd5f82-7164-4849-ab15-313119c57806/blob)](http://www.credly.com/badges/08762955-1800-418f-be83-2fa7144413ce "Security Community Champion - 2025")
 [![Microsoft Community Advocate - 2025](https://images.credly.com/size/110x110/images/cb565224-a2bd-40b6-b744-ffea40e0b008/blob)](http://www.credly.com/badges/10cd47bb-e242-4f06-9810-1bb00fc7cece "Microsoft Community Advocate - 2025")
 [![Microsoft Community Contributor - 2025](https://images.credly.com/size/110x110/images/96cd27f3-f113-4a4a-aa8c-5ca38bdb3edb/blob)](http://www.credly.com/badges/123ecf17-588e-4a6d-aa48-eb6f259495b4 "Microsoft Community Contributor - 2025")
 [![Entra Permissions Management Champion - 2024](https://images.credly.com/size/110x110/images/6f4b5df1-4a66-427f-8f1b-def93174083c/image.png)](http://www.credly.com/badges/be43bae7-902d-4e55-a8f9-5ec5d64d389a "Entra Permissions Management Champion - 2024")
@@ -114,7 +115,6 @@ __*(Last 48 badges from credly.com - there is more than this...)*__
 [![Microsoft Defender XDR Influencer - 2024](https://images.credly.com/size/110x110/images/741877a0-46d9-4054-a395-388e5e539448/image.png)](http://www.credly.com/badges/dcfb5b1b-c88b-4b5d-8018-56d06db1f1b8 "Microsoft Defender XDR Influencer - 2024")
 [![Microsoft Defender for Cloud Champion - 2024](https://images.credly.com/size/110x110/images/ad679bba-a220-4cfb-8ceb-1cb571b6c1e1/image.png)](http://www.credly.com/badges/b27ba941-fe35-44a6-a379-0f87f24ce69c "Microsoft Defender for Cloud Champion - 2024")
 [![Security CCP Customer Champion | January 2024](https://images.credly.com/size/110x110/images/34ed78b8-f9de-4907-b6bd-7779cb5fbcfb/image.png)](http://www.credly.com/badges/10c1f42d-d3a4-4324-bc20-c60522ee7872 "Security CCP Customer Champion | January 2024")
-[![Entra Advisors Customer Champion | January 2024](https://images.credly.com/size/110x110/images/fa3d5b56-eb26-45a9-81d0-3a2760601e23/image.png)](http://www.credly.com/badges/927e1b4a-70f8-4834-b36a-4341fe967eb1 "Entra Advisors Customer Champion | January 2024")
 <!--END_SECTION:badges-->
 
 ## 📜 Member of the Microsoft Customer Connection Program Community
