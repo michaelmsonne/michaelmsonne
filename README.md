@@ -167,6 +167,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Microsoft Azure – Elevate Access to Resources with Entra ID Audit Logs – Now Available!](https://blog.sonnes.cloud/microsoft-azure-elevate-access-to-resources-with-entra-id-audit-logs-now-available/)
 - [Entra ID – New build-in audit feature in Entra Connect is finally here!](https://blog.sonnes.cloud/entra-id-new-build-in-audit-feature-in-entra-connect-is-finally-here/)
 - [Managed Identity Permission Manager – v. 1.0.0.4 is out!](https://blog.sonnes.cloud/managed-identity-permission-manager-v-1-0-0-4-is-out/)
 - [Microsoft Defender for Cloud Apps – Permissions filter and export capability is here!](https://blog.sonnes.cloud/microsoft-defender-for-cloud-apps-permissions-filter-and-export-capability-is-here/)
@@ -186,7 +187,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Introducing Azure DevOps Backup Tool 1.1.0.0: Major update with new features, bug fixes and enhanced security!](https://blog.sonnes.cloud/introducing-azure-devops-backup-tool-1-1-0-0-major-update-with-new-features-bug-fixes-and-enhanced-security/)
 - [SignToolGUI – A new tool is here for your digital signing experience – Now public!](https://blog.sonnes.cloud/signtoolgui-a-new-tool-is-here-for-your-digital-signing-experience-now-public/)
 - [Azure Arc – Windows Admin Center – Cant connect with error: Couldn´t get server data, ajax error](https://blog.sonnes.cloud/azure-arc-windows-admin-center-cant-connect-with-error-couldnt-get-server-data-ajax-error/)
-- [Entra ID – Global Secure Access – Now Generally Available!](https://blog.sonnes.cloud/entra-id-global-secure-access-now-generally-available/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
