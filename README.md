@@ -202,7 +202,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a branch add-ExportPermissionsOnSP in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/add-ExportPermissionsOnSP)
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#3](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/3#issuecomment-2585935857)
 - [michaelmsonne closed an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/3)
-- [michaelmsonne commented on pull request merill/microsoft-info#14](https://github.com/merill/microsoft-info/pull/14#issuecomment-2576246052)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
