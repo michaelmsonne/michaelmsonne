@@ -194,6 +194,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne commented on pull request MicrosoftDocs/azure-docs#124220](https://github.com/MicrosoftDocs/azure-docs/pull/124220#issuecomment-2647851676)
+- [michaelmsonne commented on pull request MicrosoftDocs/entra-docs#1299](https://github.com/MicrosoftDocs/entra-docs/pull/1299#issuecomment-2647850951)
 - [michaelmsonne released 1.1.0.0 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.1.0.0)
 - [michaelmsonne created a tag 1.1.0.0 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.1.0.0)
 - [michaelmsonne deleted branch add-newpermissiongetfeature at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/)
