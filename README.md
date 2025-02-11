@@ -194,6 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/21a95654fa...e3af5f0deb)
 - [michaelmsonne created a branch add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/add-bettercertselector)
 - [michaelmsonne pushed to main in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/1d4bb3cbcc...c2561765ee)
 - [michaelmsonne commented on pull request MicrosoftDocs/azure-docs#124220](https://github.com/MicrosoftDocs/azure-docs/pull/124220#issuecomment-2647851676)
