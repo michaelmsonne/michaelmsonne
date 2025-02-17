@@ -194,6 +194,12 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne deleted branch patch-1 at michaelmsonne/AADInternals](https://github.com/)
+- [michaelmsonne deleted branch patch-2 at michaelmsonne/AADInternals](https://github.com/)
+- [michaelmsonne opened a pull request in Gerenios/AADInternals](https://github.com/Gerenios/AADInternals/pull/104)
+- [michaelmsonne pushed to patch-3 in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/b23a7845f6...9b168b3d05)
+- [michaelmsonne pushed to patch-2 in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/b23a7845f6...7a16408218)
+- [michaelmsonne pushed to patch-1 in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/b23a7845f6...3444ea6f61)
 - [michaelmsonne pushed to add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/21a95654fa...e3af5f0deb)
 - [michaelmsonne created a branch add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/add-bettercertselector)
 - [michaelmsonne pushed to main in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/1d4bb3cbcc...c2561765ee)
@@ -206,9 +212,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne merged a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/17)
 - [michaelmsonne opened a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/17)
 - [michaelmsonne pushed to add-newpermissiongetfeature in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/21028dc581...df7c927cce)
-- [michaelmsonne created a branch add-newpermissiongetfeature in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/add-newpermissiongetfeature)
-- [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/2cd5b5adf9...24e79c30a7)
-- [michaelmsonne pushed to add-ExportPermissionsOnSP in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/ca47f3ac17...1d4e5502c2)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
