@@ -194,12 +194,12 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne opened a pull request in Gerenios/AADInternals](https://github.com/Gerenios/AADInternals/pull/105)
+- [michaelmsonne pushed to patch-1 in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/b23a7845f6...792956fe68)
 - [michaelmsonne deleted branch patch-1 at michaelmsonne/AADInternals](https://github.com/)
 - [michaelmsonne deleted branch patch-2 at michaelmsonne/AADInternals](https://github.com/)
-- [michaelmsonne opened a pull request in Gerenios/AADInternals](https://github.com/Gerenios/AADInternals/pull/104)
 - [michaelmsonne pushed to patch-3 in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/b23a7845f6...9b168b3d05)
 - [michaelmsonne pushed to patch-2 in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/b23a7845f6...7a16408218)
-- [michaelmsonne pushed to patch-1 in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/b23a7845f6...3444ea6f61)
 - [michaelmsonne pushed to add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/21a95654fa...e3af5f0deb)
 - [michaelmsonne created a branch add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/add-bettercertselector)
 - [michaelmsonne pushed to main in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/1d4bb3cbcc...c2561765ee)
