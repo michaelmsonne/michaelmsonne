@@ -194,6 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne forked michaelmsonne/AADInternals from Gerenios/AADInternals](https://github.com/michaelmsonne/AADInternals)
 - [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/56488f89e2...1772ea5814)
 - [michaelmsonne closed a pull request in Gerenios/AADInternals](https://github.com/Gerenios/AADInternals/pull/106)
 - [michaelmsonne pushed to master in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/87a45ef717...371ae31a7e)
