@@ -194,16 +194,17 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne closed a pull request in Gerenios/AADInternals](https://github.com/Gerenios/AADInternals/pull/106)
+- [michaelmsonne pushed to master in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/87a45ef717...371ae31a7e)
+- [michaelmsonne pushed to patch-1 in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/792956fe68...6c607530ce)
+- [michaelmsonne pushed to patch-3 in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/9b168b3d05...f64cea409e)
+- [michaelmsonne pushed to main in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/c2561765ee...711a4d2902)
+- [michaelmsonne pushed to add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/e3af5f0deb...8dcad0ee50)
 - [michaelmsonne opened a pull request in Gerenios/AADInternals](https://github.com/Gerenios/AADInternals/pull/106)
-- [michaelmsonne pushed to master in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/052ad1a76d...87a45ef717)
-- [michaelmsonne pushed to patch-1 in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/b23a7845f6...792956fe68)
 - [michaelmsonne deleted branch patch-1 at michaelmsonne/AADInternals](https://github.com/)
 - [michaelmsonne deleted branch patch-2 at michaelmsonne/AADInternals](https://github.com/)
-- [michaelmsonne pushed to patch-3 in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/b23a7845f6...9b168b3d05)
 - [michaelmsonne pushed to patch-2 in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/b23a7845f6...7a16408218)
-- [michaelmsonne pushed to add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/21a95654fa...e3af5f0deb)
 - [michaelmsonne created a branch add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/add-bettercertselector)
-- [michaelmsonne pushed to main in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/1d4bb3cbcc...c2561765ee)
 - [michaelmsonne commented on pull request MicrosoftDocs/azure-docs#124220](https://github.com/MicrosoftDocs/azure-docs/pull/124220#issuecomment-2647851676)
 - [michaelmsonne commented on pull request MicrosoftDocs/entra-docs#1299](https://github.com/MicrosoftDocs/entra-docs/pull/1299#issuecomment-2647850951)
 - [michaelmsonne released 1.1.0.0 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.1.0.0)
@@ -211,8 +212,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne deleted branch add-newpermissiongetfeature at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/)
 - [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/ac2aac0178...56488f89e2)
 - [michaelmsonne merged a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/17)
-- [michaelmsonne opened a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/17)
-- [michaelmsonne pushed to add-newpermissiongetfeature in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/21028dc581...df7c927cce)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
