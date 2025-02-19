@@ -194,6 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/56488f89e2...1772ea5814)
 - [michaelmsonne closed a pull request in Gerenios/AADInternals](https://github.com/Gerenios/AADInternals/pull/106)
 - [michaelmsonne pushed to master in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/87a45ef717...371ae31a7e)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/792956fe68...6c607530ce)
@@ -210,8 +211,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne released 1.1.0.0 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.1.0.0)
 - [michaelmsonne created a tag 1.1.0.0 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.1.0.0)
 - [michaelmsonne deleted branch add-newpermissiongetfeature at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/)
-- [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/ac2aac0178...56488f89e2)
-- [michaelmsonne merged a pull request in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/pull/17)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
