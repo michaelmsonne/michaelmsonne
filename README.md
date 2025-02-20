@@ -194,7 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/8dcad0ee50...fa8c7fb7e1)
+- [michaelmsonne pushed to add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/fa8c7fb7e1...b2c290c03d)
 - [michaelmsonne opened a pull request in Gerenios/AADInternals](https://github.com/Gerenios/AADInternals/pull/107)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/b23a7845f6...86ff0b90ba)
 - [michaelmsonne forked michaelmsonne/AADInternals from Gerenios/AADInternals](https://github.com/michaelmsonne/AADInternals)
@@ -208,7 +208,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to patch-2 in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/b23a7845f6...7a16408218)
 - [michaelmsonne created a branch add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/add-bettercertselector)
 - [michaelmsonne commented on pull request MicrosoftDocs/azure-docs#124220](https://github.com/MicrosoftDocs/azure-docs/pull/124220#issuecomment-2647851676)
-- [michaelmsonne commented on pull request MicrosoftDocs/entra-docs#1299](https://github.com/MicrosoftDocs/entra-docs/pull/1299#issuecomment-2647850951)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
