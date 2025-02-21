@@ -67,6 +67,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1) 
 __*(Last 48 badges from credly.com - there is more than this...)*__
 <!--START_SECTION:badges-->
+[![Security Community Influencer - 2025](https://images.credly.com/size/110x110/images/f8f85d60-b1b9-44db-976d-1310db85f044/blob)](http://www.credly.com/badges/c231d7b0-5e27-4428-8650-65f5e1e5247e "Security Community Influencer - 2025")
 [![Security Top Customer Contributor | January 2025](https://images.credly.com/size/110x110/images/31a61718-542b-4dd7-b47f-75a218ba90bd/blob)](http://www.credly.com/badges/884dd56a-a0c9-4acb-8bbe-26ab1a7fab3c "Security Top Customer Contributor | January 2025")
 [![Management Top Customer Contributor | January 2025](https://images.credly.com/size/110x110/images/77dd7248-2d6b-4da3-bd84-ed10677e6c4d/blob)](http://www.credly.com/badges/f8056428-e741-4d4e-9a6a-fa3a6fd6bfb6 "Management Top Customer Contributor | January 2025")
 [![Security Community Champion - 2025](https://images.credly.com/size/110x110/images/5fbd5f82-7164-4849-ab15-313119c57806/blob)](http://www.credly.com/badges/08762955-1800-418f-be83-2fa7144413ce "Security Community Champion - 2025")
@@ -114,7 +115,6 @@ __*(Last 48 badges from credly.com - there is more than this...)*__
 [![Microsoft Community Rockstar - 2024](https://images.credly.com/size/110x110/images/0f6a2315-7908-43e8-99c3-9bb5c2459b67/image.png)](http://www.credly.com/badges/78f651d6-017c-4d96-9fd9-0cf9f3d2bc9f "Microsoft Community Rockstar - 2024")
 [![Microsoft Defender for Cloud Influencer - 2024](https://images.credly.com/size/110x110/images/700a8114-e424-463d-bb0d-c2589b34db9a/image.png)](http://www.credly.com/badges/3df0e77c-e06a-48d0-ae82-7d26f81a1b86 "Microsoft Defender for Cloud Influencer - 2024")
 [![Microsoft Security Leader - 2024](https://images.credly.com/size/110x110/images/bfdd477b-f61c-4f2b-917e-c1d1c927c458/image.png)](http://www.credly.com/badges/d6789dba-e2c2-4de5-9a9a-2149b7649451 "Microsoft Security Leader - 2024")
-[![Microsoft Defender XDR Influencer - 2024](https://images.credly.com/size/110x110/images/741877a0-46d9-4054-a395-388e5e539448/image.png)](http://www.credly.com/badges/dcfb5b1b-c88b-4b5d-8018-56d06db1f1b8 "Microsoft Defender XDR Influencer - 2024")
 <!--END_SECTION:badges-->
 
 ## 📜 Member of the Microsoft Customer Connection Program Community
