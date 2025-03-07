@@ -194,6 +194,15 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/PasswordGenerator](https://github.com/michaelmsonne/PasswordGenerator/compare/75e70d0f6f...24b1defd1d)
+- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/454ac24594...26d3f071cd)
+- [michaelmsonne pushed to main in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/da8005d674...3db8f16c64)
+- [michaelmsonne pushed to dependabot/nuget/LibGit2Sharp-0.31.0 in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/528e403806...7c1aa1c9d4)
+- [michaelmsonne pushed to dependabot/nuget/Microsoft.Windows.Compatibility-9.0.1 in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/7afa75d6dc...d5cae64a74)
+- [michaelmsonne pushed to dev in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/15ffeda5ea...e63702d4a1)
+- [michaelmsonne pushed to dependabot/nuget/Octokit-14.0.0 in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/7b705364e0...f519a05558)
+- [michaelmsonne pushed to dependabot/nuget/Autofac-8.2.0 in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/1284e31e61...e9584c67a6)
+- [michaelmsonne pushed to main in michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer/compare/bfc62d31bd...aa8f051b69)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/81506471ab...8895bda2a9)
 - [michaelmsonne pushed to add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/1424c5c152...433c37424d)
 - [michaelmsonne commented on pull request merill/cmd#152](https://github.com/merill/cmd/pull/152#issuecomment-2675392541)
@@ -205,9 +214,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to master in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/87a45ef717...371ae31a7e)
 - [michaelmsonne pushed to patch-3 in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/9b168b3d05...f64cea409e)
 - [michaelmsonne pushed to main in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/c2561765ee...711a4d2902)
-- [michaelmsonne deleted branch patch-1 at michaelmsonne/AADInternals](https://github.com/)
-- [michaelmsonne deleted branch patch-2 at michaelmsonne/AADInternals](https://github.com/)
-- [michaelmsonne pushed to patch-2 in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/b23a7845f6...7a16408218)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
