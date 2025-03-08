@@ -194,6 +194,17 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to Add-toolToUnzipSingleBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/aa158f0ef0...fe5add0231)
+- [michaelmsonne pushed to add-checkforlogwriteaccess in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/dee511678a...764b33cfaa)
+- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/1d3886b63a...a92e6ab0a4)
+- [michaelmsonne pushed to michael-add-workIthemBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/a5067b66f2...8b74e6a324)
+- [michaelmsonne pushed to main in michaelmsonne/.github](https://github.com/michaelmsonne/.github/compare/f528c03b2c...a296dc946a)
+- [michaelmsonne pushed to main in michaelmsonne/MS-WORD](https://github.com/michaelmsonne/MS-WORD/compare/a101c794d2...d08a623919)
+- [michaelmsonne pushed to main in michaelmsonne/MS-DOS](https://github.com/michaelmsonne/MS-DOS/compare/27e4672952...6786030326)
+- [michaelmsonne pushed to dependabot/nuget/CefSharp.WinForms-and-CefSharp.Common-and-cef.redist.x86-and-cef.redist.x64-120.2.70 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/4d16fa8f39...b13b69d1f0)
+- [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/1a3e8546e5...edcebd1c64)
+- [michaelmsonne pushed to dev in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/compare/a7cf399859...88ae3bbd29)
+- [michaelmsonne pushed to main in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/compare/ace2794f4a...df4b951ec2)
 - [michaelmsonne pushed to main in michaelmsonne/PasswordGenerator](https://github.com/michaelmsonne/PasswordGenerator/compare/75e70d0f6f...24b1defd1d)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/454ac24594...26d3f071cd)
 - [michaelmsonne pushed to main in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/da8005d674...3db8f16c64)
@@ -208,12 +219,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne commented on pull request merill/cmd#152](https://github.com/merill/cmd/pull/152#issuecomment-2675392541)
 - [michaelmsonne opened a pull request in Gerenios/AADInternals](https://github.com/Gerenios/AADInternals/pull/107)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/b23a7845f6...86ff0b90ba)
-- [michaelmsonne forked michaelmsonne/AADInternals from Gerenios/AADInternals](https://github.com/michaelmsonne/AADInternals)
-- [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/56488f89e2...1772ea5814)
-- [michaelmsonne closed a pull request in Gerenios/AADInternals](https://github.com/Gerenios/AADInternals/pull/106)
-- [michaelmsonne pushed to master in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/87a45ef717...371ae31a7e)
-- [michaelmsonne pushed to patch-3 in michaelmsonne/AADInternals](https://github.com/michaelmsonne/AADInternals/compare/9b168b3d05...f64cea409e)
-- [michaelmsonne pushed to main in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/c2561765ee...711a4d2902)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
