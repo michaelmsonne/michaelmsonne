@@ -194,7 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/74580beef3...aff7ebf08a)
+- [michaelmsonne pushed to add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/aff7ebf08a...4a5238f505)
 - [michaelmsonne opened an issue in rbyamugisha/RICHARD](https://github.com/rbyamugisha/RICHARD/issues/1)
 - [michaelmsonne pushed to Add-toolToUnzipSingleBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/aa158f0ef0...fe5add0231)
 - [michaelmsonne pushed to add-checkforlogwriteaccess in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/dee511678a...764b33cfaa)
@@ -217,7 +217,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to dependabot/nuget/Autofac-8.2.0 in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/1284e31e61...e9584c67a6)
 - [michaelmsonne pushed to main in michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer/compare/bfc62d31bd...aa8f051b69)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/81506471ab...8895bda2a9)
-- [michaelmsonne commented on pull request merill/cmd#152](https://github.com/merill/cmd/pull/152#issuecomment-2675392541)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
