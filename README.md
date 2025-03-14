@@ -194,7 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/433c37424d...6157ab1275)
+- [michaelmsonne pushed to add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/d87b11d16e...b4fb6f38b5)
 - [michaelmsonne opened an issue in rbyamugisha/RICHARD](https://github.com/rbyamugisha/RICHARD/issues/1)
 - [michaelmsonne pushed to Add-toolToUnzipSingleBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/aa158f0ef0...fe5add0231)
 - [michaelmsonne pushed to add-checkforlogwriteaccess in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/dee511678a...764b33cfaa)
@@ -218,7 +218,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to main in michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer/compare/bfc62d31bd...aa8f051b69)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/81506471ab...8895bda2a9)
 - [michaelmsonne commented on pull request merill/cmd#152](https://github.com/merill/cmd/pull/152#issuecomment-2675392541)
-- [michaelmsonne opened a pull request in Gerenios/AADInternals](https://github.com/Gerenios/AADInternals/pull/107)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
