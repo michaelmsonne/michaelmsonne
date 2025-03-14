@@ -194,7 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/aff7ebf08a...4a5238f505)
+- [michaelmsonne pushed to add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/f4930e7751...520fc9b296)
 - [michaelmsonne opened an issue in rbyamugisha/RICHARD](https://github.com/rbyamugisha/RICHARD/issues/1)
 - [michaelmsonne pushed to Add-toolToUnzipSingleBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/aa158f0ef0...fe5add0231)
 - [michaelmsonne pushed to add-checkforlogwriteaccess in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/dee511678a...764b33cfaa)
@@ -213,10 +213,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to dependabot/nuget/LibGit2Sharp-0.31.0 in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/528e403806...7c1aa1c9d4)
 - [michaelmsonne pushed to dependabot/nuget/Microsoft.Windows.Compatibility-9.0.1 in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/7afa75d6dc...d5cae64a74)
 - [michaelmsonne pushed to dev in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/15ffeda5ea...e63702d4a1)
-- [michaelmsonne pushed to dependabot/nuget/Octokit-14.0.0 in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/7b705364e0...f519a05558)
-- [michaelmsonne pushed to dependabot/nuget/Autofac-8.2.0 in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/1284e31e61...e9584c67a6)
-- [michaelmsonne pushed to main in michaelmsonne/MicrosoftMVPProfileDataViewer](https://github.com/michaelmsonne/MicrosoftMVPProfileDataViewer/compare/bfc62d31bd...aa8f051b69)
-- [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/81506471ab...8895bda2a9)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
