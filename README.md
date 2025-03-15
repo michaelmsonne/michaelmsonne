@@ -194,7 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/08f7d99e84...e6f4daf9c2)
+- [michaelmsonne pushed to add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/163c865bab...41cf1d64c0)
 - [michaelmsonne opened an issue in rbyamugisha/RICHARD](https://github.com/rbyamugisha/RICHARD/issues/1)
 - [michaelmsonne pushed to Add-toolToUnzipSingleBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/aa158f0ef0...fe5add0231)
 - [michaelmsonne pushed to add-checkforlogwriteaccess in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/dee511678a...764b33cfaa)
@@ -206,10 +206,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to dependabot/nuget/CefSharp.WinForms-and-CefSharp.Common-and-cef.redist.x86-and-cef.redist.x64-120.2.70 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/4d16fa8f39...b13b69d1f0)
 - [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/1a3e8546e5...edcebd1c64)
 - [michaelmsonne pushed to dev in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/compare/a7cf399859...88ae3bbd29)
-- [michaelmsonne pushed to main in michaelmsonne/LookupIPtoDNSTool](https://github.com/michaelmsonne/LookupIPtoDNSTool/compare/ace2794f4a...df4b951ec2)
-- [michaelmsonne pushed to main in michaelmsonne/PasswordGenerator](https://github.com/michaelmsonne/PasswordGenerator/compare/75e70d0f6f...24b1defd1d)
-- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/454ac24594...26d3f071cd)
-- [michaelmsonne pushed to main in michaelmsonne/GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/da8005d674...3db8f16c64)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
