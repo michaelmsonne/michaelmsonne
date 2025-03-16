@@ -194,7 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/41cf1d64c0...8df5e553a1)
+- [michaelmsonne pushed to add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/6ca6a36d33...8175336a45)
 - [michaelmsonne opened an issue in rbyamugisha/RICHARD](https://github.com/rbyamugisha/RICHARD/issues/1)
 - [michaelmsonne pushed to Add-toolToUnzipSingleBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/aa158f0ef0...fe5add0231)
 - [michaelmsonne pushed to add-checkforlogwriteaccess in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/dee511678a...764b33cfaa)
@@ -203,8 +203,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to main in michaelmsonne/.github](https://github.com/michaelmsonne/.github/compare/f528c03b2c...a296dc946a)
 - [michaelmsonne pushed to main in michaelmsonne/MS-WORD](https://github.com/michaelmsonne/MS-WORD/compare/a101c794d2...d08a623919)
 - [michaelmsonne pushed to main in michaelmsonne/MS-DOS](https://github.com/michaelmsonne/MS-DOS/compare/27e4672952...6786030326)
-- [michaelmsonne pushed to dependabot/nuget/CefSharp.WinForms-and-CefSharp.Common-and-cef.redist.x86-and-cef.redist.x64-120.2.70 in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/4d16fa8f39...b13b69d1f0)
-- [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/1a3e8546e5...edcebd1c64)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
