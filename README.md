@@ -167,6 +167,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Signtool GUI  – v. 1.4.0.0 is out!](https://blog.sonnes.cloud/signtool-gui-v-1-4-0-0-is-out/)
 - [🚀 Managed Identity Permission Manager v1.1.0.0 is here! 🚀](https://blog.sonnes.cloud/managed-identity-permission-manager-v1-1-0-0-is-here/)
 - [Microsoft Azure – Elevate Access to Resources with Entra ID Audit Logs – Now Available!](https://blog.sonnes.cloud/microsoft-azure-elevate-access-to-resources-with-entra-id-audit-logs-now-available/)
 - [Entra ID – New build-in audit feature in Entra Connect is finally here!](https://blog.sonnes.cloud/entra-id-new-build-in-audit-feature-in-entra-connect-is-finally-here/)
@@ -186,7 +187,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Microsoft Defender for Identity – Expands support to servers with Microsoft Entra Connect](https://blog.sonnes.cloud/microsoft-defender-for-identity-expands-support-to-servers-with-microsoft-entra-connect/)
 - [Microsoft Defender for Identity – How to manually remove a malfunctioning sensor that can’t be installed, uninstalled or removed](https://blog.sonnes.cloud/microsoft-defender-for-identity-how-to-manually-remove-a-malfunctioning-sensor-that-cant-be-installed-uninstalled-or-removed/)
 - [Introducing Azure DevOps Backup Tool 1.1.0.0: Major update with new features, bug fixes and enhanced security!](https://blog.sonnes.cloud/introducing-azure-devops-backup-tool-1-1-0-0-major-update-with-new-features-bug-fixes-and-enhanced-security/)
-- [SignToolGUI – A new tool is here for your digital signing experience – Now public!](https://blog.sonnes.cloud/signtoolgui-a-new-tool-is-here-for-your-digital-signing-experience-now-public/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
