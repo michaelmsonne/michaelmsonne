@@ -194,6 +194,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne commented on commit MicrosoftDocs/azure-docs@463d4fab0c](https://github.com/MicrosoftDocs/azure-docs/commit/463d4fab0c62354f298e366aad4d8dc30ed5b9ec#commitcomment-153830583)
+- [michaelmsonne commented on pull request MicrosoftDocs/azure-docs#124220](https://github.com/MicrosoftDocs/azure-docs/pull/124220#issuecomment-2728809250)
 - [michaelmsonne pushed to add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/6ca6a36d33...8175336a45)
 - [michaelmsonne opened an issue in rbyamugisha/RICHARD](https://github.com/rbyamugisha/RICHARD/issues/1)
 - [michaelmsonne pushed to Add-toolToUnzipSingleBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/aa158f0ef0...fe5add0231)
@@ -201,8 +203,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/1d3886b63a...a92e6ab0a4)
 - [michaelmsonne pushed to michael-add-workIthemBackup in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/a5067b66f2...8b74e6a324)
 - [michaelmsonne pushed to main in michaelmsonne/.github](https://github.com/michaelmsonne/.github/compare/f528c03b2c...a296dc946a)
-- [michaelmsonne pushed to main in michaelmsonne/MS-WORD](https://github.com/michaelmsonne/MS-WORD/compare/a101c794d2...d08a623919)
-- [michaelmsonne pushed to main in michaelmsonne/MS-DOS](https://github.com/michaelmsonne/MS-DOS/compare/27e4672952...6786030326)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
