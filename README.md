@@ -194,6 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/1772ea5814...ae343f287f)
 - [michaelmsonne released 1.4.0.0 at michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/releases/tag/1.4.0.0)
 - [michaelmsonne created a tag 1.4.0.0 in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/tree/1.4.0.0)
 - [michaelmsonne pushed to main in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/55acf68ee7...73ba379243)
