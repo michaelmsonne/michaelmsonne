@@ -194,7 +194,13 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/1772ea5814...ae343f287f)
+- [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#18](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/18#issuecomment-2780660283)
+- [michaelmsonne closed an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/18)
+- [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#19](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/19#issuecomment-2780660167)
+- [michaelmsonne created a tag 1.1.0.1 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.1.0.1)
+- [michaelmsonne released 1.1.0.1 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.1.0.1)
+- [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/f85a20d1aa...5656f23134)
+- [michaelmsonne commented on commit michaelmsonne/ManagedIdentityPermissionManager@8246a63a65](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/commit/8246a63a655a45d7647e036ab3227112d5ef5ca7#commitcomment-154894290)
 - [michaelmsonne released 1.4.0.0 at michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/releases/tag/1.4.0.0)
 - [michaelmsonne created a tag 1.4.0.0 in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/tree/1.4.0.0)
 - [michaelmsonne pushed to main in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/55acf68ee7...73ba379243)
@@ -202,8 +208,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne merged a pull request in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/pull/4)
 - [michaelmsonne opened a pull request in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/pull/4)
 - [michaelmsonne pushed to add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/5068c90ce1...9b11a721f9)
-- [michaelmsonne commented on commit MicrosoftDocs/azure-docs@463d4fab0c](https://github.com/MicrosoftDocs/azure-docs/commit/463d4fab0c62354f298e366aad4d8dc30ed5b9ec#commitcomment-153830583)
-- [michaelmsonne commented on pull request MicrosoftDocs/azure-docs#124220](https://github.com/MicrosoftDocs/azure-docs/pull/124220#issuecomment-2728809250)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
