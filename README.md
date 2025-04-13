@@ -167,6 +167,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Defender for Identity – Unveiling Enhanced Visibility – New Service Account Monitoring Capabilities](https://blog.sonnes.cloud/defender-for-identity-unveiling-enhanced-visibility-new-service-account-monitoring-capabilities/)
 - [Microsoft Azure – Secure your Code with Trusted Signing: A Practical Guide](https://blog.sonnes.cloud/microsoft-azure-secure-your-code-with-trusted-signing-a-practical-guide/)
 - [Signtool GUI  – v. 1.4.0.0 is out!](https://blog.sonnes.cloud/signtool-gui-v-1-4-0-0-is-out/)
 - [🚀 Managed Identity Permission Manager v1.1.0.0 is here! 🚀](https://blog.sonnes.cloud/managed-identity-permission-manager-v1-1-0-0-is-here/)
@@ -186,7 +187,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Import and Export Automation rules for Microsoft Sentinel  – Unified SOC Platform](https://blog.sonnes.cloud/import-and-export-automation-rules-for-microsoft-sentinel-unified-soc-platform/)
 - [Introducing Azure DevOps Backup Tool 1.1.1.0: Update with new features and bug fixes!](https://blog.sonnes.cloud/introducing-azure-devops-backup-tool-1-1-1-0-update-with-new-features-and-bug-fixes/)
 - [Microsoft Defender for Identity – Expands support to servers with Microsoft Entra Connect](https://blog.sonnes.cloud/microsoft-defender-for-identity-expands-support-to-servers-with-microsoft-entra-connect/)
-- [Microsoft Defender for Identity – How to manually remove a malfunctioning sensor that can’t be installed, uninstalled or removed](https://blog.sonnes.cloud/microsoft-defender-for-identity-how-to-manually-remove-a-malfunctioning-sensor-that-cant-be-installed-uninstalled-or-removed/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
