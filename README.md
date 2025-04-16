@@ -207,7 +207,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne deleted branch add-bettercertselector at michaelmsonne/SignToolGUI](https://github.com/)
 - [michaelmsonne merged a pull request in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/pull/4)
 - [michaelmsonne opened a pull request in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/pull/4)
-- [michaelmsonne pushed to add-bettercertselector in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/5068c90ce1...9b11a721f9)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
