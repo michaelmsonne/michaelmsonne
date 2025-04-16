@@ -201,12 +201,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a tag 1.1.0.1 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.1.0.1)
 - [michaelmsonne released 1.1.0.1 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.1.0.1)
 - [michaelmsonne commented on commit michaelmsonne/ManagedIdentityPermissionManager@8246a63a65](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/commit/8246a63a655a45d7647e036ab3227112d5ef5ca7#commitcomment-154894290)
-- [michaelmsonne released 1.4.0.0 at michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/releases/tag/1.4.0.0)
-- [michaelmsonne created a tag 1.4.0.0 in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/tree/1.4.0.0)
-- [michaelmsonne pushed to main in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/55acf68ee7...73ba379243)
-- [michaelmsonne deleted branch add-bettercertselector at michaelmsonne/SignToolGUI](https://github.com/)
-- [michaelmsonne merged a pull request in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/pull/4)
-- [michaelmsonne opened a pull request in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/pull/4)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
