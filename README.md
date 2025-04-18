@@ -67,6 +67,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1) 
 __*(Last 48 badges from credly.com - there is more than this...)*__
 <!--START_SECTION:badges-->
+[![Entra Advisors Community Champion - 2025](https://images.credly.com/size/110x110/images/b43fd4f0-40c3-40dd-83e9-c9dde35ea615/blob)](http://www.credly.com/badges/dbdc4a84-a0b2-4321-aeda-ffe27e614913 "Entra Advisors Community Champion - 2025")
 [![Entra Advisors Top Customer Contributor | February 2025](https://images.credly.com/size/110x110/images/e88c2311-a5ec-4941-9b52-16d6b7fcf8e7/blob)](http://www.credly.com/badges/193b076c-f155-41cb-b8f2-7375cbe7ce64 "Entra Advisors Top Customer Contributor | February 2025")
 [![Security Community Leader - 2025](https://images.credly.com/size/110x110/images/9b4b189e-ed24-4d40-8892-70322608131c/blob)](http://www.credly.com/badges/e0dfb7ae-002d-4f9d-bc9c-4dc9a322cc90 "Security Community Leader - 2025")
 [![Microsoft Community Rockstar (100) - 2025](https://images.credly.com/size/110x110/images/113a0999-8b3d-4333-accb-29cde9dbb31e/blob)](http://www.credly.com/badges/55e4d57e-61fe-41a7-8c15-941f1117a57d "Microsoft Community Rockstar (100) - 2025")
@@ -114,7 +115,6 @@ __*(Last 48 badges from credly.com - there is more than this...)*__
 [![SIEM Influencer - 2024](https://images.credly.com/size/110x110/images/3250c29b-2d23-46af-86cd-2ffa12d3afad/image.png)](http://www.credly.com/badges/1401f08a-dc98-4904-aee4-af7272d736c2 "SIEM Influencer - 2024")
 [![Security CCP Customer Champion | March 2024](https://images.credly.com/size/110x110/images/dfa35e1b-728e-485d-b97e-7671b9fcb454/image.png)](http://www.credly.com/badges/24f65be0-c67b-4d2d-9594-68374a79a1e6 "Security CCP Customer Champion | March 2024")
 [![Entra Advisors Customer Champion | February 2024](https://images.credly.com/size/110x110/images/033cfe4e-93c3-4b43-951a-cd5c8b887924/image.png)](http://www.credly.com/badges/7503433c-a778-4bd5-b184-e3dbde628437 "Entra Advisors Customer Champion | February 2024")
-[![Security MVP 2023](https://images.credly.com/size/110x110/images/fefaed44-a378-4f2a-a778-2b43d67c1e71/image.png)](http://www.credly.com/badges/21610306-f7df-488f-8091-3171686bbffa "Security MVP 2023")
 <!--END_SECTION:badges-->
 
 ## 📜 Member of the Microsoft Customer Connection Program Community
