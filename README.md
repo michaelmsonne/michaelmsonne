@@ -194,8 +194,9 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne commented on pull request Azure/arc_jumpstart_drops#346](https://github.com/Azure/arc_jumpstart_drops/pull/346#discussion_r2070726716)
+- [michaelmsonne pushed to patch-1 in michaelmsonne/arc_jumpstart_drops](https://github.com/michaelmsonne/arc_jumpstart_drops/compare/adb7e00e54...ba662ceeae)
 - [michaelmsonne opened a pull request in Azure/arc_jumpstart_drops](https://github.com/Azure/arc_jumpstart_drops/pull/346)
-- [michaelmsonne pushed to patch-1 in michaelmsonne/arc_jumpstart_drops](https://github.com/michaelmsonne/arc_jumpstart_drops/compare/5fe499b337...09fb6acaac)
 - [michaelmsonne forked michaelmsonne/arc_jumpstart_drops from Azure/arc_jumpstart_drops](https://github.com/michaelmsonne/arc_jumpstart_drops)
 - [michaelmsonne pushed to master in michaelmsonne/AACMAToolkit](https://github.com/michaelmsonne/AACMAToolkit/compare/ea6a370193...64cd9601d9)
 - [michaelmsonne opened a pull request in Azure/arc_jumpstart_docs](https://github.com/Azure/arc_jumpstart_docs/pull/707)
@@ -204,9 +205,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/872)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/44421652a2...f38a61d296)
 - [michaelmsonne opened a pull request in enderalci/AACMAToolkit](https://github.com/enderalci/AACMAToolkit/pull/3)
-- [michaelmsonne forked michaelmsonne/AACMAToolkit from enderalci/AACMAToolkit](https://github.com/michaelmsonne/AACMAToolkit)
-- [michaelmsonne forked michaelmsonne/WDAC-Toolkit from MicrosoftDocs/WDAC-Toolkit](https://github.com/michaelmsonne/WDAC-Toolkit)
-- [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/bf7193191a...68883f8aff)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
