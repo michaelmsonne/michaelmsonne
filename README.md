@@ -194,13 +194,13 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to master in michaelmsonne/AACMAToolkit](https://github.com/michaelmsonne/AACMAToolkit/compare/cb15d8780f...3d08cf31ef)
 - [michaelmsonne opened a pull request in Azure/arc_jumpstart_docs](https://github.com/Azure/arc_jumpstart_docs/pull/707)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/arc_jumpstart_docs](https://github.com/michaelmsonne/arc_jumpstart_docs/compare/42d9ef8bcd...23f10e684a)
 - [michaelmsonne forked michaelmsonne/arc_jumpstart_docs from Azure/arc_jumpstart_docs](https://github.com/michaelmsonne/arc_jumpstart_docs)
 - [michaelmsonne opened a pull request in maester365/maester](https://github.com/maester365/maester/pull/872)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/maester](https://github.com/michaelmsonne/maester/compare/44421652a2...f38a61d296)
 - [michaelmsonne opened a pull request in enderalci/AACMAToolkit](https://github.com/enderalci/AACMAToolkit/pull/3)
-- [michaelmsonne pushed to master in michaelmsonne/AACMAToolkit](https://github.com/michaelmsonne/AACMAToolkit/compare/3c20d8f5e9...529fb86844)
 - [michaelmsonne forked michaelmsonne/AACMAToolkit from enderalci/AACMAToolkit](https://github.com/michaelmsonne/AACMAToolkit)
 - [michaelmsonne forked michaelmsonne/WDAC-Toolkit from MicrosoftDocs/WDAC-Toolkit](https://github.com/michaelmsonne/WDAC-Toolkit)
 - [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/bf7193191a...68883f8aff)
@@ -208,8 +208,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne closed an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/18)
 - [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#19](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/19#issuecomment-2780660167)
 - [michaelmsonne created a tag 1.1.0.1 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.1.0.1)
-- [michaelmsonne released 1.1.0.1 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.1.0.1)
-- [michaelmsonne commented on commit michaelmsonne/ManagedIdentityPermissionManager@8246a63a65](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/commit/8246a63a655a45d7647e036ab3227112d5ef5ca7#commitcomment-154894290)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
