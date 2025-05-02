@@ -194,7 +194,10 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to master in michaelmsonne/AACMAToolkit](https://github.com/michaelmsonne/AACMAToolkit/compare/cb15d8780f...3d08cf31ef)
+- [michaelmsonne opened a pull request in Azure/arc_jumpstart_drops](https://github.com/Azure/arc_jumpstart_drops/pull/346)
+- [michaelmsonne pushed to patch-1 in michaelmsonne/arc_jumpstart_drops](https://github.com/michaelmsonne/arc_jumpstart_drops/compare/5fe499b337...09fb6acaac)
+- [michaelmsonne forked michaelmsonne/arc_jumpstart_drops from Azure/arc_jumpstart_drops](https://github.com/michaelmsonne/arc_jumpstart_drops)
+- [michaelmsonne pushed to master in michaelmsonne/AACMAToolkit](https://github.com/michaelmsonne/AACMAToolkit/compare/ea6a370193...64cd9601d9)
 - [michaelmsonne opened a pull request in Azure/arc_jumpstart_docs](https://github.com/Azure/arc_jumpstart_docs/pull/707)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/arc_jumpstart_docs](https://github.com/michaelmsonne/arc_jumpstart_docs/compare/42d9ef8bcd...23f10e684a)
 - [michaelmsonne forked michaelmsonne/arc_jumpstart_docs from Azure/arc_jumpstart_docs](https://github.com/michaelmsonne/arc_jumpstart_docs)
@@ -204,10 +207,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne forked michaelmsonne/AACMAToolkit from enderalci/AACMAToolkit](https://github.com/michaelmsonne/AACMAToolkit)
 - [michaelmsonne forked michaelmsonne/WDAC-Toolkit from MicrosoftDocs/WDAC-Toolkit](https://github.com/michaelmsonne/WDAC-Toolkit)
 - [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/bf7193191a...68883f8aff)
-- [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#18](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/18#issuecomment-2780660283)
-- [michaelmsonne closed an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/18)
-- [michaelmsonne commented on issue michaelmsonne/ManagedIdentityPermissionManager#19](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/19#issuecomment-2780660167)
-- [michaelmsonne created a tag 1.1.0.1 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.1.0.1)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
