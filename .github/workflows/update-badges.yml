@@ -13,5 +13,7 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
+          COMMIT_MESSAGE: "My commit message to update badges"
           CREDLY_SORT: RECENT
           CREDLY_USER: michael-morten-sonne
+          NUMBER_LAST_BADGES: 0
