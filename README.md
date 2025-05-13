@@ -194,6 +194,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne deleted branch patch-1 at michaelmsonne/AADInternals](https://github.com/)
+- [michaelmsonne deleted branch patch-1 at michaelmsonne/arc_jumpstart_docs](https://github.com/)
 - [michaelmsonne pushed to master in michaelmsonne/AACMAToolkit](https://github.com/michaelmsonne/AACMAToolkit/compare/5e5fc82ca3...949f659399)
 - [michaelmsonne pushed to master in enderalci/AACMAToolkit](https://github.com/enderalci/AACMAToolkit/compare/bc873def73...949f659399)
 - [michaelmsonne merged a pull request in enderalci/AACMAToolkit](https://github.com/enderalci/AACMAToolkit/pull/10)
