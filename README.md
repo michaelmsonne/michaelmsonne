@@ -167,6 +167,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Entra ID – Managed Identity Permissions Manager –  Performance Stats and Community Insights](https://blog.sonnes.cloud/entra-id-managed-identity-permissions-manager-performance-stats-and-community-insights/)
 - [Time for a new lab enviroment – Part 1](https://blog.sonnes.cloud/time-for-a-new-lab-enviroment-part-1/)
 - [🚀 A huge thank you — and a little update behind the scenes](https://blog.sonnes.cloud/a-huge-thank-you-and-a-little-update-behind-the-scenes/)
 - [Defender for Identity – Unveiling Enhanced Visibility – New Service Account Monitoring Capabilities](https://blog.sonnes.cloud/defender-for-identity-unveiling-enhanced-visibility-new-service-account-monitoring-capabilities/)
@@ -186,7 +187,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Introducing Azure DevOps Backup Tool 1.1.2.0: Security update!](https://blog.sonnes.cloud/introducing-azure-devops-backup-tool-1-1-2-0-security-update/)
 - [Managed Identity Permission Manager – A new tool is out to test – v. 1](https://blog.sonnes.cloud/managed-identity-permission-manager-a-new-tool-is-out-to-test-v-1/)
 - [Microsoft Defender for Identity – New posture recommendations focusing on Active Directory](https://blog.sonnes.cloud/microsoft-defender-for-identity-new-posture-recommendations-focusing-on-active-directory/)
-- [Import and Export Automation rules for Microsoft Sentinel  – Unified SOC Platform](https://blog.sonnes.cloud/import-and-export-automation-rules-for-microsoft-sentinel-unified-soc-platform/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
