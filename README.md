@@ -194,18 +194,17 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to master in michaelmsonne/AACMAToolkit](https://github.com/michaelmsonne/AACMAToolkit/compare/bab67a8256...b24ccb2c16)
+- [michaelmsonne released v1.0.0.2 - dev at enderalci/AACMAToolkit](https://github.com/enderalci/AACMAToolkit/releases/tag/1.0.0.2-dev)
+- [michaelmsonne created a tag 1.0.0.2-dev in enderalci/AACMAToolkit](https://github.com/enderalci/AACMAToolkit/tree/1.0.0.2-dev)
+- [michaelmsonne pushed to master in michaelmsonne/AACMAToolkit](https://github.com/michaelmsonne/AACMAToolkit/compare/9a91bb9636...76c63effc5)
+- [michaelmsonne pushed to master in enderalci/AACMAToolkit](https://github.com/enderalci/AACMAToolkit/compare/9b4387b20e...76c63effc5)
+- [michaelmsonne merged a pull request in enderalci/AACMAToolkit](https://github.com/enderalci/AACMAToolkit/pull/11)
+- [michaelmsonne opened a pull request in enderalci/AACMAToolkit](https://github.com/enderalci/AACMAToolkit/pull/11)
 - [michaelmsonne commented on pull request MicrosoftDocs/WDAC-Toolkit#466](https://github.com/MicrosoftDocs/WDAC-Toolkit/pull/466#issuecomment-2893527699)
 - [michaelmsonne opened a pull request in MicrosoftDocs/azure-compute-docs](https://github.com/MicrosoftDocs/azure-compute-docs/pull/236)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/azure-compute-docs](https://github.com/michaelmsonne/azure-compute-docs/compare/d4bc60edc5...d9fad60cfd)
 - [michaelmsonne forked michaelmsonne/azure-compute-docs from MicrosoftDocs/azure-compute-docs](https://github.com/michaelmsonne/azure-compute-docs)
 - [michaelmsonne pushed to AddNewFeatures in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/bfcd429897...7180091518)
-- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#19](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/19#issuecomment-2881408476)
-- [michaelmsonne created a branch AddNewFeatures in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/AddNewFeatures)
-- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/c8243b64ee...bc5e5ced83)
-- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#20](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/20#issuecomment-2881085280)
-- [michaelmsonne deleted branch patch-1 at michaelmsonne/AADInternals](https://github.com/)
-- [michaelmsonne deleted branch patch-1 at michaelmsonne/arc_jumpstart_docs](https://github.com/)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
