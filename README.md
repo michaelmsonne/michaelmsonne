@@ -194,6 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to master in michaelmsonne/AACMAToolkit](https://github.com/michaelmsonne/AACMAToolkit/compare/bab67a8256...b24ccb2c16)
 - [michaelmsonne commented on pull request MicrosoftDocs/WDAC-Toolkit#466](https://github.com/MicrosoftDocs/WDAC-Toolkit/pull/466#issuecomment-2893527699)
 - [michaelmsonne opened a pull request in MicrosoftDocs/azure-compute-docs](https://github.com/MicrosoftDocs/azure-compute-docs/pull/236)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/azure-compute-docs](https://github.com/michaelmsonne/azure-compute-docs/compare/d4bc60edc5...d9fad60cfd)
@@ -203,12 +204,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a branch AddNewFeatures in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/AddNewFeatures)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/c8243b64ee...bc5e5ced83)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#20](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/20#issuecomment-2881085280)
-- [michaelmsonne pushed to master in michaelmsonne/AACMAToolkit](https://github.com/michaelmsonne/AACMAToolkit/compare/949f659399...d1353c3716)
 - [michaelmsonne deleted branch patch-1 at michaelmsonne/AADInternals](https://github.com/)
 - [michaelmsonne deleted branch patch-1 at michaelmsonne/arc_jumpstart_docs](https://github.com/)
-- [michaelmsonne pushed to master in enderalci/AACMAToolkit](https://github.com/enderalci/AACMAToolkit/compare/bc873def73...949f659399)
-- [michaelmsonne merged a pull request in enderalci/AACMAToolkit](https://github.com/enderalci/AACMAToolkit/pull/10)
-- [michaelmsonne opened a pull request in enderalci/AACMAToolkit](https://github.com/enderalci/AACMAToolkit/pull/10)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
