@@ -194,6 +194,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne deleted branch add-checkforlogwriteaccess at michaelmsonne/AzureDevOpsBackupTool](https://github.com/)
+- [michaelmsonne deleted branch Add-toolToUnzipSingleBackup at michaelmsonne/AzureDevOpsBackupTool](https://github.com/)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/7b1666bfae...931972a06e)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#19](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/19#issuecomment-2907917962)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#20](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/20#issuecomment-2907916747)
@@ -204,8 +206,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne merged a pull request in enderalci/AACMAToolkit](https://github.com/enderalci/AACMAToolkit/pull/11)
 - [michaelmsonne opened a pull request in enderalci/AACMAToolkit](https://github.com/enderalci/AACMAToolkit/pull/11)
 - [michaelmsonne commented on pull request MicrosoftDocs/WDAC-Toolkit#466](https://github.com/MicrosoftDocs/WDAC-Toolkit/pull/466#issuecomment-2893527699)
-- [michaelmsonne opened a pull request in MicrosoftDocs/azure-compute-docs](https://github.com/MicrosoftDocs/azure-compute-docs/pull/236)
-- [michaelmsonne pushed to patch-1 in michaelmsonne/azure-compute-docs](https://github.com/michaelmsonne/azure-compute-docs/compare/d4bc60edc5...d9fad60cfd)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
