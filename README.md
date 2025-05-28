@@ -194,7 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to AddNewFeatures in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/93ba09c684...b726534862)
+- [michaelmsonne pushed to AddNewFeatures in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/26e5f84e81...a964dea995)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#19](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/19#issuecomment-2913085202)
 - [michaelmsonne deleted branch add-checkforlogwriteaccess at michaelmsonne/AzureDevOpsBackupTool](https://github.com/)
 - [michaelmsonne deleted branch Add-toolToUnzipSingleBackup at michaelmsonne/AzureDevOpsBackupTool](https://github.com/)
@@ -204,8 +204,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a tag 1.0.0.2-dev in enderalci/AACMAToolkit](https://github.com/enderalci/AACMAToolkit/tree/1.0.0.2-dev)
 - [michaelmsonne pushed to master in michaelmsonne/AACMAToolkit](https://github.com/michaelmsonne/AACMAToolkit/compare/9a91bb9636...76c63effc5)
 - [michaelmsonne pushed to master in enderalci/AACMAToolkit](https://github.com/enderalci/AACMAToolkit/compare/9b4387b20e...76c63effc5)
-- [michaelmsonne merged a pull request in enderalci/AACMAToolkit](https://github.com/enderalci/AACMAToolkit/pull/11)
-- [michaelmsonne opened a pull request in enderalci/AACMAToolkit](https://github.com/enderalci/AACMAToolkit/pull/11)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
