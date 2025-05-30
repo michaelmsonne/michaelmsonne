@@ -167,10 +167,10 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Entra ID – Entra Connect – Secure App &amp; Certificate-Based Authentication is here! Plus: I built you a better way to manage it](https://blog.sonnes.cloud/entra-id-entra-connect-secure-app-certificate-based-authentication-is-here-plus-i-built-you-a-better-way-to-manage-it/)
 - [Azure Arc – Introducing AACMAToolkit: A New Azure Arc Management Tool](https://blog.sonnes.cloud/azure-arc-introducing-aacmatoolkit-a-new-azure-arc-management-tool/)
 - [Entra ID – Managed Identity Permissions Manager –  Performance Stats and Community Insights](https://blog.sonnes.cloud/entra-id-managed-identity-permissions-manager-performance-stats-and-community-insights/)
 - [Time for a new lab enviroment – Part 1](https://blog.sonnes.cloud/time-for-a-new-lab-enviroment-part-1/)
-- [Entra ID – Entra Connect – Secure App &amp; Certificate-Based Authentication is here! Plus: I built you a better way to manage it](https://blog.sonnes.cloud/entra-id-entra-connect-secure-app-certificate-based-authentication-is-here-plus-i-built-you-a-better-way-to-manage-it/)
 - [🚀 A huge thank you — and a little update behind the scenes](https://blog.sonnes.cloud/a-huge-thank-you-and-a-little-update-behind-the-scenes/)
 - [Defender for Identity – Unveiling Enhanced Visibility – New Service Account Monitoring Capabilities](https://blog.sonnes.cloud/defender-for-identity-unveiling-enhanced-visibility-new-service-account-monitoring-capabilities/)
 - [Microsoft Azure – Secure your Code with Trusted Signing: A Practical Guide](https://blog.sonnes.cloud/microsoft-azure-secure-your-code-with-trusted-signing-a-practical-guide/)
