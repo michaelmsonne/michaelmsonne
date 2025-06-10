@@ -194,7 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/68883f8aff...90187d9ff0)
+- [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/8547061670...5defebb989)
 - [michaelmsonne commented on pull request MicrosoftDocs/azure-compute-docs#236](https://github.com/MicrosoftDocs/azure-compute-docs/pull/236#issuecomment-2931861871)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#19](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/19#issuecomment-2931493266)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/de5485e116...e51878f60e)
