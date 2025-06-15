@@ -194,8 +194,10 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne released 1.1.0.2 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.1.0.2)
+- [michaelmsonne created a tag 1.1.0.2 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.1.0.2)
+- [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/aa4ce12886...5ea7d68050)
 - [michaelmsonne forked michaelmsonne/GlobalSecureAccess from microsoft/GlobalSecureAccess](https://github.com/michaelmsonne/GlobalSecureAccess)
-- [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/8547061670...5defebb989)
 - [michaelmsonne commented on pull request MicrosoftDocs/azure-compute-docs#236](https://github.com/MicrosoftDocs/azure-compute-docs/pull/236#issuecomment-2931861871)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#19](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/19#issuecomment-2931493266)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/de5485e116...e51878f60e)
