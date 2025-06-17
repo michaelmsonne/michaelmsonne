@@ -194,6 +194,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/entra-powershell](https://github.com/michaelmsonne/entra-powershell/compare/96e06a60c2...0029d9317f)
 - [michaelmsonne closed a pull request in microsoftgraph/entra-powershell](https://github.com/microsoftgraph/entra-powershell/pull/1490)
 - [michaelmsonne commented on pull request microsoftgraph/entra-powershell#1490](https://github.com/microsoftgraph/entra-powershell/pull/1490#issuecomment-2978410390)
 - [michaelmsonne commented on pull request MicrosoftDocs/WDAC-Toolkit#466](https://github.com/MicrosoftDocs/WDAC-Toolkit/pull/466#issuecomment-2978198252)
