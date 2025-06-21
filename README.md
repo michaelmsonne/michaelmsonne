@@ -194,6 +194,13 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne released 1.2.0.0 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.2.0.0)
+- [michaelmsonne created a tag 1.2.0.0 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.2.0.0)
+- [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/6a918e6bdd...6a315ec088)
+- [michaelmsonne closed an issue in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/20)
+- [michaelmsonne merged a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/21)
+- [michaelmsonne opened a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/21)
+- [michaelmsonne pushed to AddNewFeatures in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/06bd780479...1996431970)
 - [michaelmsonne pushed to main in michaelmsonne/entra-powershell](https://github.com/michaelmsonne/entra-powershell/compare/96e06a60c2...0029d9317f)
 - [michaelmsonne closed a pull request in microsoftgraph/entra-powershell](https://github.com/microsoftgraph/entra-powershell/pull/1490)
 - [michaelmsonne commented on pull request microsoftgraph/entra-powershell#1490](https://github.com/microsoftgraph/entra-powershell/pull/1490#issuecomment-2978410390)
@@ -209,7 +216,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne commented on pull request MicrosoftDocs/azure-compute-docs#236](https://github.com/MicrosoftDocs/azure-compute-docs/pull/236#issuecomment-2931861871)
 - [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#19](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/19#issuecomment-2931493266)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/de5485e116...e51878f60e)
-- [michaelmsonne pushed to AddNewFeatures in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/c67e40953c...af50ad48b8)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
