@@ -167,6 +167,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Inside My Toolkit: Dev Tools, Productivity Apps, and More 🛠️](https://blog.sonnes.cloud/inside-my-toolkit-dev-tools-productivity-apps-and-more/)
 - [Introducing Azure DevOps Backup Tool 1.2.0.0: Update with new features and bug fixes!](https://blog.sonnes.cloud/introducing-azure-devops-backup-tool-1-2-0-0-update-with-new-features-and-bug-fixes/)
 - [Entra ID – Entra Connect – Secure App &amp; Certificate-Based Authentication is here! Plus: I built you a better way to manage it](https://blog.sonnes.cloud/entra-id-entra-connect-secure-app-certificate-based-authentication-is-here-plus-i-built-you-a-better-way-to-manage-it/)
 - [Azure Arc – Introducing AACMAToolkit: A New Azure Arc Management Tool](https://blog.sonnes.cloud/azure-arc-introducing-aacmatoolkit-a-new-azure-arc-management-tool/)
@@ -186,7 +187,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Microsoft Defender for Cloud Apps – Visibility into applications with highly privileged permissions, whether used or unused](https://blog.sonnes.cloud/microsoft-defender-for-cloud-apps-visibility-into-applications-with-highly-privileged-permissions-whether-used-or-unused/)
 - [Windows – Hotpatching is now possible on clients – rebootless updates is here!](https://blog.sonnes.cloud/windows-hotpatching-is-now-possible-on-clients-rebootless-updates-is-here/)
 - [GitHub Backup Tool – update 1.3.1.0 is out](https://blog.sonnes.cloud/github-backup-tool-update-1-3-1-0-is-out/)
-- [Managed Identity Permission Manager – v. 1.0.0.2 is out!](https://blog.sonnes.cloud/managed-identity-permission-manager-v-1-0-0-2-is-out/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
