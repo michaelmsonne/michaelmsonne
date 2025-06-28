@@ -196,9 +196,10 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne released 1.1.0.3 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.1.0.3)
 - [michaelmsonne created a tag 1.1.0.3 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.1.0.3)
-- [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/03ef751044...8c94455c44)
+- [michaelmsonne released 1.1.0.3 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.1.0.3)
+- [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/8c94455c44...9d13314a34)
+- [michaelmsonne deleted tag 1.1.0.3 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/0dfc3c98ce...d1cd28db6d)
 - [michaelmsonne released 1.2.0.0 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.2.0.0)
 - [michaelmsonne created a tag 1.2.0.0 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.2.0.0)
@@ -217,7 +218,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne forked michaelmsonne/entra-powershell from microsoftgraph/entra-powershell](https://github.com/michaelmsonne/entra-powershell)
 - [michaelmsonne released 1.1.0.2 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.1.0.2)
 - [michaelmsonne created a tag 1.1.0.2 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.1.0.2)
-- [michaelmsonne forked michaelmsonne/GlobalSecureAccess from microsoft/GlobalSecureAccess](https://github.com/michaelmsonne/GlobalSecureAccess)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
