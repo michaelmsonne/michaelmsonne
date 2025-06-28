@@ -196,6 +196,9 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne released 1.1.0.3 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.1.0.3)
+- [michaelmsonne created a tag 1.1.0.3 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.1.0.3)
+- [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/03ef751044...8c94455c44)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/0dfc3c98ce...d1cd28db6d)
 - [michaelmsonne released 1.2.0.0 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.2.0.0)
 - [michaelmsonne created a tag 1.2.0.0 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.2.0.0)
@@ -214,10 +217,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne forked michaelmsonne/entra-powershell from microsoftgraph/entra-powershell](https://github.com/michaelmsonne/entra-powershell)
 - [michaelmsonne released 1.1.0.2 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.1.0.2)
 - [michaelmsonne created a tag 1.1.0.2 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.1.0.2)
-- [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/aa4ce12886...5ea7d68050)
 - [michaelmsonne forked michaelmsonne/GlobalSecureAccess from microsoft/GlobalSecureAccess](https://github.com/michaelmsonne/GlobalSecureAccess)
-- [michaelmsonne commented on pull request MicrosoftDocs/azure-compute-docs#236](https://github.com/MicrosoftDocs/azure-compute-docs/pull/236#issuecomment-2931861871)
-- [michaelmsonne commented on issue michaelmsonne/AzureDevOpsBackupTool#19](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/19#issuecomment-2931493266)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
