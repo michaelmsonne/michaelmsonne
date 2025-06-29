@@ -196,6 +196,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne created a branch main in michaelmsonne/AD-ServiceAccount-Manager](https://github.com/michaelmsonne/AD-ServiceAccount-Manager/compare/main)
+- [michaelmsonne created a repository michaelmsonne/AD-ServiceAccount-Manager](https://github.com/michaelmsonne/AD-ServiceAccount-Manager//)
 - [michaelmsonne created a tag 1.1.0.3 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.1.0.3)
 - [michaelmsonne released 1.1.0.3 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.1.0.3)
 - [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/8c94455c44...9d13314a34)
@@ -216,8 +218,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne opened a pull request in microsoftgraph/entra-powershell](https://github.com/microsoftgraph/entra-powershell/pull/1490)
 - [michaelmsonne created a branch michaelmsonne/NewGSACmdlets in michaelmsonne/entra-powershell](https://github.com/michaelmsonne/entra-powershell/compare/michaelmsonne/NewGSACmdlets)
 - [michaelmsonne forked michaelmsonne/entra-powershell from microsoftgraph/entra-powershell](https://github.com/michaelmsonne/entra-powershell)
-- [michaelmsonne released 1.1.0.2 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.1.0.2)
-- [michaelmsonne created a tag 1.1.0.2 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.1.0.2)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
