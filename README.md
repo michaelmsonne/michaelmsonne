@@ -196,7 +196,10 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne created a branch main in michaelmsonne/AD-ServiceAccount-Manager](https://github.com/michaelmsonne/AD-ServiceAccount-Manager/compare/main)
+- [michaelmsonne created a tag 1.0.15.0 in michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager/tree/1.0.15.0)
+- [michaelmsonne released 1.0.15.0 at michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager/releases/tag/1.0.15.0)
+- [michaelmsonne pushed to main in michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager/compare/61fee6613d...c565ca39e7)
+- [michaelmsonne created a branch main in michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/AD-ServiceAccount-Manager/compare/main)
 - [michaelmsonne created a repository michaelmsonne/AD-ServiceAccount-Manager](https://github.com/michaelmsonne/AD-ServiceAccount-Manager//)
 - [michaelmsonne created a tag 1.1.0.3 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.1.0.3)
 - [michaelmsonne released 1.1.0.3 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.1.0.3)
@@ -215,9 +218,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne commented on pull request microsoftgraph/entra-powershell#1490](https://github.com/microsoftgraph/entra-powershell/pull/1490#issuecomment-2978410390)
 - [michaelmsonne commented on pull request MicrosoftDocs/WDAC-Toolkit#466](https://github.com/MicrosoftDocs/WDAC-Toolkit/pull/466#issuecomment-2978198252)
 - [michaelmsonne pushed to michaelmsonne/NewGSACmdlets in michaelmsonne/entra-powershell](https://github.com/michaelmsonne/entra-powershell/compare/c32dc1bdd1...ad82eeb515)
-- [michaelmsonne opened a pull request in microsoftgraph/entra-powershell](https://github.com/microsoftgraph/entra-powershell/pull/1490)
-- [michaelmsonne created a branch michaelmsonne/NewGSACmdlets in michaelmsonne/entra-powershell](https://github.com/michaelmsonne/entra-powershell/compare/michaelmsonne/NewGSACmdlets)
-- [michaelmsonne forked michaelmsonne/entra-powershell from microsoftgraph/entra-powershell](https://github.com/michaelmsonne/entra-powershell)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
