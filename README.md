@@ -196,9 +196,9 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager/compare/2b7b04ace2...d240732fc8)
 - [michaelmsonne starred michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/42058a9069...2c59573f65)
-- [michaelmsonne pushed to main in michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager/compare/c565ca39e7...2b7b04ace2)
 - [michaelmsonne created a tag 1.0.15.0 in michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager/tree/1.0.15.0)
 - [michaelmsonne released 1.0.15.0 at michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager/releases/tag/1.0.15.0)
 - [michaelmsonne created a branch main in michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/AD-ServiceAccount-Manager/compare/main)
@@ -215,7 +215,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne opened a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/21)
 - [michaelmsonne pushed to AddNewFeatures in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/06bd780479...1996431970)
 - [michaelmsonne pushed to main in michaelmsonne/entra-powershell](https://github.com/michaelmsonne/entra-powershell/compare/96e06a60c2...0029d9317f)
-- [michaelmsonne closed a pull request in microsoftgraph/entra-powershell](https://github.com/microsoftgraph/entra-powershell/pull/1490)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
