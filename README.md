@@ -64,7 +64,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 
 </br>
 
-# 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1) 
+# 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1#credly) 
 __*(Last 48 badges from credly.com - there is more than this (100+)...)*__
 <!--START_SECTION:badges-->
 ![Cloud Security Customer Champion | December](https://images.credly.com/size/80x80/images/d5cf5f63-5111-4e00-bab5-c620df43eb5e/image.png "Cloud Security Customer Champion | December")
