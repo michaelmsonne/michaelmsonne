@@ -196,6 +196,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne starred michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager)
+- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/42058a9069...2c59573f65)
 - [michaelmsonne pushed to main in michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager/compare/c565ca39e7...2b7b04ace2)
 - [michaelmsonne created a tag 1.0.15.0 in michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager/tree/1.0.15.0)
 - [michaelmsonne released 1.0.15.0 at michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager/releases/tag/1.0.15.0)
@@ -205,7 +207,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne released 1.1.0.3 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.1.0.3)
 - [michaelmsonne pushed to main in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/8c94455c44...9d13314a34)
 - [michaelmsonne deleted tag 1.1.0.3 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/)
-- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/0dfc3c98ce...d1cd28db6d)
 - [michaelmsonne released 1.2.0.0 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.2.0.0)
 - [michaelmsonne created a tag 1.2.0.0 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.2.0.0)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/6a918e6bdd...6a315ec088)
@@ -215,8 +216,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to AddNewFeatures in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/06bd780479...1996431970)
 - [michaelmsonne pushed to main in michaelmsonne/entra-powershell](https://github.com/michaelmsonne/entra-powershell/compare/96e06a60c2...0029d9317f)
 - [michaelmsonne closed a pull request in microsoftgraph/entra-powershell](https://github.com/microsoftgraph/entra-powershell/pull/1490)
-- [michaelmsonne commented on pull request microsoftgraph/entra-powershell#1490](https://github.com/microsoftgraph/entra-powershell/pull/1490#issuecomment-2978410390)
-- [michaelmsonne commented on pull request MicrosoftDocs/WDAC-Toolkit#466](https://github.com/MicrosoftDocs/WDAC-Toolkit/pull/466#issuecomment-2978198252)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
