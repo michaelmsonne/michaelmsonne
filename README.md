@@ -244,11 +244,11 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager/compare/5801d7b0dc...cc298e146f)
+- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/a9c07d7ee2...fbfd2fc21e)
 - [michaelmsonne created a branch fixes-smallUpdates in michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager/compare/fixes-smallUpdates)
 - [michaelmsonne opened an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/20)
-- [michaelmsonne pushed to main in michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager/compare/d240732fc8...705fa07582)
 - [michaelmsonne starred michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager)
-- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/42058a9069...2c59573f65)
 - [michaelmsonne created a tag 1.0.15.0 in michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager/tree/1.0.15.0)
 - [michaelmsonne released 1.0.15.0 at michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager/releases/tag/1.0.15.0)
 - [michaelmsonne created a branch main in michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/AD-ServiceAccount-Manager/compare/main)
@@ -261,9 +261,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a tag 1.2.0.0 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.2.0.0)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/6a918e6bdd...6a315ec088)
 - [michaelmsonne closed an issue in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/20)
-- [michaelmsonne merged a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/21)
-- [michaelmsonne opened a pull request in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/pull/21)
-- [michaelmsonne pushed to AddNewFeatures in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/06bd780479...1996431970)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
