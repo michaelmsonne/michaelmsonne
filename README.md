@@ -65,7 +65,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 </br>
 
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1#credly) 
-__*(Last 48 badges from credly.com - there is more than this (100+)...)*__
+__*(Some of the last badges from credly.com - there is more than this (100+)...)*__
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/f341bf69-f8cf-451b-916e-86e112983585" title="Management Community Influencer - 2025"><img src="https://images.credly.com/size/80x80/images/cf7eb7aa-fd41-436a-9816-626dc51c69ee/blob" alt="Management Community Influencer - 2025" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/4f7d8d51-0735-4660-80b3-56e87ff4feed" title="Microsoft Community Rockstar (250) - 2025"><img src="https://images.credly.com/size/80x80/images/b6cce771-8648-4efd-9123-d3bac7709ff3/blob" alt="Microsoft Community Rockstar (250) - 2025" width="80" height="80"></a>
