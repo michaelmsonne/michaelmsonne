@@ -244,8 +244,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/9102a8e199...a251008020)
 - [michaelmsonne pushed to main in michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager/compare/5801d7b0dc...cc298e146f)
-- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/a9c07d7ee2...fbfd2fc21e)
 - [michaelmsonne created a branch fixes-smallUpdates in michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager/compare/fixes-smallUpdates)
 - [michaelmsonne opened an issue in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/20)
 - [michaelmsonne starred michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager)
