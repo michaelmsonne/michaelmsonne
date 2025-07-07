@@ -196,6 +196,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/ea0bb223e0...e47037857c)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/9102a8e199...a251008020)
 - [michaelmsonne pushed to main in michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager/compare/5801d7b0dc...cc298e146f)
 - [michaelmsonne created a branch fixes-smallUpdates in michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager/compare/fixes-smallUpdates)
@@ -212,7 +213,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne released 1.2.0.0 at michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/releases/tag/1.2.0.0)
 - [michaelmsonne created a tag 1.2.0.0 in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/tree/1.2.0.0)
 - [michaelmsonne pushed to master in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/compare/6a918e6bdd...6a315ec088)
-- [michaelmsonne closed an issue in michaelmsonne/AzureDevOpsBackupTool](https://github.com/michaelmsonne/AzureDevOpsBackupTool/issues/20)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
