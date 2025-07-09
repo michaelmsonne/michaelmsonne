@@ -196,6 +196,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/e7ad02d367...3ceb7c29cc)
 - [michaelmsonne closed a pull request in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/pull/13)
 - [michaelmsonne pushed to master in michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/e62cfa44f9...2de80c03a4)
 - [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/9102a8e199...a251008020)
@@ -206,8 +207,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a tag 1.0.15.0 in michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager/tree/1.0.15.0)
 - [michaelmsonne released 1.0.15.0 at michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/ADServiceAccountManager/releases/tag/1.0.15.0)
 - [michaelmsonne created a branch main in michaelmsonne/ADServiceAccountManager](https://github.com/michaelmsonne/AD-ServiceAccount-Manager/compare/main)
-- [michaelmsonne created a repository michaelmsonne/AD-ServiceAccount-Manager](https://github.com/michaelmsonne/AD-ServiceAccount-Manager//)
-- [michaelmsonne created a tag 1.1.0.3 in michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/tree/1.1.0.3)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 Stats
