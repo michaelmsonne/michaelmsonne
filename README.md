@@ -21,7 +21,7 @@
 
 ## 😎 A little bit about me
 
-- 🤓 Microsoft MVP Security ('Cloud Security' and 'Identity and Access') - You can see my Microsoft MVP Profile [here](https://mvp.microsoft.com/en-US/mvp/profile/b6a5bd91-5ebd-4c84-8965-023a95273093?wt.mc_id=MVP_353010)
+- 🤓 Microsoft MVP Security ('Defender XDR' and 'Identity and Access') - You can see my Microsoft MVP Profile [here](https://mvp.microsoft.com/en-US/mvp/profile/b6a5bd91-5ebd-4c84-8965-023a95273093?wt.mc_id=MVP_353010)
 - 💁 Helped customers to accelerate their digital transformation leveraging Microsoft Azure/Cloud services and other IT related stuff 
 - 🧐 8+ years in IT
 - ⚡ I'm a IT Pro with Microsoft stuff. I focus primarily on Microsoft 365 and related services like Entra ID and other related workloads. I have a big PowerShell affection (and C# 😂), and love to create supporting tools and automate processes for admins, devs and users. More to come here soon...
