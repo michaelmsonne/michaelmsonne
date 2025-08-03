@@ -196,7 +196,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to michael-newfeatures in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/525d9250ca...cd8ebef082)
+- [michaelmsonne pushed to michael-newfeatures in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/5940d93a45...2aaec6d37d)
 - [michaelmsonne created a branch michael-newfeatures in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/michael-newfeatures)
 - [michaelmsonne commented on pull request MicrosoftDocs/WDAC-Toolkit#466](https://github.com/MicrosoftDocs/WDAC-Toolkit/pull/466#issuecomment-3077270740)
 - [michaelmsonne commented on issue PowerShell/PowerShellGallery#321](https://github.com/PowerShell/PowerShellGallery/issues/321#issuecomment-3077166064)
