@@ -208,7 +208,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/231d9d5b8e...933d06d081)
 <!-- LATESTACTIVITYGITHUB:END -->
 
-## 🔥 Stats
+## 🔥 GitHub Stats
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelmsonne&show_icons=true&theme=dark&include_all_commits=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=michaelmsonne&theme=dark&hide_border=false)<br/>
