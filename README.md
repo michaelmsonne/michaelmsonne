@@ -197,12 +197,12 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/dbe8b4d486...685942b6f5)
 - [michaelmsonne pushed to michael-newfeatures in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/f85725d3db...24d63542ce)
 - [michaelmsonne opened an issue in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/9)
 - [michaelmsonne created a branch michael-newfeatures in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/michael-newfeatures)
 - [michaelmsonne commented on pull request MicrosoftDocs/WDAC-Toolkit#466](https://github.com/MicrosoftDocs/WDAC-Toolkit/pull/466#issuecomment-3077270740)
 - [michaelmsonne commented on issue PowerShell/PowerShellGallery#321](https://github.com/PowerShell/PowerShellGallery/issues/321#issuecomment-3077166064)
-- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/1466591dde...1fb62dbb38)
 - [michaelmsonne opened a pull request in MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/1659)
 - [michaelmsonne pushed to patch-5 in michaelmsonne/entra-docs](https://github.com/michaelmsonne/entra-docs/compare/4f48b07eed...1d683cded7)
 - [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/231d9d5b8e...933d06d081)
