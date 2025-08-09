@@ -254,7 +254,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne commented on issue PowerShell/PowerShellGallery#321](https://github.com/PowerShell/PowerShellGallery/issues/321#issuecomment-3077166064)
 - [michaelmsonne opened a pull request in MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/1659)
 - [michaelmsonne pushed to patch-5 in michaelmsonne/entra-docs](https://github.com/michaelmsonne/entra-docs/compare/4f48b07eed...1d683cded7)
-- [michaelmsonne pushed to main in michaelmsonne/public](https://github.com/michaelmsonne/public/compare/231d9d5b8e...933d06d081)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 GitHub Stats
