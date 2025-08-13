@@ -197,7 +197,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/2cd003ba8a...97d93e4df4)
+- [michaelmsonne pushed to michael-newfeatures in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/f939200bcd...998ee19687)
+- [michaelmsonne pushed to main in michaelmsonne/michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/97d93e4df4...c8cbe403b2)
 - [michaelmsonne opened a pull request in mmelkersen/Tools](https://github.com/mmelkersen/Tools/pull/1)
 - [michaelmsonne pushed to patch-1 in michaelmsonne/Tools](https://github.com/michaelmsonne/Tools/compare/086d55e532...3a18524f96)
 - [michaelmsonne forked michaelmsonne/Tools from mmelkersen/Tools](https://github.com/michaelmsonne/Tools)
@@ -205,7 +206,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne reopened an issue in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/5)
 - [michaelmsonne commented on issue michaelmsonne/SignToolGUI#5](https://github.com/michaelmsonne/SignToolGUI/issues/5#issuecomment-3172807079)
 - [michaelmsonne closed an issue in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/5)
-- [michaelmsonne pushed to michael-newfeatures in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/d391a50de3...f939200bcd)
 - [michaelmsonne commented on issue michaelmsonne/SignToolGUI#8](https://github.com/michaelmsonne/SignToolGUI/issues/8#issuecomment-3165523722)
 - [michaelmsonne opened an issue in michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/9)
 <!-- LATESTACTIVITYGITHUB:END -->
