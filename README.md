@@ -170,6 +170,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Entra ID – Managed Identity Permission Manager: A Community-Driven Recap](https://blog.sonnes.cloud/entra-id-managed-identity-permission-manager-a-community-driven-recap/)
 - [My First Year as a Microsoft MVP](https://blog.sonnes.cloud/my-first-year-as-a-microsoft-mvp/)
 - [🛠️ Releasing my legacy PowerShell AD Service Account Tool &lpar;Yes, it still works great&rpar;](https://blog.sonnes.cloud/releasing-my-legacy-powershell-ad-service-account-tool-yes-it-still-works-great/)
 - [Inside My Toolkit: Dev Tools, Productivity Apps, and More 🛠️](https://blog.sonnes.cloud/inside-my-toolkit-dev-tools-productivity-apps-and-more/)
@@ -189,7 +190,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Microsoft Defender for Cloud Apps – Permissions filter and export capability is here!](https://blog.sonnes.cloud/microsoft-defender-for-cloud-apps-permissions-filter-and-export-capability-is-here/)
 - [What a 2024 – a new year is now over and a new begings](https://blog.sonnes.cloud/what-a-2024-a-new-year-is-now-over-and-a-new-begings/)
 - [Managed Identity Permission Manager – v. 1.0.0.3 is out!](https://blog.sonnes.cloud/managed-identity-permission-manager-v-1-0-0-3-is-out/)
-- [Microsoft Defender for Cloud Apps – Visibility into applications with highly privileged permissions, whether used or unused](https://blog.sonnes.cloud/microsoft-defender-for-cloud-apps-visibility-into-applications-with-highly-privileged-permissions-whether-used-or-unused/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
