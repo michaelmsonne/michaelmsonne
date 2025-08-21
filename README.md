@@ -20,6 +20,8 @@
   <a href="https://mvp.microsoft.com/en-US/mvp/profile/b6a5bd91-5ebd-4c84-8965-023a95273093?wt.mc_id=MVP_353010"><img src="https://github.com/michaelmsonne/michaelmsonne/assets/49366751/15b969a0-e7b6-43f1-84fa-df37d160e065" alt="Microsoft MVP"/></a>
 </div>
 
+[![GitHub followers](https://img.shields.io/github/followers/michaelmsonne?label=Follow&style=social)](https://github.com/michaelmsonne/?tab=follow)
+
 ## 😎 A little bit about me
 
 - 🤓 Microsoft MVP Security ('Defender XDR' and 'Identity and Access') - You can see my Microsoft MVP Profile [here](https://mvp.microsoft.com/en-US/mvp/profile/b6a5bd91-5ebd-4c84-8965-023a95273093?wt.mc_id=MVP_353010)
