@@ -172,6 +172,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Entra ID – Bulk User Download – Enhanced Experience](https://blog.sonnes.cloud/entra-id-bulk-user-download-enhanced-experience/)
 - [Summer Recap &amp; Time to Reconnect](https://blog.sonnes.cloud/summer-recap-time-to-reconnect/)
 - [Entra ID – Managed Identity Permission Manager: A Community-Driven Recap](https://blog.sonnes.cloud/entra-id-managed-identity-permission-manager-a-community-driven-recap/)
 - [My First Year as a Microsoft MVP](https://blog.sonnes.cloud/my-first-year-as-a-microsoft-mvp/)
@@ -191,7 +192,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Entra ID – New build-in audit feature in Entra Connect is finally here!](https://blog.sonnes.cloud/entra-id-new-build-in-audit-feature-in-entra-connect-is-finally-here/)
 - [Managed Identity Permission Manager – v. 1.0.0.4 is out!](https://blog.sonnes.cloud/managed-identity-permission-manager-v-1-0-0-4-is-out/)
 - [Microsoft Defender for Cloud Apps – Permissions filter and export capability is here!](https://blog.sonnes.cloud/microsoft-defender-for-cloud-apps-permissions-filter-and-export-capability-is-here/)
-- [What a 2024 – a new year is now over and a new begings](https://blog.sonnes.cloud/what-a-2024-a-new-year-is-now-over-and-a-new-begings/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
