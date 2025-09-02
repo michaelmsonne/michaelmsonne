@@ -172,6 +172,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Closing Microsoft Graph Gaps: My Feedback Portal Request Gains Top 3 in Just 4 Days](https://blog.sonnes.cloud/closing-microsoft-graph-gaps-my-feedback-portal-request-gains-top-3-in-just-4-days/)
 - [Entra ID – Bulk User Download – Enhanced Experience](https://blog.sonnes.cloud/entra-id-bulk-user-download-enhanced-experience/)
 - [Summer Recap &amp; Time to Reconnect](https://blog.sonnes.cloud/summer-recap-time-to-reconnect/)
 - [Entra ID – Managed Identity Permission Manager: A Community-Driven Recap](https://blog.sonnes.cloud/entra-id-managed-identity-permission-manager-a-community-driven-recap/)
@@ -191,7 +192,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Microsoft Azure – Elevate Access to Resources with Entra ID Audit Logs – Now Available!](https://blog.sonnes.cloud/microsoft-azure-elevate-access-to-resources-with-entra-id-audit-logs-now-available/)
 - [Entra ID – New build-in audit feature in Entra Connect is finally here!](https://blog.sonnes.cloud/entra-id-new-build-in-audit-feature-in-entra-connect-is-finally-here/)
 - [Managed Identity Permission Manager – v. 1.0.0.4 is out!](https://blog.sonnes.cloud/managed-identity-permission-manager-v-1-0-0-4-is-out/)
-- [Microsoft Defender for Cloud Apps – Permissions filter and export capability is here!](https://blog.sonnes.cloud/microsoft-defender-for-cloud-apps-permissions-filter-and-export-capability-is-here/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
