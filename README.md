@@ -204,9 +204,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/2de80c03a4...aab386b9cd)
 - [michaelmsonne pushed michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/d0b191a6ee...17c39064cc)
 - [michaelmsonne pushed SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/998ee19687...90b7ce47d1)
-- [michaelmsonne contributed to mmelkersen/Tools](https://github.com/mmelkersen/Tools/pull/1)
-- [michaelmsonne pushed Tools](https://github.com/michaelmsonne/Tools/compare/086d55e532...3a18524f96)
-- [michaelmsonne forked michaelmsonne/Tools from mmelkersen/Tools](/michaelmsonne/Tools)
 - [michaelmsonne made this repository public](/michaelmsonne/MicrosoftOnlineErrorLookupTool)
 <!-- LATESTACTIVITYGITHUB:END -->
 
