@@ -207,8 +207,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne contributed to mmelkersen/Tools](https://github.com/mmelkersen/Tools/pull/1)
 - [michaelmsonne pushed Tools](https://github.com/michaelmsonne/Tools/compare/086d55e532...3a18524f96)
 - [michaelmsonne forked michaelmsonne/Tools from mmelkersen/Tools](/michaelmsonne/Tools)
-- [michaelmsonne reopened an issue in SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/5)
-- [michaelmsonne closed an issue in SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/5)
 - [michaelmsonne made this repository public](/michaelmsonne/MicrosoftOnlineErrorLookupTool)
 <!-- LATESTACTIVITYGITHUB:END -->
 
