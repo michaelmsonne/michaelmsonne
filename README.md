@@ -172,6 +172,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [SignTool GUI 2.0.0.0 — Major Update Out Now!](https://blog.sonnes.cloud/signtool-gui-2-0-0-0-major-update-out-now/)
 - [What’s next for Visual Studio 2026 &lpar;v18&rpar;!](https://blog.sonnes.cloud/whats-next-for-visual-studio-2026-v18/)
 - [Closing Microsoft Graph Gaps: My Feedback Portal Request Gains Top 3 in Just 4 Days](https://blog.sonnes.cloud/closing-microsoft-graph-gaps-my-feedback-portal-request-gains-top-3-in-just-4-days/)
 - [Entra ID – Bulk User Download – Enhanced Experience](https://blog.sonnes.cloud/entra-id-bulk-user-download-enhanced-experience/)
@@ -191,7 +192,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Signtool GUI  – v. 1.4.0.0 is out!](https://blog.sonnes.cloud/signtool-gui-v-1-4-0-0-is-out/)
 - [🚀 Managed Identity Permission Manager v1.1.0.0 is here! 🚀](https://blog.sonnes.cloud/managed-identity-permission-manager-v1-1-0-0-is-here/)
 - [Microsoft Azure – Elevate Access to Resources with Entra ID Audit Logs – Now Available!](https://blog.sonnes.cloud/microsoft-azure-elevate-access-to-resources-with-entra-id-audit-logs-now-available/)
-- [Entra ID – New build-in audit feature in Entra Connect is finally here!](https://blog.sonnes.cloud/entra-id-new-build-in-audit-feature-in-entra-connect-is-finally-here/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
