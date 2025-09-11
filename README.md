@@ -199,7 +199,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/ecf2d5e16e...2d8578a7c5)
+- [michaelmsonne opened a pull request in SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/pull/10)
+- [michaelmsonne pushed SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/9461a583c8...50a9bf8862)
 - [michaelmsonne commented on an issue in PowerShellGallery](https://github.com/PowerShell/PowerShellGallery/issues/328#issuecomment-3271018463)
 - [michaelmsonne pushed AACMAToolkit](https://github.com/michaelmsonne/AACMAToolkit/compare/8eafbc0537...ad6916a15e)
 - [michaelmsonne pushed LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/2de80c03a4...aab386b9cd)
