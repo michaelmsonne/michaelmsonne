@@ -255,7 +255,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne commented on an issue in PowerShellGallery](https://github.com/PowerShell/PowerShellGallery/issues/328#issuecomment-3271018463)
 - [michaelmsonne pushed AACMAToolkit](https://github.com/michaelmsonne/AACMAToolkit/compare/8eafbc0537...ad6916a15e)
 - [michaelmsonne pushed LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/2de80c03a4...aab386b9cd)
-- [michaelmsonne pushed michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/d0b191a6ee...17c39064cc)
 - [michaelmsonne made this repository public](https://github.com/michaelmsonne/EntraIDApplicationPolicyManager)
 <!-- LATESTACTIVITYGITHUB:END -->
 
