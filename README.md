@@ -253,7 +253,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne released 2.0.0.0 at michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/releases/tag/2.0.0.0)
 - [michaelmsonne contributed to michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/pull/10)
 - [michaelmsonne commented on an issue in PowerShellGallery](https://github.com/PowerShell/PowerShellGallery/issues/328#issuecomment-3271018463)
-- [michaelmsonne pushed AACMAToolkit](https://github.com/michaelmsonne/AACMAToolkit/compare/8eafbc0537...ad6916a15e)
 - [michaelmsonne made this repository public](https://github.com/michaelmsonne/EntraIDApplicationPolicyManager)
 <!-- LATESTACTIVITYGITHUB:END -->
 
