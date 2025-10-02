@@ -248,7 +248,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/aab386b9cd...7575e2583a)
+- [michaelmsonne released 1.0.0.7 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.7)
+- [michaelmsonne pushed LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/933cb510ef...9e766ba0da)
 - [michaelmsonne opened a pull request in Windows365-PSScripts](https://github.com/microsoft/Windows365-PSScripts/pull/42)
 - [michaelmsonne pushed Windows365-PSScripts](https://github.com/michaelmsonne/Windows365-PSScripts/compare/dcdb28e000...a1f44d44e4)
 - [michaelmsonne forked michaelmsonne/Windows365-PSScripts from microsoft/Windows365-PSScripts](https://github.com/michaelmsonne/Windows365-PSScripts)
