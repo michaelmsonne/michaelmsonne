@@ -248,6 +248,9 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne opened a pull request in Windows365-PSScripts](https://github.com/microsoft/Windows365-PSScripts/pull/42)
+- [michaelmsonne pushed Windows365-PSScripts](https://github.com/michaelmsonne/Windows365-PSScripts/compare/dcdb28e000...a1f44d44e4)
+- [michaelmsonne forked michaelmsonne/Windows365-PSScripts from microsoft/Windows365-PSScripts](https://github.com/michaelmsonne/Windows365-PSScripts)
 - [michaelmsonne pushed EntraIDApplicationPolicyManager](https://github.com/michaelmsonne/EntraIDApplicationPolicyManager/compare/b31ce0684d...c9465e1c34)
 - [michaelmsonne pushed SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/258506abe8...5ba26687e6)
 - [michaelmsonne released 2.0.0.0 at michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/releases/tag/2.0.0.0)
