@@ -221,6 +221,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Entra ID – Soft-delete &amp; Restore for Conditional Access + New PowerShell Module](https://blog.sonnes.cloud/entra-id-soft-delete-restore-for-conditional-access-new-powershell-module/)
 - [Entra ID – When Ideas Become Features: Reflections on Entra ID App Policies](https://blog.sonnes.cloud/entra-id-when-ideas-become-features-reflections-on-entra-id-app-policies/)
 - [SignTool GUI 2.0.0.0 — Major Update Out Now!](https://blog.sonnes.cloud/signtool-gui-2-0-0-0-major-update-out-now/)
 - [What’s next for Visual Studio 2026 &lpar;v18&rpar;!](https://blog.sonnes.cloud/whats-next-for-visual-studio-2026-v18/)
@@ -240,7 +241,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Defender for Identity – Unveiling Enhanced Visibility – New Service Account Monitoring Capabilities](https://blog.sonnes.cloud/defender-for-identity-unveiling-enhanced-visibility-new-service-account-monitoring-capabilities/)
 - [Microsoft Azure – Secure your Code with Trusted Signing: A Practical Guide](https://blog.sonnes.cloud/microsoft-azure-secure-your-code-with-trusted-signing-a-practical-guide/)
 - [Signtool GUI  – v. 1.4.0.0 is out!](https://blog.sonnes.cloud/signtool-gui-v-1-4-0-0-is-out/)
-- [🚀 Managed Identity Permission Manager v1.1.0.0 is here! 🚀](https://blog.sonnes.cloud/managed-identity-permission-manager-v1-1-0-0-is-here/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
