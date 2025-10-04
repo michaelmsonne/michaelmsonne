@@ -248,6 +248,9 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed ConditionalAccessManager](https://github.com/michaelmsonne/ConditionalAccessManager/compare/4c41111a31...51b6ddcc18)
+- [michaelmsonne pushed public](https://github.com/michaelmsonne/public/compare/e31c9b5df2...f36ab58300)
+- [michaelmsonne created a branch](https://github.com/michaelmsonne/ConditionalAccessManager/compare/0000000000...779241fd0f)
 - [michaelmsonne released 1.0.0.7 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.7)
 - [michaelmsonne pushed LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/933cb510ef...9e766ba0da)
 - [michaelmsonne opened a pull request in Windows365-PSScripts](https://github.com/microsoft/Windows365-PSScripts/pull/42)
@@ -257,7 +260,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/258506abe8...5ba26687e6)
 - [michaelmsonne released 2.0.0.0 at michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/releases/tag/2.0.0.0)
 - [michaelmsonne contributed to michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/pull/10)
-- [michaelmsonne commented on an issue in PowerShellGallery](https://github.com/PowerShell/PowerShellGallery/issues/328#issuecomment-3271018463)
 - [michaelmsonne made this repository public](https://github.com/michaelmsonne/EntraIDApplicationPolicyManager)
 <!-- LATESTACTIVITYGITHUB:END -->
 
