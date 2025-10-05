@@ -200,7 +200,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed ConditionalAccessManager](https://github.com/michaelmsonne/ConditionalAccessManager/compare/e696b8ca7e...9303bbbe4a)
+- [michaelmsonne pushed ConditionalAccessManager](https://github.com/michaelmsonne/ConditionalAccessManager/compare/c971afed8a...bee9e7174d)
 - [michaelmsonne pushed public](https://github.com/michaelmsonne/public/compare/e31c9b5df2...f36ab58300)
 - [michaelmsonne created a branch](https://github.com/michaelmsonne/ConditionalAccessManager/compare/0000000000...779241fd0f)
 - [michaelmsonne released 1.0.0.7 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.7)
@@ -210,7 +210,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne forked michaelmsonne/Windows365-PSScripts from microsoft/Windows365-PSScripts](https://github.com/michaelmsonne/Windows365-PSScripts)
 - [michaelmsonne pushed EntraIDApplicationPolicyManager](https://github.com/michaelmsonne/EntraIDApplicationPolicyManager/compare/b31ce0684d...c9465e1c34)
 - [michaelmsonne pushed SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/258506abe8...5ba26687e6)
-- [michaelmsonne released 2.0.0.0 at michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/releases/tag/2.0.0.0)
 - [michaelmsonne made this repository public](https://github.com/michaelmsonne/EntraIDApplicationPolicyManager)
 <!-- LATESTACTIVITYGITHUB:END -->
 
