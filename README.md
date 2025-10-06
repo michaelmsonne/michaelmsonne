@@ -253,7 +253,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a branch](https://github.com/michaelmsonne/ConditionalAccessManager/compare/0000000000...779241fd0f)
 - [michaelmsonne released 1.0.0.7 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.7)
 - [michaelmsonne pushed LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/933cb510ef...9e766ba0da)
-- [michaelmsonne contributed to microsoft/Windows365-PSScripts](https://github.com/microsoft/Windows365-PSScripts/pull/42)
+- [michaelmsonne opened a pull request in Windows365-PSScripts](https://github.com/microsoft/Windows365-PSScripts/pull/42)
 - [michaelmsonne pushed Windows365-PSScripts](https://github.com/michaelmsonne/Windows365-PSScripts/compare/dcdb28e000...a1f44d44e4)
 - [michaelmsonne forked michaelmsonne/Windows365-PSScripts from microsoft/Windows365-PSScripts](https://github.com/michaelmsonne/Windows365-PSScripts)
 <!-- LATESTACTIVITYGITHUB:END -->
