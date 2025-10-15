@@ -248,6 +248,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne forked michaelmsonne/Migrate2GSA from microsoft/Migrate2GSA](https://github.com/michaelmsonne/Migrate2GSA)
 - [michaelmsonne labeled an issue in Check](https://github.com/CyberDrain/Check/issues/86)
 - [michaelmsonne opened an issue in Check](https://github.com/CyberDrain/Check/issues/86)
 - [michaelmsonne starred michaelmsonne/EntraIDApplicationPolicyManager](https://github.com/michaelmsonne/EntraIDApplicationPolicyManager)
@@ -256,7 +257,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a branch](https://github.com/michaelmsonne/ConditionalAccessManager/compare/0000000000...779241fd0f)
 - [michaelmsonne released 1.0.0.7 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.7)
 - [michaelmsonne pushed LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/933cb510ef...9e766ba0da)
-- [michaelmsonne contributed to microsoft/Windows365-PSScripts](https://github.com/microsoft/Windows365-PSScripts/pull/42)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 GitHub Stats
