@@ -248,7 +248,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed Migrate2GSA](https://github.com/michaelmsonne/Migrate2GSA/compare/621c2148b9...c9c04a8a42)
+- [michaelmsonne opened a pull request in Migrate2GSA](https://github.com/microsoft/Migrate2GSA/pull/19)
+- [michaelmsonne pushed Migrate2GSA](https://github.com/michaelmsonne/Migrate2GSA/compare/7f5ab1f383...94eb61c25c)
 - [michaelmsonne forked michaelmsonne/Migrate2GSA from microsoft/Migrate2GSA](https://github.com/michaelmsonne/Migrate2GSA)
 - [michaelmsonne labeled an issue in Check](https://github.com/CyberDrain/Check/issues/86)
 - [michaelmsonne opened an issue in Check](https://github.com/CyberDrain/Check/issues/86)
@@ -256,8 +257,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed ConditionalAccessManager](https://github.com/michaelmsonne/ConditionalAccessManager/compare/dd12f405c5...edfa8c4faa)
 - [michaelmsonne pushed public](https://github.com/michaelmsonne/public/compare/e31c9b5df2...f36ab58300)
 - [michaelmsonne created a branch](https://github.com/michaelmsonne/ConditionalAccessManager/compare/0000000000...779241fd0f)
-- [michaelmsonne released 1.0.0.7 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.7)
-- [michaelmsonne pushed LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/933cb510ef...9e766ba0da)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 GitHub Stats
