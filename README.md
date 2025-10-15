@@ -248,6 +248,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne labeled an issue in Check](https://github.com/CyberDrain/Check/issues/86)
+- [michaelmsonne opened an issue in Check](https://github.com/CyberDrain/Check/issues/86)
 - [michaelmsonne starred michaelmsonne/EntraIDApplicationPolicyManager](https://github.com/michaelmsonne/EntraIDApplicationPolicyManager)
 - [michaelmsonne pushed ConditionalAccessManager](https://github.com/michaelmsonne/ConditionalAccessManager/compare/dd12f405c5...edfa8c4faa)
 - [michaelmsonne pushed public](https://github.com/michaelmsonne/public/compare/e31c9b5df2...f36ab58300)
@@ -255,8 +257,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne released 1.0.0.7 at michaelmsonne/LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/releases/tag/1.0.0.7)
 - [michaelmsonne pushed LyngdorfBrowser](https://github.com/michaelmsonne/LyngdorfBrowser/compare/933cb510ef...9e766ba0da)
 - [michaelmsonne contributed to microsoft/Windows365-PSScripts](https://github.com/microsoft/Windows365-PSScripts/pull/42)
-- [michaelmsonne pushed Windows365-PSScripts](https://github.com/michaelmsonne/Windows365-PSScripts/compare/dcdb28e000...a1f44d44e4)
-- [michaelmsonne forked michaelmsonne/Windows365-PSScripts from microsoft/Windows365-PSScripts](https://github.com/michaelmsonne/Windows365-PSScripts)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 GitHub Stats
