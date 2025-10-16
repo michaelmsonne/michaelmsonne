@@ -256,7 +256,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne starred michaelmsonne/EntraIDApplicationPolicyManager](https://github.com/michaelmsonne/EntraIDApplicationPolicyManager)
 - [michaelmsonne pushed ConditionalAccessManager](https://github.com/michaelmsonne/ConditionalAccessManager/compare/dd12f405c5...edfa8c4faa)
 - [michaelmsonne pushed public](https://github.com/michaelmsonne/public/compare/e31c9b5df2...f36ab58300)
-- [michaelmsonne created a branch](https://github.com/michaelmsonne/ConditionalAccessManager/compare/0000000000...779241fd0f)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 GitHub Stats
