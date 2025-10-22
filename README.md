@@ -200,6 +200,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne commented on an issue in SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/11#issuecomment-3431540051)
 - [michaelmsonne opened a pull request in Migrate2GSA](https://github.com/microsoft/Migrate2GSA/pull/19)
 - [michaelmsonne pushed Migrate2GSA](https://github.com/michaelmsonne/Migrate2GSA/compare/7f5ab1f383...94eb61c25c)
 - [michaelmsonne forked michaelmsonne/Migrate2GSA from microsoft/Migrate2GSA](https://github.com/michaelmsonne/Migrate2GSA)
@@ -207,7 +208,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne opened an issue in Check](https://github.com/CyberDrain/Check/issues/86)
 - [michaelmsonne starred michaelmsonne/EntraIDApplicationPolicyManager](https://github.com/michaelmsonne/EntraIDApplicationPolicyManager)
 - [michaelmsonne pushed ConditionalAccessManager](https://github.com/michaelmsonne/ConditionalAccessManager/compare/dd12f405c5...edfa8c4faa)
-- [michaelmsonne pushed public](https://github.com/michaelmsonne/public/compare/e31c9b5df2...f36ab58300)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 GitHub Stats
