@@ -200,7 +200,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne commented on an issue in SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/12#issuecomment-3486515890)
+- [michaelmsonne commented on an issue in SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/12#issuecomment-3486899887)
 - [michaelmsonne starred michaelmsonne/Migrate2GSA](https://github.com/michaelmsonne/Migrate2GSA)
 - [michaelmsonne closed an issue in SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/11)
 - [michaelmsonne pushed SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/d697cc29d1...33412744e7)
@@ -210,7 +210,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne labeled an issue in Check](https://github.com/CyberDrain/Check/issues/86)
 - [michaelmsonne opened an issue in Check](https://github.com/CyberDrain/Check/issues/86)
 - [michaelmsonne starred michaelmsonne/EntraIDApplicationPolicyManager](https://github.com/michaelmsonne/EntraIDApplicationPolicyManager)
-- [michaelmsonne pushed ConditionalAccessManager](https://github.com/michaelmsonne/ConditionalAccessManager/compare/dd12f405c5...edfa8c4faa)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 GitHub Stats
