@@ -248,7 +248,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne commented on an issue in SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/12#issuecomment-3493089915)
+- [michaelmsonne commented on an issue in SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/12#issuecomment-3493428624)
 - [michaelmsonne released 2.1.0.0-dev2 at michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/releases/tag/2.1.0.0-dev2)
 - [michaelmsonne pushed SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/9b3acf86dd...8f0e44bc93)
 - [michaelmsonne deleted](https://github.com/michaelmsonne/maester/compare/57ae020e8c...0000000000)
@@ -256,7 +256,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne created a branch](https://github.com/michaelmsonne/SignToolGUI/compare/0000000000...454b31610c)
 - [michaelmsonne contributed to maester365/maester](https://github.com/maester365/maester/pull/1318)
 - [michaelmsonne pushed maester](https://github.com/michaelmsonne/maester/compare/d8a9125802...57ae020e8c)
-- [michaelmsonne starred michaelmsonne/Migrate2GSA](https://github.com/michaelmsonne/Migrate2GSA)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 GitHub Stats
