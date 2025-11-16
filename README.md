@@ -200,14 +200,12 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne pushed SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/ce5ff62942...15df0c5ec2)
 - [michaelmsonne pushed azure-docs](https://github.com/michaelmsonne/azure-docs/compare/59ee6aada7...aa6934f333)
 - [michaelmsonne commented on an issue in SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/12#issuecomment-3538827243)
 - [michaelmsonne commented on an issue in Check](https://github.com/CyberDrain/Check/issues/86#issuecomment-3532305981)
 - [michaelmsonne opened a pull request in azure-docs](https://github.com/MicrosoftDocs/azure-docs/pull/127868)
-- [michaelmsonne pushed SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/8f0e44bc93...e3f90cc89a)
 - [michaelmsonne released 2.1.0.0-dev2 at michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/releases/tag/2.1.0.0-dev2)
-- [michaelmsonne deleted](https://github.com/michaelmsonne/maester/compare/57ae020e8c...0000000000)
-- [michaelmsonne closed an issue in SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/5)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 GitHub Stats
