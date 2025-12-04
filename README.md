@@ -221,6 +221,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Major updates in Microsoft 365 and Microsoft Intune &lpar;December 2025&rpar;](https://blog.sonnes.cloud/major-updates-in-microsoft-365-and-microsoft-intune-december-2025/)
 - [Global Secure Access – Intelligent Local Access for Private Access](https://blog.sonnes.cloud/global-secure-access-intelligent-local-access-for-private-access/)
 - [The Hidden Microsoft Entra PIM URLs Microsoft Never Documented – Even When ‘Restrict Access to Microsoft Entra Admin Center’ Is Enabled](https://blog.sonnes.cloud/the-hidden-microsoft-entra-pim-urls-microsoft-never-documented-even-when-restrict-access-to-microsoft-entra-admin-center-is-enabled/)
 - [Extending the Migrate2GSA PowerShell Module – Why I added JSON support](https://blog.sonnes.cloud/extending-the-migrate2gsa-powershell-module-why-i-added-json-support/)
@@ -240,7 +241,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Azure Arc – Introducing AACMAToolkit: A New Azure Arc Management Tool](https://blog.sonnes.cloud/azure-arc-introducing-aacmatoolkit-a-new-azure-arc-management-tool/)
 - [Entra ID – Managed Identity Permissions Manager –  Performance Stats and Community Insights](https://blog.sonnes.cloud/entra-id-managed-identity-permissions-manager-performance-stats-and-community-insights/)
 - [Time for a new lab enviroment – Part 1](https://blog.sonnes.cloud/time-for-a-new-lab-enviroment-part-1/)
-- [🚀 A huge thank you — and a little update behind the scenes](https://blog.sonnes.cloud/a-huge-thank-you-and-a-little-update-behind-the-scenes/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
