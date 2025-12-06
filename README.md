@@ -221,6 +221,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Global Secure Access – Guest Access support with the Windows Client &lpar;B2B Guest&rpar;](https://blog.sonnes.cloud/global-secure-access-guest-access-support-with-the-windows-clientb2b-guest/)
 - [Major updates in Microsoft 365 and Microsoft Intune &lpar;December 2025&rpar;](https://blog.sonnes.cloud/major-updates-in-microsoft-365-and-microsoft-intune-december-2025/)
 - [Global Secure Access – Intelligent Local Access for Private Access](https://blog.sonnes.cloud/global-secure-access-intelligent-local-access-for-private-access/)
 - [The Hidden Microsoft Entra PIM URLs Microsoft Never Documented – Even When ‘Restrict Access to Microsoft Entra Admin Center’ Is Enabled](https://blog.sonnes.cloud/the-hidden-microsoft-entra-pim-urls-microsoft-never-documented-even-when-restrict-access-to-microsoft-entra-admin-center-is-enabled/)
@@ -240,7 +241,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Entra ID – Entra Connect – Secure App &amp; Certificate-Based Authentication is here! Plus: I built you a better way to manage it](https://blog.sonnes.cloud/entra-id-entra-connect-secure-app-certificate-based-authentication-is-here-plus-i-built-you-a-better-way-to-manage-it/)
 - [Azure Arc – Introducing AACMAToolkit: A New Azure Arc Management Tool](https://blog.sonnes.cloud/azure-arc-introducing-aacmatoolkit-a-new-azure-arc-management-tool/)
 - [Entra ID – Managed Identity Permissions Manager –  Performance Stats and Community Insights](https://blog.sonnes.cloud/entra-id-managed-identity-permissions-manager-performance-stats-and-community-insights/)
-- [Time for a new lab enviroment – Part 1](https://blog.sonnes.cloud/time-for-a-new-lab-enviroment-part-1/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
