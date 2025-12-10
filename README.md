@@ -248,6 +248,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne opened a pull request in entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/1843)
+- [michaelmsonne pushed entra-docs](https://github.com/michaelmsonne/entra-docs/compare/66ac661030...2b13a05f46)
 - [michaelmsonne pushed MS-DOS](https://github.com/michaelmsonne/MS-DOS/compare/6786030326...cd1af87ec0)
 - [michaelmsonne commented on an issue in SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/12#issuecomment-3568309139)
 - [michaelmsonne labeled an issue in Check](https://github.com/CyberDrain/Check/issues/108)
