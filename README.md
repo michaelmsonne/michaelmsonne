@@ -257,7 +257,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne contributed to MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/pull/127868)
 - [michaelmsonne pushed SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/4d52169512...ae169f234c)
 - [michaelmsonne pushed azure-docs](https://github.com/michaelmsonne/azure-docs/compare/59ee6aada7...aa6934f333)
-- [michaelmsonne commented on an issue in Check](https://github.com/CyberDrain/Check/issues/86#issuecomment-3532305981)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 GitHub Stats
