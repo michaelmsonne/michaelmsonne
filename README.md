@@ -200,15 +200,18 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne closed an issue in SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/12)
+- [michaelmsonne commented on an issue in SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/12#issuecomment-3661738769)
+- [michaelmsonne released 2.1.0.0 at michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/releases/tag/2.1.0.0)
+- [michaelmsonne deleted](https://github.com/michaelmsonne/SignToolGUI/compare/09dad9fcff...0000000000)
+- [michaelmsonne pushed SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/33412744e7...17c8ad26d7)
+- [michaelmsonne contributed to michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/pull/13)
 - [michaelmsonne contributed to MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/1843)
 - [michaelmsonne pushed entra-docs](https://github.com/michaelmsonne/entra-docs/compare/66ac661030...2b13a05f46)
 - [michaelmsonne pushed MS-DOS](https://github.com/michaelmsonne/MS-DOS/compare/6786030326...cd1af87ec0)
-- [michaelmsonne commented on an issue in SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/12#issuecomment-3568309139)
 - [michaelmsonne labeled an issue in Check](https://github.com/CyberDrain/Check/issues/108)
 - [michaelmsonne opened an issue in Check](https://github.com/CyberDrain/Check/issues/108)
 - [michaelmsonne contributed to MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/pull/127868)
-- [michaelmsonne pushed SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/4d52169512...ae169f234c)
-- [michaelmsonne pushed azure-docs](https://github.com/michaelmsonne/azure-docs/compare/59ee6aada7...aa6934f333)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ## 🔥 GitHub Stats
