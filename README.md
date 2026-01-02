@@ -258,12 +258,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed entra-docs](https://github.com/michaelmsonne/entra-docs/compare/66ac661030...2b13a05f46)
 <!-- LATESTACTIVITYGITHUB:END -->
 
-## 🔥 GitHub Stats
-
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelmsonne&show_icons=true&theme=dark&include_all_commits=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=michaelmsonne&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmsonne&theme=dark&layout=compact)
-
 <!--
 **michaelmsonne/michaelmsonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
