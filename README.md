@@ -221,6 +221,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Reflecting on the year 2025: How It Started and What’s Next 🚀](https://blog.sonnes.cloud/reflecting-on-the-year-2025-how-it-started-and-whats-next/)
 - [KB: Veeam Backup Fails to Synology SMB Share – “An unexpected network error occurred – Asynchronous request operation has failed”](https://blog.sonnes.cloud/kb-veeam-backup-fails-to-synology-smb-share-an-unexpected-network-error-occurred-asynchronous-request-operation-has-failed/)
 - [SignToolGUI 2.1.0.0 Released 🎉](https://blog.sonnes.cloud/signtoolgui-2-1-0-0-released/)
 - [New Intune/Autopatch Feature: CVE and KB reporting – Better visibility, smarter patching – General Availability](https://blog.sonnes.cloud/new-intune-autopatch-feature-cve-and-kb-reporting-better-visibility-smarter-patching-general-availability/)
@@ -240,7 +241,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [My First Year as a Microsoft MVP](https://blog.sonnes.cloud/my-first-year-as-a-microsoft-mvp/)
 - [🛠️ Releasing my legacy PowerShell AD Service Account Tool &lpar;Yes, it still works great&rpar;](https://blog.sonnes.cloud/releasing-my-legacy-powershell-ad-service-account-tool-yes-it-still-works-great/)
 - [Inside My Toolkit: Dev Tools, Productivity Apps, and More 🛠️](https://blog.sonnes.cloud/inside-my-toolkit-dev-tools-productivity-apps-and-more/)
-- [Introducing Azure DevOps Backup Tool 1.2.0.0: Update with new features and bug fixes!](https://blog.sonnes.cloud/introducing-azure-devops-backup-tool-1-2-0-0-update-with-new-features-and-bug-fixes/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
