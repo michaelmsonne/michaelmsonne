@@ -256,7 +256,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/compare/33412744e7...17c8ad26d7)
 - [michaelmsonne contributed to michaelmsonne/SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/pull/13)
 - [michaelmsonne contributed to MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/1843)
-- [michaelmsonne pushed entra-docs](https://github.com/michaelmsonne/entra-docs/compare/66ac661030...2b13a05f46)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 <!--
