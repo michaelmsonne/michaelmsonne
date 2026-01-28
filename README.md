@@ -221,6 +221,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Visual Studio Enterprise Partner Benefits – a Heads-Up!](https://blog.sonnes.cloud/visual-studio-enterprise-partner-benefits-a-heads-up/)
 - [A new Community tool is comming to Hyper-V – stay turned!](https://blog.sonnes.cloud/a-new-community-tool-is-comming-to-hyper-v-stay-turned/)
 - [Reflecting on the year 2025: How It Started and What’s Next 🚀](https://blog.sonnes.cloud/reflecting-on-the-year-2025-how-it-started-and-whats-next/)
 - [KB: Veeam Backup Fails to Synology SMB Share – “An unexpected network error occurred – Asynchronous request operation has failed”](https://blog.sonnes.cloud/kb-veeam-backup-fails-to-synology-smb-share-an-unexpected-network-error-occurred-asynchronous-request-operation-has-failed/)
@@ -240,7 +241,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Summer Recap &amp; Time to Reconnect](https://blog.sonnes.cloud/summer-recap-time-to-reconnect/)
 - [Entra ID – Managed Identity Permission Manager: A Community-Driven Recap](https://blog.sonnes.cloud/entra-id-managed-identity-permission-manager-a-community-driven-recap/)
 - [My First Year as a Microsoft MVP](https://blog.sonnes.cloud/my-first-year-as-a-microsoft-mvp/)
-- [🛠️ Releasing my legacy PowerShell AD Service Account Tool &lpar;Yes, it still works great&rpar;](https://blog.sonnes.cloud/releasing-my-legacy-powershell-ad-service-account-tool-yes-it-still-works-great/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
