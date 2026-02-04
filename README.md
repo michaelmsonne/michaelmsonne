@@ -200,6 +200,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne opened a pull request in entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/1880)
+- [michaelmsonne pushed entra-docs](https://github.com/michaelmsonne/entra-docs/compare/5739724ad3...d648ac7d00)
 - [michaelmsonne released 1.1.0.4 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.1.0.4)
 - [michaelmsonne pushed ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/9d13314a34...480d56323b)
 - [michaelmsonne pushed GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/3db8f16c64...30238ffd32)
