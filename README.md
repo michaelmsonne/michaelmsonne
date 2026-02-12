@@ -253,10 +253,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne released 1.1.0.4 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.1.0.4)
 - [michaelmsonne pushed ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/9d13314a34...480d56323b)
 - [michaelmsonne pushed GitHubBackupTool](https://github.com/michaelmsonne/GitHubBackupTool/compare/3db8f16c64...30238ffd32)
-- [michaelmsonne pushed TLD-TABL-Block](https://github.com/michaelmsonne/TLD-TABL-Block/compare/fc2956cf4e...a50eb0b21f)
-- [michaelmsonne deleted](https://github.com/michaelmsonne/TLD-TABL-Block/compare/80a3c6a6c5...0000000000)
-- [michaelmsonne contributed to jkerai1/TLD-TABL-Block](https://github.com/jkerai1/TLD-TABL-Block/pull/7)
-- [michaelmsonne forked michaelmsonne/TLD-TABL-Block from jkerai1/TLD-TABL-Block](https://github.com/michaelmsonne/TLD-TABL-Block)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 <!--
