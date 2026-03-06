@@ -249,7 +249,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 
 <!-- LATESTACTIVITYGITHUB:START -->
 - [michaelmsonne contributed to MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/1880)
-- [michaelmsonne pushed entra-docs](https://github.com/michaelmsonne/entra-docs/compare/5739724ad3...d648ac7d00)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 <!--
