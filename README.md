@@ -221,6 +221,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Introducing HVTools: Your new tool for Hyper-V/Clusters and Azure Local overview](https://blog.sonnes.cloud/introducing-hvtools-your-new-tool-for-hyper-v-clusters-and-azure-local-overview/)
 - [Defender for Endpoint – New feature is out: Live response file library!](https://blog.sonnes.cloud/defender-for-endpoint-new-feature-is-out-live-response-file-library/)
 - [Microsoft Artifact Signing Region Requirement Errors: Root Cause and Fix](https://blog.sonnes.cloud/microsoft-artifact-signing-region-requirement-errors-root-cause-and-fix/)
 - [Visual Studio Enterprise Partner Benefits – a Heads-Up!](https://blog.sonnes.cloud/visual-studio-enterprise-partner-benefits-a-heads-up/)
@@ -240,7 +241,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [What’s next for Visual Studio 2026 &lpar;v18&rpar;!](https://blog.sonnes.cloud/whats-next-for-visual-studio-2026-v18/)
 - [Closing Microsoft Graph Gaps: My Feedback Portal Request Gains Top 3 in Just 4 Days](https://blog.sonnes.cloud/closing-microsoft-graph-gaps-my-feedback-portal-request-gains-top-3-in-just-4-days/)
 - [Entra ID – Bulk User Download – Enhanced Experience](https://blog.sonnes.cloud/entra-id-bulk-user-download-enhanced-experience/)
-- [Summer Recap &amp; Time to Reconnect](https://blog.sonnes.cloud/summer-recap-time-to-reconnect/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
