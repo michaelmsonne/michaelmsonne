@@ -248,7 +248,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne contributed to MicrosoftDocs/entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/1880)
+- [michaelmsonne made this repository public](https://github.com/michaelmsonne/HVTools)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 <!--
