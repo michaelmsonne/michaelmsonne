@@ -173,6 +173,8 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Microsoft Defender’s New Password Protection Experience](https://blog.sonnes.cloud/microsoft-defenders-new-password-protection-experience/)
+- [Introducing the Active Directory Domain Page in Microsoft Defender](https://blog.sonnes.cloud/introducing-the-active-directory-domain-page-in-microsoft-defender/)
 - [The Curious Case of the “Release” Button bug in Defender for Office Quarantine](https://blog.sonnes.cloud/the-curious-case-of-the-release-button-bug-in-defender-for-office-quarantine/)
 - [Microsoft Defender – Nation State Notifications](https://blog.sonnes.cloud/microsoft-defender-nation-state-notifications/)
 - [Introducing HVTools: Your new tool for Hyper-V/Clusters and Azure Local overview](https://blog.sonnes.cloud/introducing-hvtools-your-new-tool-for-hyper-v-clusters-and-azure-local-overview/)
@@ -191,8 +193,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Extending the Migrate2GSA PowerShell Module – Why I added JSON support](https://blog.sonnes.cloud/extending-the-migrate2gsa-powershell-module-why-i-added-json-support/)
 - [Entra ID – Soft-delete &amp; Restore for Conditional Access + New PowerShell Module](https://blog.sonnes.cloud/entra-id-soft-delete-restore-for-conditional-access-new-powershell-module/)
 - [Entra ID – When Ideas Become Features: Reflections on Entra ID App Policies](https://blog.sonnes.cloud/entra-id-when-ideas-become-features-reflections-on-entra-id-app-policies/)
-- [SignTool GUI 2.0.0.0 — Major Update Out Now!](https://blog.sonnes.cloud/signtool-gui-2-0-0-0-major-update-out-now/)
-- [What’s next for Visual Studio 2026 &lpar;v18&rpar;!](https://blog.sonnes.cloud/whats-next-for-visual-studio-2026-v18/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
