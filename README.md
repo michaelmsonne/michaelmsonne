@@ -199,6 +199,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne starred adamgell/cmtraceopen](https://github.com/adamgell/cmtraceopen)
 - [michaelmsonne pushed HVTools](https://github.com/michaelmsonne/HVTools/compare/e92e523637...060293e66a)
 - [michaelmsonne labeled an issue in HVTools](https://github.com/michaelmsonne/HVTools/issues/1)
 - [michaelmsonne opened an issue in HVTools](https://github.com/michaelmsonne/HVTools/issues/1)
