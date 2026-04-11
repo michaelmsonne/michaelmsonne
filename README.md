@@ -204,7 +204,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne labeled an issue in HVTools](https://github.com/michaelmsonne/HVTools/issues/1)
 - [michaelmsonne opened an issue in HVTools](https://github.com/michaelmsonne/HVTools/issues/1)
 - [michaelmsonne pushed michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/0febf10c6d...6dc419e540)
-- [michaelmsonne released 1.0.0.0-alpha1 at michaelmsonne/HVTools](https://github.com/michaelmsonne/HVTools/releases/tag/1.0.0.0-alpha1)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 <!--
