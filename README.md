@@ -1,16 +1,23 @@
 <div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/michaelmsonne/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      <a href="https://blog.sonnes.cloud"><img src="https://img.shields.io/badge/-Blog-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog Badge"/></a>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <a href="https:///sonnes.cloud"><img src="https://img.shields.io/badge/Website-sonnes.cloud-0078D4?style=flat&logo=microsoft-edge&logoColor=white" alt="Website" /></a>
+      <a href="https:///blog.sonnes.cloud"><img src="https://img.shields.io/badge/Website-blog.sonnes.cloud-0078D4?style=flat&logo=microsoft-edge&logoColor=white" alt="Blog" /></a>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=michaelmsonne&style=flat-square&color=blue" alt=""/>
   <a href="https://www.linkedin.com/in/michaelmsonne/"><img alt="Made by" src="https://img.shields.io/static/v1?label=made%20by&message=Michael%20Morten%20Sonne&color=04D361"></a>
+  <a href="https://reddit.com/u/michaelmsonne"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit" /></a>
+  <a href="https://mvp.microsoft.com/en-US/MVP/profile/6ba14b8e-5091-4250-a4c5-c3c25da693f8"><img src="https://img.shields.io/badge/Microsoft%20MVP-Security-FFB900?style=flat&logo=microsoft&logoColor=white" alt="Microsoft MVP" /></a>
+  <a href="https://github.com/michaelmsonne"><img src="https://img.shields.io/badge/GitHub-michaelmsonne-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://blog.sonnes.cloud/newsletter/"><img src="https://img.shields.io/badge/Newsletter-Subscribe-FF6B6B?style=flat" alt="Newsletter"/></a><br>
   <a href="https://www.buymeacoffee.com/sonnes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 117px !important;"></a>
   <h1>
     Hey there, i'm Michael Morten Sonne 👋 
+    <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Identity+%26+Access;Consultant;Security+Guy;Blogger;Zero+Trust;Microsoft+MVP;PowerShell+Enthusiast" alt="Roles" />
+</p>
   </h1>
 </div>
 <div id="header" align="center">
@@ -196,7 +203,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 
-## 🧑‍💻 Latest GitHub activities
+## 🧑‍💻 Latest GitHub activities and Stats
 
 <!-- LATESTACTIVITYGITHUB:START -->
 - [michaelmsonne pushed HVTools](https://github.com/michaelmsonne/HVTools/compare/5fecd6b3d5...7f7f41390b)
@@ -205,6 +212,22 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne opened an issue in HVTools](https://github.com/michaelmsonne/HVTools/issues/1)
 - [michaelmsonne pushed michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/0febf10c6d...6dc419e540)
 <!-- LATESTACTIVITYGITHUB:END -->
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=michaelmsonne&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelmsonne&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmsonne&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
 
 <!--
 **michaelmsonne/michaelmsonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
