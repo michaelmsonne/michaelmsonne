@@ -12,7 +12,9 @@
   <a href="https://mvp.microsoft.com/en-US/MVP/profile/6ba14b8e-5091-4250-a4c5-c3c25da693f8"><img src="https://img.shields.io/badge/Microsoft%20MVP-Security-FFB900?style=flat&logo=microsoft&logoColor=white" alt="Microsoft MVP" /></a>
   <a href="https://github.com/michaelmsonne"><img src="https://img.shields.io/badge/GitHub-michaelmsonne-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://blog.sonnes.cloud/newsletter/"><img src="https://img.shields.io/badge/Newsletter-Subscribe-FF6B6B?style=flat" alt="Newsletter"/></a><br>
-  <a href="https://www.buymeacoffee.com/sonnes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 117px !important;"></a>
+  <a href="https://www.buymeacoffee.com/sonnes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 177px !important;"></a>
+  
+  If you like what I do, I would really appreciate (an optional) donation!
   <h1>
     Hey there, i'm Michael Morten Sonne 👋 
     <p align="center">
