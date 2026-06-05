@@ -162,7 +162,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 <!-- LATESTACTIVITYGITHUB:START -->
 - [michaelmsonne pushed HVTools](https://github.com/michaelmsonne/HVTools/compare/6cff8b3963...7469284783)
 - [michaelmsonne pushed michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/3e6c8f5aa0...562cb0bf0e)
-- [michaelmsonne commented on an issue in HVTools](https://github.com/michaelmsonne/HVTools/issues/2#issuecomment-4389341468)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ---
