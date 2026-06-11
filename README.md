@@ -181,6 +181,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Managed Identity Permission Manager v1.1.0.5 is here!](https://blog.sonnes.cloud/managed-identity-permission-manager-v1-1-0-5-is-here/)
 - [Your RDP &lpar;Remote Desktop&rpar; files are now untrusted after the April 2026 Windows Patch – Sign them with PowerShell](https://blog.sonnes.cloud/your-rdp-remote-desktop-files-are-now-untrusted-after-the-april-2026-windows-patch-sign-them-with-powershell/)
 - [HVTools – first Community response is insane!](https://blog.sonnes.cloud/hvtools-first-community-response-is-insane/)
 - [Microsoft Defender’s New Password Protection Experience](https://blog.sonnes.cloud/microsoft-defenders-new-password-protection-experience/)
@@ -200,7 +201,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Major updates in Microsoft 365 and Microsoft Intune &lpar;December 2025&rpar;](https://blog.sonnes.cloud/major-updates-in-microsoft-365-and-microsoft-intune-december-2025/)
 - [Global Secure Access – Intelligent Local Access for Private Access](https://blog.sonnes.cloud/global-secure-access-intelligent-local-access-for-private-access/)
 - [The Hidden Microsoft Entra PIM URLs Microsoft Never Documented – Even When ‘Restrict Access to Microsoft Entra Admin Center’ Is Enabled](https://blog.sonnes.cloud/the-hidden-microsoft-entra-pim-urls-microsoft-never-documented-even-when-restrict-access-to-microsoft-entra-admin-center-is-enabled/)
-- [Extending the Migrate2GSA PowerShell Module – Why I added JSON support](https://blog.sonnes.cloud/extending-the-migrate2gsa-powershell-module-why-i-added-json-support/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
