@@ -212,7 +212,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne opened a pull request in entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/2009)
 - [michaelmsonne released 1.1.0.5 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.1.0.5)
 - [michaelmsonne pushed ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/480d56323b...15808bfdf1)
-- [michaelmsonne pushed HVTools](https://github.com/michaelmsonne/HVTools/compare/6cff8b3963...7469284783)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ---
