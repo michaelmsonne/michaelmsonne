@@ -131,11 +131,12 @@ __*(Some of the last badges from credly.com - there is more than this (100+)...)
 [![Microsoft Applied Skills: Administer Active Directory Domain Services](https://images.credly.com/size/80x80/images/d40a5904-651e-44d4-aed9-74618a58a59d/converted20250612-28-xd96g1.png)](https://www.credly.com/users/michael-morten-sonne/badges)
 <!--END_SECTION:badges-->
 
-## 📜 Member of the Microsoft Customer Connection Program Community
+## 📜 Member of the Microsoft Security Advisors Program
 
-See more at [www.aka.ms/JoinCCP](www.aka.ms/JoinCCP)
+See more and signup at [https://aka.ms/JoinCommunity](https://aka.ms/JoinCommunity)
 
-By signing up for one of Microsof´s ongoing communities you will be added to the program's Teams site(s), where Microsoft host NDA Roadmap Calls, Feedback Sessions, Surveys, Private Previews and more. 
+By signing up for one of Microsof´s ongoing communities you will be added to the program's Teams site(s), where Microsoft host NDA Roadmap Calls, Feedback Sessions, Surveys, Private Previews and much more.
+A mutually beneficial program where members have engagement opportunities and access to exclusive member information and other benefits with participating Microsoft product engineering teams (Security Advisors). 
 
 **N.B: Membership requirements**:
 - All participants must have an existing **NDA** with Microsoft. If you do not have an existing **NDA with Microsoft**, please work with your Microsoft Account Team or point-of-contact to issue one.
