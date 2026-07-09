@@ -182,6 +182,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [How the Microsoft Baseline Security Mode Left Ghost Policies in Entra ID](https://blog.sonnes.cloud/how-the-microsoft-baseline-security-mode-left-ghost-policies-in-entra-id/)
 - [Microsoft Entra Connect Sync – Passwordless Authentication – now supported!](https://blog.sonnes.cloud/microsoft-entra-connect-sync-passwordless-authentication-now-supported/)
 - [Managed Identity Permission Manager v1.1.0.5 is here!](https://blog.sonnes.cloud/managed-identity-permission-manager-v1-1-0-5-is-here/)
 - [Your RDP &lpar;Remote Desktop&rpar; files are now untrusted after the April 2026 Windows Patch – Sign them with PowerShell](https://blog.sonnes.cloud/your-rdp-remote-desktop-files-are-now-untrusted-after-the-april-2026-windows-patch-sign-them-with-powershell/)
@@ -201,7 +202,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [New Intune/Autopatch Feature: CVE and KB reporting – Better visibility, smarter patching – General Availability](https://blog.sonnes.cloud/new-intune-autopatch-feature-cve-and-kb-reporting-better-visibility-smarter-patching-general-availability/)
 - [Global Secure Access – Guest Access support with the Windows Client &lpar;B2B Guest&rpar;](https://blog.sonnes.cloud/global-secure-access-guest-access-support-with-the-windows-clientb2b-guest/)
 - [Major updates in Microsoft 365 and Microsoft Intune &lpar;December 2025&rpar;](https://blog.sonnes.cloud/major-updates-in-microsoft-365-and-microsoft-intune-december-2025/)
-- [Global Secure Access – Intelligent Local Access for Private Access](https://blog.sonnes.cloud/global-secure-access-intelligent-local-access-for-private-access/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
