@@ -217,7 +217,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne forked michaelmsonne/CIPP from KelvinTegelaar/CIPP](https://github.com/michaelmsonne/CIPP)
 - [michaelmsonne pushed entra-docs](https://github.com/michaelmsonne/entra-docs/compare/2e783a26f7...88a776c73a)
 - [michaelmsonne opened a pull request in entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/2009)
-- [michaelmsonne released 1.1.0.5 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.1.0.5)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ---
