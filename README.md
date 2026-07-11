@@ -209,8 +209,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities and Stats
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [michaelmsonne pushed AzUrlShortener](https://github.com/michaelmsonne/AzUrlShortener/compare/f5dcf6547c...f3d2d13f09)
-- [michaelmsonne forked michaelmsonne/AzUrlShortener from microsoft/AzUrlShortener](https://github.com/michaelmsonne/AzUrlShortener)
+- [michaelmsonne forked michaelmsonne/AzUrlShortener from fboucher/AzUrlShortener](https://github.com/michaelmsonne/AzUrlShortener)
 - [michaelmsonne contributed to KelvinTegelaar/CIPP](https://github.com/KelvinTegelaar/CIPP/pull/6213)
 - [michaelmsonne pushed michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/7d9b64423c...f4a406a518)
 - [michaelmsonne pushed CIPP](https://github.com/michaelmsonne/CIPP/compare/095fd9776d...40d3ee8ec7)
