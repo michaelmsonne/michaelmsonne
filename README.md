@@ -209,6 +209,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities and Stats
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne opened an issue in AzUrlShortener](https://github.com/fboucher/AzUrlShortener/issues/2)
 - [michaelmsonne opened a pull request in AzUrlShortener](https://github.com/fboucher/AzUrlShortener/pull/1)
 - [michaelmsonne pushed AzUrlShortener](https://github.com/michaelmsonne/AzUrlShortener/compare/f5dcf6547c...29002d684a)
 - [michaelmsonne forked michaelmsonne/AzUrlShortener from fboucher/AzUrlShortener](https://github.com/michaelmsonne/AzUrlShortener)
