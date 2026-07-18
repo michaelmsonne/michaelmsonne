@@ -218,7 +218,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed CIPP](https://github.com/michaelmsonne/CIPP/compare/095fd9776d...40d3ee8ec7)
 - [michaelmsonne opened a pull request in CIPP](https://github.com/KelvinTegelaar/CIPP/pull/6212)
 - [michaelmsonne forked michaelmsonne/CIPP from KelvinTegelaar/CIPP](https://github.com/michaelmsonne/CIPP)
-- [michaelmsonne pushed entra-docs](https://github.com/michaelmsonne/entra-docs/compare/2e783a26f7...88a776c73a)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ---
