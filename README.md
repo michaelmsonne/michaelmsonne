@@ -214,7 +214,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne opened a pull request in AzUrlShortener](https://github.com/fboucher/AzUrlShortener/pull/1)
 - [michaelmsonne forked michaelmsonne/AzUrlShortener from fboucher/AzUrlShortener](https://github.com/michaelmsonne/AzUrlShortener)
 - [michaelmsonne contributed to KelvinTegelaar/CIPP](https://github.com/KelvinTegelaar/CIPP/pull/6213)
-- [michaelmsonne opened a pull request in CIPP](https://github.com/KelvinTegelaar/CIPP/pull/6212)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ---
