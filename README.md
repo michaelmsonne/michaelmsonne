@@ -216,7 +216,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne pushed maester](https://github.com/michaelmsonne/maester/compare/8b83d40dd8...055f211025)
 - [michaelmsonne opened an issue in AzUrlShortener](https://github.com/fboucher/AzUrlShortener/issues/2)
 - [michaelmsonne opened a pull request in AzUrlShortener](https://github.com/fboucher/AzUrlShortener/pull/1)
-- [michaelmsonne forked michaelmsonne/AzUrlShortener from fboucher/AzUrlShortener](https://github.com/michaelmsonne/AzUrlShortener)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ---
