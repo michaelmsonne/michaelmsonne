@@ -209,6 +209,8 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 ## 🧑‍💻 Latest GitHub activities and Stats
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [michaelmsonne opened a pull request in AzUrlShortener](https://github.com/fboucher/AzUrlShortener/pull/21)
+- [michaelmsonne created a branch](https://github.com/michaelmsonne/AzUrlShortener/compare/0000000000...3b791dd031)
 - [michaelmsonne commented on an issue in SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/16#issuecomment-5267385193)
 - [michaelmsonne pushed HVTools](https://github.com/michaelmsonne/HVTools/compare/7469284783...c887fe825b)
 - [michaelmsonne pushed AzUrlShortener](https://github.com/michaelmsonne/AzUrlShortener/compare/ea0cff3aed...618980323e)
