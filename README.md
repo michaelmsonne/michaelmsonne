@@ -35,6 +35,8 @@
 - [aka.community](https://aka.community)
 - [hvtools.app](https://hvtools.app)
 - [sonnes.cloud](https://sonnes.cloud) (like my blog at [blog.sonnes.cloud](https://blog.sonnes.cloud))
+- [michaelmortensonne.dk](https://michaelmortensonne.dk)
+- [sonneslab.dk](https://sonneslab.dk)
 - more to come...
 
 ## 😎 A little bit about me
