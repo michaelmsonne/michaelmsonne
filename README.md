@@ -30,6 +30,13 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/michaelmsonne?label=Follow&style=social)](https://github.com/michaelmsonne/?tab=follow)
 
+## 🌐 Domains I own and manage
+
+- [aka.community](https://aka.community)
+- [hvtools.app](https://hvtools.app)
+- [sonnes.cloud](https://sonnes.cloud) (like my blog at [blog.sonnes.cloud](https://blog.sonnes.cloud))
+- more to come...
+
 ## 😎 A little bit about me
 
 - 🤓 Microsoft MVP Security ('Defender XDR' and 'Identity and Access') - You can see my Microsoft MVP Profile [here](https://mvp.microsoft.com/en-US/mvp/profile/b6a5bd91-5ebd-4c84-8965-023a95273093?wt.mc_id=MVP_353010)
