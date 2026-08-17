@@ -37,7 +37,7 @@
 - [sonnes.cloud](https://sonnes.cloud) (like my blog at [blog.sonnes.cloud](https://blog.sonnes.cloud))
 - [michaelmortensonne.dk](https://michaelmortensonne.dk)
 - [sonneslab.dk](https://sonneslab.dk)
-- more to come...
+- more to come... and privates too...
 
 ## 😎 A little bit about me
 
