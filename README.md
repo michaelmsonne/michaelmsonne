@@ -189,6 +189,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Time for a new lab environment – Part 2](https://blog.sonnes.cloud/time-for-a-new-lab-environment-part-2/)
 - [Entra ID Protection – User Risk with Unified Identity Signals from Defender is here!](https://blog.sonnes.cloud/entra-id-protection-user-risk-with-unified-identity-signals-from-defender-is-here/)
 - [How the Microsoft Baseline Security Mode Left Ghost Policies in Entra ID](https://blog.sonnes.cloud/how-the-microsoft-baseline-security-mode-left-ghost-policies-in-entra-id/)
 - [Microsoft Entra Connect Sync – Passwordless Authentication – now supported!](https://blog.sonnes.cloud/microsoft-entra-connect-sync-passwordless-authentication-now-supported/)
@@ -208,7 +209,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [KB: Veeam Backup Fails to Synology SMB Share – “An unexpected network error occurred – Asynchronous request operation has failed”](https://blog.sonnes.cloud/kb-veeam-backup-fails-to-synology-smb-share-an-unexpected-network-error-occurred-asynchronous-request-operation-has-failed/)
 - [SignToolGUI 2.1.0.0 Released 🎉](https://blog.sonnes.cloud/signtoolgui-2-1-0-0-released/)
 - [New Intune/Autopatch Feature: CVE and KB reporting – Better visibility, smarter patching – General Availability](https://blog.sonnes.cloud/new-intune-autopatch-feature-cve-and-kb-reporting-better-visibility-smarter-patching-general-availability/)
-- [Global Secure Access – Guest Access support with the Windows Client &lpar;B2B Guest&rpar;](https://blog.sonnes.cloud/global-secure-access-guest-access-support-with-the-windows-clientb2b-guest/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
