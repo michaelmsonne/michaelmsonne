@@ -225,8 +225,6 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 - [michaelmsonne commented on an issue in SignToolGUI](https://github.com/michaelmsonne/SignToolGUI/issues/16#issuecomment-5267385193)
 - [michaelmsonne pushed HVTools](https://github.com/michaelmsonne/HVTools/compare/7469284783...c887fe825b)
 - [michaelmsonne pushed AzUrlShortener](https://github.com/michaelmsonne/AzUrlShortener/compare/ea0cff3aed...618980323e)
-- [michaelmsonne contributed to maester365/maester](https://github.com/maester365/maester/pull/2043)
-- [michaelmsonne pushed maester](https://github.com/michaelmsonne/maester/compare/8b83d40dd8...055f211025)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 ---
