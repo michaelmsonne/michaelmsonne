@@ -191,6 +191,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Missing Service Principals in Entra ID: Why Conditional Access, App Protection and Global Secure Access will fail + more fun](https://blog.sonnes.cloud/missing-service-principals-in-entra-id-why-conditional-access-app-protection-and-global-secure-access-will-fail-more-fun/)
 - [Global Secure Access – Now with Windows Update support!](https://blog.sonnes.cloud/global-secure-access-now-with-windows-update-support/)
 - [Time for a new lab environment – Part 2](https://blog.sonnes.cloud/time-for-a-new-lab-environment-part-2/)
 - [Entra ID Protection – User Risk with Unified Identity Signals from Defender is here!](https://blog.sonnes.cloud/entra-id-protection-user-risk-with-unified-identity-signals-from-defender-is-here/)
@@ -210,7 +211,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [A new Community tool is comming to Hyper-V – stay turned!](https://blog.sonnes.cloud/a-new-community-tool-is-comming-to-hyper-v-stay-turned/)
 - [Reflecting on the year 2025: How It Started and What’s Next 🚀](https://blog.sonnes.cloud/reflecting-on-the-year-2025-how-it-started-and-whats-next/)
 - [KB: Veeam Backup Fails to Synology SMB Share – “An unexpected network error occurred – Asynchronous request operation has failed”](https://blog.sonnes.cloud/kb-veeam-backup-fails-to-synology-smb-share-an-unexpected-network-error-occurred-asynchronous-request-operation-has-failed/)
-- [SignToolGUI 2.1.0.0 Released 🎉](https://blog.sonnes.cloud/signtoolgui-2-1-0-0-released/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
