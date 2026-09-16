@@ -219,7 +219,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 
 <!-- LATESTACTIVITYGITHUB:START -->
 - [michaelmsonne released 1.1.0.6 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.1.0.6)
-- [michaelmsonne pushed ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/9ae0cac08c...b4aa67db5a)
+- [michaelmsonne pushed ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/165bbef9fa...9ae0cac08c)
 - [michaelmsonne opened a pull request in entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/2112)
 - [michaelmsonne pushed entra-docs](https://github.com/michaelmsonne/entra-docs/compare/45746d033b...ff53c9a4fb)
 - [michaelmsonne contributed to fboucher/AzUrlShortener](https://github.com/fboucher/AzUrlShortener/pull/21)
