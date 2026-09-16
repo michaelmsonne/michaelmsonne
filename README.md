@@ -219,7 +219,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 
 <!-- LATESTACTIVITYGITHUB:START -->
 - [michaelmsonne opened a pull request in entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/2112)
-- [michaelmsonne pushed entra-docs](https://github.com/michaelmsonne/entra-docs/compare/45746d033b...b22120791d)
+- [michaelmsonne pushed entra-docs](https://github.com/michaelmsonne/entra-docs/compare/45746d033b...ff53c9a4fb)
 - [michaelmsonne contributed to fboucher/AzUrlShortener](https://github.com/fboucher/AzUrlShortener/pull/21)
 - [michaelmsonne pushed public](https://github.com/michaelmsonne/public/compare/b6a1275170...d756bce5b8)
 - [michaelmsonne pushed michaelmsonne](https://github.com/michaelmsonne/michaelmsonne/compare/f117d742ab...3682f9c5b3)
