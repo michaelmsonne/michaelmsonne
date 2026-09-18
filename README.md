@@ -172,7 +172,7 @@ Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
 <!-- LATESTACTIVITYGITHUB:START -->
 - [michaelmsonne closed an issue in ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/20)
 - [michaelmsonne commented on an issue in ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/issues/20#issuecomment-5721827716)
-- [michaelmsonne pushed ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/2a4a5f6e81...e1635481c6)
+- [michaelmsonne pushed ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/compare/da8b33b50f...2a4a5f6e81)
 - [michaelmsonne released 1.1.0.6 at michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager/releases/tag/1.1.0.6)
 - [michaelmsonne opened a pull request in entra-docs](https://github.com/MicrosoftDocs/entra-docs/pull/2112)
 - [michaelmsonne pushed entra-docs](https://github.com/michaelmsonne/entra-docs/compare/45746d033b...ff53c9a4fb)
