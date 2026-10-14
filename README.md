@@ -87,6 +87,7 @@ Do you want to get in touch? Feel free connect on my socials! 👍🏻🤝
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/michael-morten-sonne/badges?sort=-state_updated_at&page=1#credly) 
 __*(Some of the last badges from credly.com - there is more than this (100+)...)*__
 <!--START_SECTION:badges-->
+[![Microsoft Security Advisors Program – Level 5](https://images.credly.com/size/80x80/images/aab3312f-e660-4513-b59a-07c3026a3f65/blob)](https://www.credly.com/badges/64f2ef59-3954-4388-9057-053124e711a3)
 [![Microsoft Global Hackathon 2026](https://images.credly.com/size/80x80/images/8fde2d66-40cc-4b9f-902f-7db8334b87e2/blob)](https://www.credly.com/badges/ed0aebd1-c52f-45d7-a9a7-f99de72a7870)
 [![Microsoft Security Advisors Program – Level 4](https://images.credly.com/size/80x80/images/110a1387-f98f-42cd-83d8-ab42798ad7bf/blob)](https://www.credly.com/badges/86129a72-3885-4b0e-b942-78825aaf2387)
 [![2026-2027 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/80x80/images/c4da2c74-dd74-4a97-a433-d8c21f06ca65/blob)](https://www.credly.com/badges/74e53677-887c-40af-a150-38228f4ecd5a)
@@ -182,7 +183,6 @@ __*(Some of the last badges from credly.com - there is more than this (100+)...)
 [![M365 Defender Influencer](https://images.credly.com/size/80x80/images/c89edc19-cb32-41d2-8ddf-25dddc1518d3/image.png)](https://www.credly.com/badges/4032f762-ec60-420b-8b98-1b1cbb9709be)
 [![Microsoft Entra Community Champion 2023](https://images.credly.com/size/80x80/images/265a75b6-fe06-4168-9bea-8f0d7c70fbb3/image.png)](https://www.credly.com/badges/d8c93d90-aa06-4d5b-a8e5-859641860d2b)
 [![Microsoft Management Community Influencer](https://images.credly.com/size/80x80/images/d74766a0-f99c-44c3-89fa-499156e1853d/image.png)](https://www.credly.com/badges/24b5e73e-a785-4722-9bcd-4ecfb77ed1d2)
-[![Cloud Security Product Champion](https://images.credly.com/size/80x80/images/7941cf3f-4295-4553-a57f-f0abf155d24e/image.png)](https://www.credly.com/badges/fbc7bc45-f6fd-4e32-b3de-d58af1996c69)
 [![Microsoft Applied Skills: Get started with identities and access using Microsoft Entra](https://images.credly.com/size/80x80/images/224fa7b5-791f-4e03-96a4-0c9951c39733/converted20250915-32-gkgsmm.png)](https://www.credly.com/users/michael-morten-sonne/badges)
 [![Microsoft Applied Skills: Deploy and manage Microsoft Azure Arc–enabled servers](https://images.credly.com/size/80x80/images/4546896d-15e4-40eb-9454-f141d797e163/converted20250612-27-d8abuy.png)](https://www.credly.com/users/michael-morten-sonne/badges)
 [![Microsoft Applied Skills: Administer Active Directory Domain Services](https://images.credly.com/size/80x80/images/d40a5904-651e-44d4-aed9-74618a58a59d/converted20250612-28-xd96g1.png)](https://www.credly.com/users/michael-morten-sonne/badges)
