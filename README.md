@@ -191,6 +191,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Big change coming: Sonne´s Cloud is moving to a static website](https://blog.sonnes.cloud/big-change-coming-sonnes-cloud-is-moving-to-a-static-website/)
 - [Global Secure Access – Multiple Traffic Forwarding profiles for Private Access is finally here!](https://blog.sonnes.cloud/global-secure-access-multiple-traffic-forwarding-profiles-for-private-access-is-finally-here/)
 - [Microsoft Entra Connect Sync – Passwordless Authentication is now GA, plus the new Entra Connect Migration Tool is here! &lpar;v2.6.91.0&rpar;](https://blog.sonnes.cloud/microsoft-entra-connect-sync-passwordless-authentication-is-now-ga-plus-the-new-entra-connect-migration-tool-is-here-v2-6-91-0/)
 - [Missing Service Principals in Entra ID: Why Conditional Access, App Protection and Global Secure Access will fail + more fun](https://blog.sonnes.cloud/missing-service-principals-in-entra-id-why-conditional-access-app-protection-and-global-secure-access-will-fail-more-fun/)
@@ -210,7 +211,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Defender for Endpoint – New feature is out: Live response file library!](https://blog.sonnes.cloud/defender-for-endpoint-new-feature-is-out-live-response-file-library/)
 - [Microsoft Artifact Signing Region Requirement Errors: Root Cause and Fix](https://blog.sonnes.cloud/microsoft-artifact-signing-region-requirement-errors-root-cause-and-fix/)
 - [Visual Studio Enterprise Partner Benefits – a Heads-Up!](https://blog.sonnes.cloud/visual-studio-enterprise-partner-benefits-a-heads-up/)
-- [A new Community tool is comming to Hyper-V – stay turned!](https://blog.sonnes.cloud/a-new-community-tool-is-comming-to-hyper-v-stay-turned/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
