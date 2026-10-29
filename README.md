@@ -239,6 +239,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [My move from WordPress to Git and Markdown &lpar;Hugo, Blowfish and Cloudflare&rpar;](https://blog.sonnes.cloud/my-move-from-wordpress-to-git-and-md/)
 - [Disclaimer](https://blog.sonnes.cloud/disclaimer/)
 - [Privacy Policy](https://blog.sonnes.cloud/privacy-policy/)
 - [Global Secure Access - Multiple Traffic Forwarding profiles for Private Access is finally here!](https://blog.sonnes.cloud/global-secure-access-multiple-traffic-forwarding-profiles-for-private-access-is-finally-here/)
@@ -268,7 +269,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Global Secure Access - Guest Access support with the Windows Client &lpar;B2B Guest&rpar;](https://blog.sonnes.cloud/global-secure-access-guest-access-support-with-the-windows-clientb2b-guest/)
 - [Major updates in Microsoft 365 and Microsoft Intune &lpar;December 2025&rpar;](https://blog.sonnes.cloud/major-updates-in-microsoft-365-and-microsoft-intune-december-2025/)
 - [Global Secure Access - Intelligent Local Access for Private Access](https://blog.sonnes.cloud/global-secure-access-intelligent-local-access-for-private-access/)
-- [The Hidden Microsoft Entra PIM URLs Microsoft Never Documented – Even When ‘Restrict Access to Microsoft Entra Admin Center’ Is Enabled](https://blog.sonnes.cloud/the-hidden-microsoft-entra-pim-urls-microsoft-never-documented-even-when-restrict-access-to-microsoft-entra-admin-center-is-enabled/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
