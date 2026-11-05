@@ -191,6 +191,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [GitHub Backup Tool - update 1.4.0.0 is out](https://blog.sonnes.cloud/github-backup-tool-update-1-4-1-0-is-out/)
 - [My move from WordPress to Git and Markdown &lpar;Hugo, Blowfish and Cloudflare&rpar;](https://blog.sonnes.cloud/my-move-from-wordpress-to-git-and-md/)
 - [Disclaimer](https://blog.sonnes.cloud/disclaimer/)
 - [Privacy Policy](https://blog.sonnes.cloud/privacy-policy/)
@@ -220,7 +221,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [New Intune/Autopatch Feature: CVE and KB reporting - Better visibility, smarter patching - General Availability](https://blog.sonnes.cloud/new-intune-autopatch-feature-cve-and-kb-reporting-better-visibility-smarter-patching-general-availability/)
 - [Global Secure Access - Guest Access support with the Windows Client &lpar;B2B Guest&rpar;](https://blog.sonnes.cloud/global-secure-access-guest-access-support-with-the-windows-clientb2b-guest/)
 - [Major updates in Microsoft 365 and Microsoft Intune &lpar;December 2025&rpar;](https://blog.sonnes.cloud/major-updates-in-microsoft-365-and-microsoft-intune-december-2025/)
-- [Global Secure Access - Intelligent Local Access for Private Access](https://blog.sonnes.cloud/global-secure-access-intelligent-local-access-for-private-access/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
