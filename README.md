@@ -239,6 +239,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Entra Privilege Identity Management &lpar;PIM&rpar; - Role activation and more now possible at MyAccess](https://blog.sonnes.cloud/entra-id-pim-in-myaccess-overview/)
 - [GitHub Backup Tool - update 1.4.0.1 is out](https://blog.sonnes.cloud/github-backup-tool-update-1-4-0-1-is-out/)
 - [Entra ID - PIM for App roles is here!](https://blog.sonnes.cloud/entra-id-pim-for-app-roles/)
 - [GSAClientDiagnosticsToolkit v1.0.1 is here: small tweaks, new health checks and a few fixes](https://blog.sonnes.cloud/global-secure-access-client-diagnostics-toolkit-1-0-1-is-here/)
@@ -268,7 +269,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Visual Studio Enterprise Partner Benefits – a Heads-Up!](https://blog.sonnes.cloud/visual-studio-enterprise-partner-benefits-a-heads-up/)
 - [A new Community tool is comming to Hyper-V - stay turned!](https://blog.sonnes.cloud/a-new-community-tool-is-comming-to-hyper-v-stay-turned/)
 - [Reflecting on the year 2025: How It Started and What’s Next 🚀](https://blog.sonnes.cloud/reflecting-on-the-year-2025-how-it-started-and-whats-next/)
-- [KB: Veeam Backup Fails to Synology SMB Share - “An unexpected network error occurred - Asynchronous request operation has failed”](https://blog.sonnes.cloud/kb-veeam-backup-fails-to-synology-smb-share-an-unexpected-network-error-occurred-asynchronous-request-operation-has-failed/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
