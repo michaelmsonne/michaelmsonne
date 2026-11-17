@@ -239,6 +239,7 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 ## 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Entra ID - PIM for App roles is here!](https://blog.sonnes.cloud/entra-id-pim-for-app-roles/)
 - [GSAClientDiagnosticsToolkit v1.0.1 is here: small tweaks, new health checks and a few fixes](https://blog.sonnes.cloud/global-secure-access-client-diagnostics-toolkit-1-0-1-is-here/)
 - [GSAClientDiagnosticsToolkit is here: a PowerShell module to find out why Global Secure Access isn&#39;t working on your device](https://blog.sonnes.cloud/global-secure-access-client-diagnostics-toolkit-is-here/)
 - [GitHub Backup Tool - update 1.4.0.0 is out](https://blog.sonnes.cloud/github-backup-tool-update-1-4-1-0-is-out/)
@@ -268,7 +269,6 @@ The Microsoft MVP Award is an annual recognition given to exceptional, independe
 - [Reflecting on the year 2025: How It Started and What’s Next 🚀](https://blog.sonnes.cloud/reflecting-on-the-year-2025-how-it-started-and-whats-next/)
 - [KB: Veeam Backup Fails to Synology SMB Share - “An unexpected network error occurred - Asynchronous request operation has failed”](https://blog.sonnes.cloud/kb-veeam-backup-fails-to-synology-smb-share-an-unexpected-network-error-occurred-asynchronous-request-operation-has-failed/)
 - [SignToolGUI 2.1.0.0 Released 🎉](https://blog.sonnes.cloud/signtoolgui-2-1-0-0-released/)
-- [New Intune/Autopatch Feature: CVE and KB reporting - Better visibility, smarter patching - General Availability](https://blog.sonnes.cloud/new-intune-autopatch-feature-cve-and-kb-reporting-better-visibility-smarter-patching-general-availability/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 Try to start up a [blog](https://blog.sonnes.cloud/) - check it out!...
